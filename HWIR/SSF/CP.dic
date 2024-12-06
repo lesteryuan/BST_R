@@ -1,0 +1,142 @@
+141,,,,,,,,,
+Code,Dimensions,DataType,Min,Max,Units,Description,Dim1,Dim2,Dim3
+ChemActBioNumProd,1,Integer,,,,Number of products,NumChem,,
+ChemActBioProdCASID,2,String,,,,Product CASID,NumChem,ChemActBioNumProd,
+ChemActBioProdName,2,String,,,,Product Name,NumChem,ChemActBioNumProd,
+ChemActBioProdYield,2,Float,0,5,moles/moles,Product Yeild Coefficient,NumChem,ChemActBioNumProd,
+ChemActBioRate,1,Float,0,2,1/day,Activated Biodegradation,NumChem,,
+ChemADiff,1,Float,0,1,cm^2/s,Air Diffusion Coefficient,NumChem,,
+ChemAerBioNumProd,1,Integer,,,,Number of products,NumChem,,
+ChemAerBioProdCASID,2,String,,,,Product CASID,NumChem,ChemAerBioNumProd,
+ChemAerBioProdName,2,String,,,,Product Name,NumChem,ChemAerBioNumProd,
+ChemAerBioProdYield,2,Float,0,2,moles/moles,Product Yeild Coefficient,NumChem,ChemAerBioNumProd,
+ChemAerBioRate,1,Float,0,42.5,1/day,Aerobic Biodegradation rate,NumChem,,
+ChemAnaBioNumProd,1,Integer,,,,Number of products,NumChem,,
+ChemAnaBioProdCASID,2,String,,,,Product CASID,NumChem,ChemAnaBioNumProd,
+ChemAnaBioProdName,2,String,,,,Product Name,NumChem,ChemAnaBioNumProd,
+ChemAnaBioProdYield,2,Float,0,2,moles/moles,Product Yeild Coefficient,NumChem,ChemAnaBioNumProd
+ChemAnaBioRate,1,Float,0,2,1/day,Anaerobic Biodegradation,NumChem,
+ChemAnaRedNumProd,1,Integer,,,,Number of products,NumChem,
+ChemAnaRedProdCASID,2,String,,,,Product CASID,NumChem,ChemAnaRedNumProd
+ChemAnaRedProdName,2,String,,,,Product Name,NumChem,ChemAnaRedNumProd
+ChemAnaRedProdYield,2,Float,0,2,moles/moles,Product Yeild Coefficient,NumChem,ChemAnaRedNumProd
+ChemAnaRedRate,1,Float,0,2,1/day,Anaerobic Reduction,NumChem,
+ChemaqmpBCFm,1,float,0,1000000000,L/kg plant tissue,aquatic macrophytes bioconcentration factor (measured),NumChem,
+ChemBa_beef,1,float,0,1,d/g,beef biotransfer factor (dioxins; Hg; metals; special),NumChem,
+ChemBa_milk,1,float,0,1,d/g,milk biotransfer factor (dioxins; Hg; metals; special),NumChem,
+ChemBa_water,1,float,1,1,d/g,biotransfer factor for dissolved contaminant in surface water,NumChem,
+ChemBAFbirds_sm,1,Float,0,10000,unitless,bioaccumulation factor in  small birds (based on tissue/soil ratio),NumChem,
+ChemBAFherbiverts,1,Float,0,10000,unitless,bioaccumulation factor in larger herbivorous vertebrates (based on tissue/soil ratio),NumChem,
+ChemBAFherp_sm,1,Float,0,10000,unitless,bioaccumulation factor in  small herps (based on tissue/soil ratio),NumChem,
+ChemBAFinvert,1,Float,0,10000,unitless,bioaccumulation factor in invertebrates (based on tissue/soil ratio),NumChem,
+ChemBAFmammals_sm,1,Float,0,10000,unitless,bioaccumulation factor in small mammals (based on tissue/soil ratio),NumChem,
+ChemBAFomniverts,1,Float,0,10000,unitless,bioaccumulation factor in larger ominivorous vertebrates (based on tissue/soil ratio),NumChem
+ChemBAFworms,1,Float,0,10000,unitless,bioaccumulation factor in earthworms (based on tissue/soil ratio),NumChem
+ChembenthffBAFm,1,float,0,1000000000,L/kg benthos,benthic filter feeders bioaccumulation factor (measured),NumChem
+ChemBM,1,float,0,100000,mg/kg-d,Factor used in place of RfD when calculating HQ in breast milk,NumChem
+ChemBr_exfruit,1,float,0,10,(ug/g DW plant)/(ug/g soil),soil-to-plant bioconcentration factor (Hg; metals; special),NumChem
+ChemBr_exveg,1,float,0,10,(ug/g DW plant)/(ug/g soil),soil-to-plant bioconcentration factor (Hg; metals; special),NumChem
+ChemBr_forage,1,float,0,10,(ug/g DW plant)/(ug/g soil),soil-to-plant bioconcentration factor (Hg; metals; special),NumChem
+ChemBr_grain,1,float,0,10,(ug/g DW plant)/(ug/g soil),soil-to-plant bioconcentration factor (Hg; metals; special),NumChem
+ChemBr_profruit,1,float,0,10,(ug/g DW plant)/(ug/g soil),soil-to-plant bioconcentration factor (Hg; metals; special),NumChem
+ChemBr_proveg,1,float,0,10,(ug/g DW plant)/(ug/g soil),soil-to-plant bioconcentration factor (Hg; metals; special),NumChem
+ChemBr_root,1,float,0,10,(ug/g DW plant)/(ug/g soil),soil-to-plant bioconcentration factor ( Hg; metals; special),NumChem
+ChemBr_silage,1,float,0,10,(ug/g DW plant)/(ug/g soil),soil-to-plant bioconcentration factor (Hg; metals; special),NumChem
+ChemBreastMilkExp,1,integer,0,1,unitless,"Causes breast milk exposure? (1=yes, 0=no)",NumChem
+ChemBs,1,float,0,1,fraction,bioavailability fraction of contaminant in soil relative to vegetation,NumChem
+ChemBv_ecf_plant,1,float,1,100,unitless,empirical correction factor for Bv,NumChem
+ChemBv_exfruit,1,float,0,1000000000,(ug/g DW plant)/(ug/g air),mass-based air-plant biotransfer factor (dioxins; Hg; special),NumChem
+ChemBv_exveg,1,float,0,10000000,(ug/g DW plant)/(ug/g air),mass-based air-plant biotransfer factor (dioxins; Hg; special),NumChem,
+ChemBv_forage,1,float,0,1000000000,(ug/g DW plant)/(ug/g air),mass-based air-plant biotransfer factor (dioxins; Hg; special),NumChem,
+ChemBv_silage,1,float,0,1000000000,(ug/g DW plant)/(ug/g air),mass-based air-plant biotransfer factor (dioxins; Hg; special),NumChem,
+ChemC_Add,1,integer,0,1,unitless,"Cancer additive risk? (1=yes, 0=no)",NumChem,
+ChemCASID,1,String,,,,CASID,NumChem,
+ChemCSCLSedimentRec,2,Float,-999,10000,ug/g,chemical stressor concentration limit for sediment,NumChem,NumReceptor
+ChemCSCLSoilRec,2,Float,-999,10000,ug/g,chemical stressor concentration limit for soil (depth averaged),NumChem,NumReceptor
+ChemCSCLWaterDissRec,2,Float,-999,10000,mg/L,dissolved chemical stressor concentration limit for surface water,NumChem,NumReceptor
+ChemCSCLWaterTotRec,2,Float,-999,10000,mg/L,total chemical stressor concentration limit for surface water,NumChem,NumReceptor
+ChemCSFfood,1,float,0,1000000,(mg/kg-d)-1,Cancer slope factor (food ingestion),NumChem,
+ChemCSFinhal,1,float,0,1000000,(mg/kg-d)-1,Cancer slope factor (inhalation),NumChem,
+ChemCSFwater,1,float,0,1000000,(mg/kg-d)-1,Cancer slope factor (drinking water ingestion),NumChem,
+ChemDen,1,Float,0,10,g/mL,Density,NumChem,
+ChemEBRec,2,Float,-999,10000,mg/kg-day,ecological benchmark for receptors that receive ingested doses,NumChem,NumReceptor
+ChemEco,1,logical,,,,flag for Ecological Risk Computation,NumChem,
+ChemEco,1,logical,,,,flag for Human Risk Computation,NumChem,
+Chemfai,1,float,,,fraction,fraction of ingested contaminant by the infant which is absorbed,NumChem,
+ChemFam,1,float,0,1,fraction,Fraction of contaminant ingested by mother that is absorbed,NumChem,
+ChemFbl,1,float,0,1,fraction,Fraction of contaminant in whole blood compartment,NumChem,
+ChemFf,1,float,0,1,fraction,Fraction of contaminant stored in maternal fat,NumChem,
+Chemfoc,0,Float,0,0.4,fraction,Fraction Organic Content of Medium,,
+"ChemFracNeutral",1,"Float",0,1,"fraction","Fraction of chemical concentration in the neutral species at a given pH and T","NumChem"
+ChemHealthEffect,1,integer,1,3,unitless,1 means Cancengen.  2 means Non-Canrcengin.  3 means both.,NumChem,
+ChemHLC,1,Float,0,10,(atm m^3)/mol,Henry's Law Constant,NumChem,
+ChemHuman,1,logical,,,,flag for Human Risk Computation,NumChem,
+ChemHydNumProd,1,Integer,,,,Number of products,NumChem,
+ChemHydProdCASID,2,String,,,,Product CASID,NumChem,ChemCatNumProd
+ChemHydProdName,2,String,,,,Product Name,NumChem,ChemCatNumProd
+ChemHydProdYield,2,Float,0,2,moles/moles,Product Yeild Coefficient,NumChem,ChemCatNumProd
+ChemHydRate,1,Float,0,50,1/day,Catalyzed Hydrolysis,NumChem,
+ChemKd,2,Float,,,L/kg,Partition Coefficient for Med,NumChem,4
+ChemKm,1,Float,0,10000,1/day,Metabolic transformation rate in fish,NumChem,
+ChemKoc,1,Float,0,1.00E+09,mL/g,Koc,NumChem,
+ChemKow,1,Float,0,1.00E+08,,Kow,NumChem,
+Chemkpm,1,float,,,unitless,concentration proportionality constant between plasma and breast milk aqueous phase,NumChem,
+ChemkpPar_exfruit,1,float,18.07,40.41,1/y,plant surface loss coefficient,NumChem,
+ChemkpPar_exveg,1,float,18.07,40.41,1/y,plant surface loss coefficient,NumChem,
+ChemkpPar_forage,1,float,18.07,40.41,1/y,plant surface loss coefficient,NumChem,
+ChemkpPar_silage,1,float,18.07,40.41,1/y,plant surface loss coefficient,NumChem,
+ChemkpVap_exfruit,1,Float,1,180.7,1/y,degradation loss of vapor phase constituents,NumChem,
+ChemkpVap_exveg,1,Float,1,180.7,1/y,degradation loss of vapor phase constituents,NumChem,
+ChemkpVap_forage,1,Float,1,180.7,1/y,degradation loss of vapor phase constituents,NumChem,
+ChemkpVap_silage,1,Float,1,180.7,1/y,degradation loss of vapor phase constituents,NumChem,
+ChemKrbc,1,float,,,unitless,Concentration proportionality constant between red blood cells and plasma,NumChem,
+ChemLiqCw,2,Float,,,mg/L,Liquid Waste Cw's for this chemical,NumChem,ChemNumLiqCw
+ChemMed,1,String,,,,"Solubility Media (Soil, Sediment,Surface Water, Waste)",4,
+ChemMetBioNumProd,1,Integer,,,,Number of products,NumChem,
+ChemMetBioProdCASID,2,String,,,,Product CASID,NumChem,ChemMetBioNumProd
+ChemMetBioProdName,2,String,,,,Product Name,NumChem,ChemMetBioNumProd
+ChemMetBioProdYield,2,Float,0,2,moles/moles,Product Yeild Coefficient,NumChem,ChemMetBioNumProd
+ChemMetBioRate,1,Float,0,2,1/day,Anaerobic Biodegradation under Methanogenic Red.,NumChem,
+ChemMolWt,1,Float,9,500,g/mole,Molecular weight for the chemical,NumChem,
+ChemName,1,String,,,,Chemical Name,NumChem,
+ChemName,1,String,,,,Name,NumChem,
+ChemNC_Add,1,integer,0,1,unitless,"Non-cancer additive risk? (1=yes, 0=no)",NumChem,
+"ChemNegIonpKa",2,"Float",,,"pH units","Negative log10 of acid dissociation constant for generation of ionic species 1-,2-,3-,etc.","NumChem","NumNegIon"
+"ChemNegIonSpecies",2,"Logical",,,,"Flag indicating presence of negative ionic species 1-, 2-, 3-,etc.","NumChem","NumNegIon"
+ChemNumLiqCw,1,Integer,0,5,,Number of Liquid Waste Cw's for this chemical,NumChem,
+ChemNumSolCw,1,Integer,0,5,,Number of Solid Waste Cw's for this chemical,NumChem,
+ChemPh,0,Float,0,14,pH units,pH assumed for these properties,,
+"ChemPosIonpKb",2,"Float",,,"pH units","Negative log10 of base dissociation constant for generation of ionic species 1+,2+,3+,etc.","NumChem","NumPosIon"
+"ChemPosIonSpecies",2,"Logical",,,,"Flag indicating presence of positive ionic species 1+, 2+,3+,etc.","NumChem","NumPosIon"
+ChemRCF,1,float,0.0001,1000000,(ug/g WW plnt)/(ug/mL sl wat),root concentration factor (dioxins; Hg; metals; special),NumChem,
+ChemRecName,1,String,,,,Ecological Receptor name,NumReceptor=62,
+ChemRfC,1,Float,0,100000,mg/m3,Reference concentration (inhalation),NumChem,
+ChemRfDfish,1,Float,0,100000,mg/kg-d,Reference dose (fish ingestion),NumChem,
+ChemRfDfood,1,float,0,100000,mg/kg-d,Reference dose (food ingestion),NumChem,
+ChemRfDwater,1,float,0,100000,mg/kg-d,Reference dose (drinking water ingestion),NumChem,
+ChemSMILES,1,String,,,,SMILES notation for the chemical,NumChem,
+ChemSO4BioNumProd,1,Integer,,,,Number of products,NumChem,
+ChemSO4BioProdCASID,2,String,,,,Product CASID,NumChem,ChemSO4BioNumProd
+ChemSO4BioProdName,2,String,,,,Product Name,NumChem,ChemSO4BioNumProd
+ChemSO4BioProdYield,2,Float,0,2,moles/moles,Product Yeild Coefficient,NumChem,ChemSO4BioNumProd
+ChemSO4BioRate,1,Float,0,2,1/day,Anaerobic Biodegradation under SO4 Red.,NumChem,
+ChemSol,2,Float,0,0,mg/L,Solubility for each media,NumChem,8
+ChemSolCw,2,Float,,,ug/g,Solid Waste Cw's for this chemical,NumChem,ChemNumSolCw
+Chemt_halfb,1,float,,,d,Biological half-life of chemical in lactating women,NumChem,
+ChemT3fishBAFm,1,float,0,1000000000,L/kg,T3 fish/shellfish bioaccumulation factor (measured),NumChem,
+ChemT3musBAFm,1,Float,0,1000000000,L/kg,,NumChem,
+ChemT4fishBAFm,1,float,0,1000000000,L/kg,T4 fish bioaccumulation factor (measured),NumChem,
+ChemT4musBAFm,1,Float,0,1000000000,L/kg,,NumChem,
+ChemTemp,0,Float,0,43,degrees Celsius,Temperature assumed for these properties,,
+ChemType,1,string,,,,"Chemical Type (O, M, Hg, S, D)",NumChem,
+ChemVol,1,Float,0,500,mL,Volume,NumChem,
+ChemVp,1,Float,0,4000,torr,Vapor Pressure,,
+ChemWDiff,1,Float,0,1.00E-02,cm^2/s,Water Diffusion Coefficient,NumChem
+NumChem,0,Integer,,,,Number of chemicals described,
+"NumNegIon",1,"Integer",0,2,,"Number of negative ionic species produced by an organic acid,"NumChem"
+"NumPosIon",1,"Integer",0,2,,"Number of positive ionic species produced by an organic base","NumChem"
+"AntB",0,float,-10000000,1000000,"degC or K",
+"AntC",0,float,-10000000,1000000,"degC",
+"Pc",0,float,-10000000,1000000,"atm",
+"tb",0,float,-10000000,1000000,"degC",
+"tc",0,float,-10000000,1000000,"degC",

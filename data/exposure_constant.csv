@@ -1,0 +1,161 @@
+RecTypeID,ModelCode,Value,RunID,Ref_ID,Comment,Show_Record
+F,BW_1,15,5159,140,"Tbl 8-3, 50th percentile",TRUE
+F,BW_1,15,7118,140,"Tbl 8-3, 50th percentile",TRUE
+F,BW_1,15,10001,140,"Tbl 8-3, 50th percentile",TRUE
+F,BW_2,29,5159,140,"Tbl 8-3, 50th percentile",TRUE
+F,BW_2,29,7118,140,"Tbl 8-3, 50th percentile",TRUE
+F,BW_2,29,10001,140,"Tbl 8-3, 50th percentile",TRUE
+F,BW_3,61,5159,140,"Tbl 8-3, 50th percentile",TRUE
+F,BW_3,61,7118,140,"Tbl 8-3, 50th percentile",TRUE
+F,BW_3,61,10001,140,"Tbl 8-3, 50th percentile",TRUE
+F,BW_4,79,5159,140,"Tbl 8-3, 50th percentile",TRUE
+F,BW_4,79,7118,140,"Tbl 8-3, 50th percentile",TRUE
+F,BW_4,79,10001,140,"Tbl 8-3, 50th percentile",TRUE
+F,CR_beef_1,11,5159,140,"Tbl 13-33, 90th percentile",FALSE
+F,CR_beef_1,11,7118,140,"Tbl 13-33, 90th percentile",TRUE
+F,CR_beef_1,11,10001,140,"Tbl 13-33, 90th percentile",TRUE
+F,CR_beef_2,11,5159,140,"Tbl 13-33, 90th percentile",FALSE
+F,CR_beef_2,11,7118,140,"Tbl 13-33, 90th percentile",TRUE
+F,CR_beef_2,11,10001,140,"Tbl 13-33, 90th percentile",TRUE
+F,CR_beef_3,3.5,5159,140,"Tbl 13-33, 90th percentile",FALSE
+F,CR_beef_3,3.5,7118,140,"Tbl 13-33, 90th percentile",TRUE
+F,CR_beef_3,3.5,10001,140,"Tbl 13-33, 90th percentile",TRUE
+F,CR_beef_4,5.4,5159,140,"Tbl 13-33, 90th percentile",FALSE
+F,CR_beef_4,5.4,7118,140,"Tbl 13-33, 90th percentile",TRUE
+F,CR_beef_4,5.4,10001,140,"Tbl 13-33, 90th percentile",TRUE
+F,CR_dw_1,44,5159,277,"Tbl 3-21, 90th percentile",TRUE
+F,CR_dw_1,44,7118,277,"Tbl 3-21, 90th percentile",TRUE
+F,CR_dw_1,44,10001,277,"Tbl 3-21, 90th percentile",TRUE
+F,CR_dw_2,31,5159,277,"Tbl 3-21, 90th percentile",TRUE
+F,CR_dw_2,31,7118,277,"Tbl 3-21, 90th percentile",TRUE
+F,CR_dw_2,31,10001,277,"Tbl 3-21, 90th percentile",TRUE
+F,CR_dw_3,25,5159,277,"Tbl 3-21, 90th percentile",TRUE
+F,CR_dw_3,25,7118,277,"Tbl 3-21, 90th percentile",TRUE
+F,CR_dw_3,25,10001,277,"Tbl 3-21, 90th percentile",TRUE
+F,CR_dw_4,34,5159,277,"Tbl 3-21, 90th percentile",TRUE
+F,CR_dw_4,34,7118,277,"Tbl 3-21, 90th percentile",TRUE
+F,CR_dw_4,34,10001,277,"Tbl 3-21, 90th percentile",TRUE
+F,CR_exfruit_1,5.4,5159,140,"Tbl 13-58, 90th percentile",TRUE
+F,CR_exfruit_1,5.4,7118,140,"Tbl 13-58, 90th percentile",FALSE
+F,CR_exfruit_1,5.4,10001,140,"Tbl 13-58, 90th percentile",FALSE
+F,CR_exfruit_2,7.0,5159,140,"Tbl 13-58, 90th percentile",TRUE
+F,CR_exfruit_2,7.0,7118,140,"Tbl 13-58, 90th percentile",FALSE
+F,CR_exfruit_2,7.0,10001,140,"Tbl 13-58, 90th percentile",FALSE
+F,CR_exfruit_3,3.4,5159,140,"Tbl 13-58, 90th percentile",TRUE
+F,CR_exfruit_3,3.4,7118,140,"Tbl 13-58, 90th percentile",FALSE
+F,CR_exfruit_3,3.4,10001,140,"Tbl 13-58, 90th percentile",FALSE
+F,CR_exfruit_4,5.0,5159,140,"Tbl 13-58, 90th percentile",TRUE
+F,CR_exfruit_4,5.0,7118,140,"Tbl 13-58, 90th percentile",FALSE
+F,CR_exfruit_4,5.0,10001,140,"Tbl 13-58, 90th percentile",FALSE
+F,CR_exveg_1,6.4,5159,140,"Tbl 13-60, 90th percentile",TRUE
+F,CR_exveg_1,6.4,7118,140,"Tbl 13-60, 90th percentile",FALSE
+F,CR_exveg_1,6.4,10001,140,"Tbl 13-60, 90th percentile",FALSE
+F,CR_exveg_2,3.2,5159,140,"Tbl 13-60, 90th percentile",TRUE
+F,CR_exveg_2,3.2,7118,140,"Tbl 13-60, 90th percentile",FALSE
+F,CR_exveg_2,3.2,10001,140,"Tbl 13-60, 90th percentile",FALSE
+F,CR_exveg_3,2.4,5159,140,"Tbl 13-60, 90th percentile",TRUE
+F,CR_exveg_3,2.4,7118,140,"Tbl 13-60, 90th percentile",FALSE
+F,CR_exveg_3,2.4,10001,140,"Tbl 13-60, 90th percentile",FALSE
+F,CR_exveg_4,6.0,5159,140,"Tbl 13-60, 90th percentile",TRUE
+F,CR_exveg_4,6.0,7118,140,"Tbl 13-60, 90th percentile",FALSE
+F,CR_exveg_4,6.0,10001,140,"Tbl 13-60, 90th percentile",FALSE
+F,CR_fish_1,5.2,5159,278,"Tbl E-7, 90th percentile",TRUE
+F,CR_fish_1,5.2,7118,278,"Tbl E-7, 90th percentile",FALSE
+F,CR_fish_1,5.2,10001,278,"Tbl E-7, 90th percentile",FALSE
+F,CR_fish_2,7.7,5159,278,"Tbl E-7, 90th percentile",TRUE
+F,CR_fish_2,7.7,7118,278,"Tbl E-7, 90th percentile",FALSE
+F,CR_fish_2,7.7,10001,278,"Tbl E-7, 90th percentile",FALSE
+F,CR_fish_3,9.6,5159,278,"Tbl E-7, 90th percentile",TRUE
+F,CR_fish_3,9.6,7118,278,"Tbl E-7, 90th percentile",FALSE
+F,CR_fish_3,9.6,10001,278,"Tbl E-7, 90th percentile",FALSE
+F,CR_fish_4,22,5159,278,"Tbl E-7, 90th percentile",TRUE
+F,CR_fish_4,22,7118,278,"Tbl E-7, 90th percentile",FALSE
+F,CR_fish_4,22,10001,278,"Tbl E-7, 90th percentile",FALSE
+F,CR_milk_1,59,5159,276,"Tbl 11-4, 90th percentile",FALSE
+F,CR_milk_1,59,7118,276,"Tbl 11-4, 90th percentile",TRUE
+F,CR_milk_1,59,10001,276,"Tbl 11-4, 90th percentile",TRUE
+F,CR_milk_2,26,5159,276,"Tbl 11-4, 90th percentile",FALSE
+F,CR_milk_2,26,7118,276,"Tbl 11-4, 90th percentile",TRUE
+F,CR_milk_2,26,10001,276,"Tbl 11-4, 90th percentile",TRUE
+F,CR_milk_3,12,5159,276,"Tbl 11-4, 90th percentile",FALSE
+F,CR_milk_3,12,7118,276,"Tbl 11-4, 90th percentile",TRUE
+F,CR_milk_3,12,10001,276,"Tbl 11-4, 90th percentile",TRUE
+F,CR_milk_4,35,5159,140,"Tbl 13-25, 90th percentile",FALSE
+F,CR_milk_4,35,7118,140,"Tbl 13-25, 90th percentile",TRUE
+F,CR_milk_4,35,10001,140,"Tbl 13-25, 90th percentile",TRUE
+F,CR_profruit_1,16,5159,140,"Tbl 13-59, 90th percentile",TRUE
+F,CR_profruit_1,16,7118,140,"Tbl 13-59, 90th percentile",FALSE
+F,CR_profruit_1,16,10001,140,"Tbl 13-59, 90th percentile",FALSE
+F,CR_profruit_2,16,5159,140,"Tbl 13-59, 90th percentile",TRUE
+F,CR_profruit_2,16,7118,140,"Tbl 13-59, 90th percentile",FALSE
+F,CR_profruit_2,16,10001,140,"Tbl 13-59, 90th percentile",FALSE
+F,CR_profruit_3,7.4,5159,140,"Tbl 13-59, 90th percentile",TRUE
+F,CR_profruit_3,7.4,7118,140,"Tbl 13-59, 90th percentile",FALSE
+F,CR_profruit_3,7.4,10001,140,"Tbl 13-59, 90th percentile",FALSE
+F,CR_profruit_4,14,5159,140,"Tbl 13-59, 90th percentile",TRUE
+F,CR_profruit_4,14,7118,140,"Tbl 13-59, 90th percentile",FALSE
+F,CR_profruit_4,14,10001,140,"Tbl 13-59, 90th percentile",FALSE
+F,CR_proveg_1,3.1,5159,140,"Tbl 13-61, 90th percentile",TRUE
+F,CR_proveg_1,3.1,7118,140,"Tbl 13-61, 90th percentile",FALSE
+F,CR_proveg_1,3.1,10001,140,"Tbl 13-61, 90th percentile",FALSE
+F,CR_proveg_2,2.1,5159,140,"Tbl 13-61, 90th percentile",TRUE
+F,CR_proveg_2,2.1,7118,140,"Tbl 13-61, 90th percentile",FALSE
+F,CR_proveg_2,2.1,10001,140,"Tbl 13-61, 90th percentile",FALSE
+F,CR_proveg_3,1.9,5159,140,"Tbl 13-61, 90th percentile",TRUE
+F,CR_proveg_3,1.9,7118,140,"Tbl 13-61, 90th percentile",FALSE
+F,CR_proveg_3,1.9,10001,140,"Tbl 13-61, 90th percentile",FALSE
+F,CR_proveg_4,3.6,5159,140,"Tbl 13-61, 90th percentile",TRUE
+F,CR_proveg_4,3.6,7118,140,"Tbl 13-61, 90th percentile",FALSE
+F,CR_proveg_4,3.6,10001,140,"Tbl 13-61, 90th percentile",FALSE
+F,CR_root_1,5.7,5159,140,"Tbl 13-62, 90th percentile",TRUE
+F,CR_root_1,5.7,7118,140,"Tbl 13-62, 90th percentile",FALSE
+F,CR_root_1,5.7,10001,140,"Tbl 13-62, 90th percentile",FALSE
+F,CR_root_2,3.8,5159,140,"Tbl 13-62, 90th percentile",TRUE
+F,CR_root_2,3.8,7118,140,"Tbl 13-62, 90th percentile",FALSE
+F,CR_root_2,3.8,10001,140,"Tbl 13-62, 90th percentile",FALSE
+F,CR_root_3,2.3,5159,140,"Tbl 13-62, 90th percentile",TRUE
+F,CR_root_3,2.3,7118,140,"Tbl 13-62, 90th percentile",FALSE
+F,CR_root_3,2.3,10001,140,"Tbl 13-62, 90th percentile",FALSE
+F,CR_root_4,3.1,5159,140,"Tbl 13-62, 90th percentile",TRUE
+F,CR_root_4,3.1,7118,140,"Tbl 13-62, 90th percentile",FALSE
+F,CR_root_4,3.1,10001,140,"Tbl 13-62, 90th percentile",FALSE
+F,CRs_1,40,5159,221,"Tbl 5-1, gen pop, central, soil only",TRUE
+F,CRs_1,40,7118,221,"Tbl 5-1, gen pop, central, soil only",FALSE
+F,CRs_1,40,10001,221,"Tbl 5-1, gen pop, central, soil only",FALSE
+F,CRs_2,30,5159,221,"Tbl 5-1, gen pop, central, soil only",TRUE
+F,CRs_2,30,7118,221,"Tbl 5-1, gen pop, central, soil only",FALSE
+F,CRs_2,30,10001,221,"Tbl 5-1, gen pop, central, soil only",FALSE
+F,CRs_3,10,5159,221,"Tbl 5-1, gen pop, central, soil only",TRUE
+F,CRs_3,10,7118,221,"Tbl 5-1, gen pop, central, soil only",FALSE
+F,CRs_3,10,10001,221,"Tbl 5-1, gen pop, central, soil only",FALSE
+F,CRs_4,10,5159,221,"Tbl 5-1, gen pop, central, soil only",TRUE
+F,CRs_4,10,7118,221,"Tbl 5-1, gen pop, central, soil only",FALSE
+F,CRs_4,10,10001,221,"Tbl 5-1, gen pop, central, soil only",FALSE
+F,ED_1,13,5159,140,"Tbl 16-109, 90th percentile",TRUE
+F,ED_1,13,7118,140,"Tbl 16-109, 90th percentile",TRUE
+F,ED_1,13,10001,140,"Tbl 16-109, 90th percentile",TRUE
+F,ED_2,13,5159,140,"Tbl 16-109, 90th percentile",TRUE
+F,ED_2,13,7118,140,"Tbl 16-109, 90th percentile",TRUE
+F,ED_2,13,10001,140,"Tbl 16-109, 90th percentile",TRUE
+F,ED_3,13,5159,140,"Tbl 16-109, 90th percentile",TRUE
+F,ED_3,13,7118,140,"Tbl 16-109, 90th percentile",TRUE
+F,ED_3,13,10001,140,"Tbl 16-109, 90th percentile",TRUE
+F,ED_4,48,5159,140,"Tbl 16-112, 90th percentile (48 yrs)",TRUE
+F,ED_4,48,7118,140,"Tbl 16-112, 90th percentile (48 yrs)",TRUE
+F,ED_4,48,10001,140,"Tbl 16-112, 90th percentile (48 yrs)",TRUE
+F,F_beef,1,,142,EPA policy,TRUE
+F,F_exfruit,1,,142,EPA policy,TRUE
+F,F_exveg,1,,142,EPA policy,TRUE
+F,F_milk,1,,142,EPA policy,TRUE
+F,F_profruit,1,,142,EPA policy,TRUE
+F,F_proveg,1,,142,EPA policy,TRUE
+F,F_root,1,,142,EPA policy,TRUE
+F,ShowerStallTime,0,5159,,not used,FALSE
+F,ShowerStallTime,0,7118,,not used,FALSE
+F,ShowerStallTime,0,10001,,not used,FALSE
+F,ShowerTime,15,5159,140,"Tbl 15-21, 50th percentile (adult and child value from CSEFH Tbl 16-18 are the same)",TRUE
+F,ShowerTime,15,7118,140,"Tbl 15-21, 50th percentile (adult and child value from CSEFH Tbl 16-18 are the same)",TRUE
+F,ShowerTime,15,10001,140,"Tbl 15-21, 50th percentile (adult and child value from CSEFH Tbl 16-18 are the same)",TRUE
+F,T_bathroom,5,5159,140,"Tbl 15-23, 50th percentile (adult value used for child as well; actual child 50th %ile from CSEFH Tbl 16-18 is 4.3)",TRUE
+F,T_bathroom,5,7118,140,"Tbl 15-23, 50th percentile (adult value used for child as well; actual child 50th %ile from CSEFH Tbl 16-18 is 4.3)",TRUE
+F,T_bathroom,5,10001,140,"Tbl 15-23, 50th percentile (adult value used for child as well; actual child 50th %ile from CSEFH Tbl 16-18 is 4.3)",TRUE

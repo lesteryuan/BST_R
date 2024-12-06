@@ -1,0 +1,78 @@
+CAS,Constituent,ChemType
+50282,"Estradiol, 17?-",O
+50328,Benzo(a)pyrene,O
+57625,Chlortetracycline,O
+57681,Sulfamethazine,O
+57830,Progesterone,O
+58220,Testosterone,O
+60548,Tetracycline,O
+68359,Sulfadiazine,O
+72140,Sulfathiazole,O
+76573,Codeine,O
+79572,Oxytetracycline,O
+91576,"Methylnaphthalene, 2-",O
+103902,Acetaminophen,O
+106478,"Chloroaniline, 4-",O
+114078,Erythromycin,O
+117817,Bis(2-ethylhexyl)phthalate ,O
+129000,Pyrene,O
+148798,Thiabendazole,O
+154212,Lincomycin,O
+206440,Fluoranthene,O
+298464,Carbamazepine,O
+335671,PFOA,O
+564250,Doxycycline,O
+657249,Metformin,O
+723466,Sulfamethoxazole,O
+738705,Trimethoprim,O
+1163195,BDE-209,O
+2795393,PFOS,O
+3380345,Triclosan,O
+5436431,BDE-47,O
+7429905,Aluminum,M
+7439896,Iron,M
+7439921,Lead,M
+7439954,Magnesium,M
+7439965,Manganese,M
+7439976,Mercury (elemental),Hg
+7439987,Molybdenum,M
+7440020,Nickel,M
+7440224,Silver,M
+7440235,Sodium,M
+7440280,Thallium,M
+7440315,Tin,M
+7440360,Antimony,M
+7440382,Arsenic,M
+7440393,Barium,M
+7440417,Beryllium,M
+7440428,Boron,M
+7440439,Cadmium,M
+7440484,Cobalt,M
+7440508,Copper,M
+7440622,Vanadium,M
+7440666,Zinc,M
+7440702,Calcium,M
+7487947,Mercury (divalent),Hg
+7783008,Selenium (VI),M
+7783086,Selenium (IV),M
+11006761,Virginiamycin,O
+14698294,Oxolinic acid,O
+14797558,Nitrate,M
+14797650,Nitrite,M
+15687271,Ibuprofen,O
+16065831,Chromium (III),M
+16984488,Fluoride,M
+18540299,Chromium (VI),M
+18559949,Albuterol ,O
+22204531,Naproxen,O
+25812300,Gemfibrozil,O
+42399417,Diltiazem,O
+51481619,Cimetidine,O
+54910893,Fluoxetine,O
+60348609,BDE-99,O
+66357355,Ranitidine,O
+68631492,BDE-153,O
+70458967,Norfloxacin,O
+85721331,Ciprofloxacin,O
+93106606,Enrofloxacin,O
+98105998,Sarafloxacin,O

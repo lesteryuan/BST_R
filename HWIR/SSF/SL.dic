@@ -1,0 +1,213 @@
+212,site layout,,,,,,,,
+Code,Dimensions,DataType,Min,Max,Units,Description,Dim1,Dim2,Dim3
+AirLocX,1,Float,-100000,100000,m,Easting in Site Coordinate System,NumAir,,
+AirLocY,1,Float,-100000,100000,m,Northing in Site Coordinate System,NumAir,,
+AirTemp,0,Float,0,35,degrees Celsius,Long-Term Average Air Temperature,,,
+AquDir,1,Float,0,360,degrees,Groundwater flow direction in degrees from North,NumAqu,,
+AquFEOX,0,Float,0.000064,0.00607,fraction,Fraction Iron-Hydroxide Adsorbent,,,
+AquGrad,1,Float,0,100,,regional groundwater gradient,NumAqu,,
+AquId,1,String,,,,Environmental Setting Id for Aquifer,NumAqu,,
+AquLOM,0,Float,105,1156,mg/L,Leachate organic matter,,,
+AquLWSIndex,1,Integer,0,5,,Local watershed index for aquifer,NumAqu,,
+AquLWSSubAreaIndex,1,Integer,0,3,,LWS subarea index for aquifer,NumAqu,,
+AquPh,0,Float,3,10,pH units,Average Aquifer pH,,,
+AquSATK,1,Float,0.00000001,30000000,m/yr,saturated hydraulic conductivity (aquifer),NumAqu,,
+AquTemp,0,Float,0,35,degrees Celsius,Average Aquifer Temperature,,,
+AquThick,1,Float,0,1000,m,saturated zone thickness,NumAqu,,
+AquVadIndex,1,Integer,0,5,,Index of vadose zone per aquifer,NumAqu,
+AquWellFracZ,1,Float,0.01,0.99,fraction,location of well screen as a fraction of aquifer depth,NumAquWell,
+AquWellLocX,1,Float,-100000,100000,m,Easting in Site Coordinate System,NumAquWell,
+AquWellLocY,1,Float,-100000,100000,m,Northing in Site Coordinate System,NumAquWell,
+AquWSSubIndex,1,Integer,1,100,,index of watershed for each aquifer,NumAqu,
+AvgPeriod,0,Integer,1,20,Year,Averaging period
+AvgPeriodStartYr,0,Integer,1,200,,Starting year for averaging period
+ATIndex,0,integer,1,1872,,uniform distribution needed to select AT index for national tank data,,
+BinRange_Min_C,1,Float,0,1,unitless,Minimum values of  bins for human risk -- cancer,NumBinC,
+BinRange_Min_NC,1,Float,0,1000000,unitless,Minimum values of  bins for human risk -- HQ,NumBinNC,
+BinRange_Label_C,1,Float,0,1,unitless,Minimum values of  bins for human risk -- cancer,NumBinC,
+BinRange_Label_NC,1,Float,0,1000000,unitless,Minimum values of  bins for human risk -- HQ,NumBinNC,
+EcoBinRange_Label,1,Float,0,1000000,unitless,Minimum values of bins for eco risk HQ,NumEcoBin,
+EcoBinRange_Min,1,Float,0,1000000,unitless,Minimum values of bins for eco risk HQ,NumEcoBin,
+EcoRingHabIndex,2,Integer,0,25,unitless,index of habitat contained within ecoring (1 = 0 - 1km; 2 = 1 - 2 km),NumEcoRing,EcoRingNumHab
+EcoRingNumHab,1,Integer,0,25,unitless,number of habitats contained within each eco ring,NumEcoRing,
+FarmAirFrac,2,Float,0,1,fraction,Fraction of farm or crop area impacted by air points,NumFarm,FarmNumAir
+FarmAirIndex,2,Integer,0,10000,,Index of air points that impacts farm or crop area,NumFarm,FarmNumAir
+FarmAquIndex,2,Integer,0,100,,Index of aquifer that impacts farm or crop area,NumFarm,FarmNumAquWell
+FarmAquWellFrac,2,Float,0,1,fraction,Fraction farm uses aquifer well as animal DW source,NumFarm,FarmNumAquWell
+FarmAquWellIndex,2,Integer,0,500,,Index of aquifer well that impacts farm or crop area,NumFarm,FarmNumAquWell
+FarmArea,1,Float,0,25000000,m^2,Area of farm,NumFarm,,
+FarmBlockGroup,1,String,,,unitless,Census block group associated with farm,NumFarm,,
+FarmLWSIndex,2,Integer,0,10,not applicable,local watershed indices associated with each farm,NumFarm,FarmNumLWSSubArea,
+FarmLWSSubAreaFrac,2,Float,0,1,fraction,fraction of contribution of subarea to farm,NumFarm,FarmNumLWSSubArea,
+FarmLWSSubAreaIndex,2,Integer,0,10,not applicable,index of contributing subarea in local watershed indices associated with each farm,NumFarm,FarmNumLWSSubArea,
+FarmNumAir,1,Integer,0,10000,,Number of air points that impact farm or crop area,NumFarm,,
+FarmNumAquWell,1,Integer,0,100,,Number of wells in each aquifer impacting farm,NumFarm,,
+FarmNumLWS,1,integer,0,5,,Number of local watersheds impacting farm or crop area,NumFarm,,
+FarmNumLWSSubArea,1,Integer,0,10,not applicable,contributing subarea in local watershed indices associated with each farm,NumFarm,,
+FarmNumWBNRch,1,Integer,0,100,,Number of WBN reach that impact farm or crop area,NumFarm,,
+FarmNumWSSub,1,Integer,1,100,unitless,Number of watersheds that impact farm or crop area,NumFarm,,
+FarmPh,0,Float,4,9,pH units,Average Farm Foodchain pH,,,
+FarmPopulation,3,float,0,10000,unitless,population of a farm,NumFarm,FarmRcpType,Age
+FarmRcpType,1,String,,,,"Type of human receptor {Beef Farmer, Dairy Farmer, Beef Farmer Fisher, Dairy Farmer Fisher} a particular modeling pathway is turned off by setting the corresponding number of that media to 0.",NumFarmRcpType,,
+FarmTemp,0,Float,0,35,degrees Celsius,Average Farm Foodchain Temperature,,,
+FarmWBNIndex,1,Integer,0,50,,Index of WBN that impacts farm or crop area,NumFarm,,
+FarmWBNRchFrac,2,Float,0,1,fraction,Fraction of farm or crop area impacted by WBN reach,NumFarm,FarmNumWBNRch,
+FarmWBNRchIndex,2,Integer,0,50,,Index of WBN reach that impacts farm or crop area,NumFarm,FarmNumWBNRch,
+FarmWSSubFrac,2,Float,0,1,unitless,Fraction of each watershed on farm,NumFarm,FarmNumWSSub,
+FarmWSSubIndex,2,Integer,1,100,not applicable,Index of watersheds that impact farm or crop area,NumFarm,FarmNumWSSub,
+focS,1,float,0.0001,1,mass fraction,fraction organic carbon (soil),NumWSSub,,
+GWCLass,0,String,,,,Hydrogeologic setting (GWClass1 - GWClass13),,,
+GWClassIndex,0,integer,1,62,unitless,count of rows being passed for aquifer GWClass data,,,
+HabArea,1,Float,1,1000000000,m^2,area of habitat,NumHab,,
+HabGroup,1,String,,,not applicable,"Group in which habitat type is attributed: 1 = terrestrial, 2 = aquatic, 3 = wetland",NumHabGroup,,
+HabIndex,1,Integer,1,12,unitless,index of habitat type,NumHab,,
+HabNumRange,1,Integer,1,50,unitless,number of ranges per habitat,NumHab,,
+HabNumWBNRch,1,Integer,0,50,unitless,Number of WBN reaches that impact habitat range,NumHab,,
+HabRangeAirFrac,3,Float,0,1,fraction,Fraction of habitat range impacted by air points,NumHab,HabNumRange,HabRangeNumAir
+HabRangeAirIndex,3,Integer,0,10000,unitless,Index of air points that impacts habitat range,NumHab,HabNumRange,HabRangeNumAir
+HabRangeAreaFrac,2,Float,0,1,fraction,fraction of range that falls within habitat,NumHab,HabNumRange,
+HabRangeFishWBNIndex,3,Integer,0,50,unitless,index of WBN containing fishable reaches that impact habitat range,NumHab,HabNumRange,HRangeNumFishWBNRch
+HabRangeLWSIndex,3,Integer,0,10,unitless,local watershed indices associated with each habitat range,NumHab,HabNumRange,HabRangeNumLWSSubA
+HabRangeLWSSubAFrac,3,Float,0,1,fraction,fraction of contributing LWS subarea,NumHab,HabNumRange,HabRangeNumLWSSubA
+HabRangeLWSSubAIndex,3,Integer,0,10,unitless,index of contributing subarea in local watershed indices associated with each habitat range,NumHab,HabNumRange,HabRangeNumLWSSubA
+HabRangeNumAir,2,Integer,0,10000,unitless,Number of air points per habitat range,NumHab,HabNumRange,
+HabRangeNumLWSSubA,2,Integer,0,10,unitless,contributing subarea in local watershed indices associated with each habitat range,NumHab,HabNumRange,
+HabRangeNumSISrc,2,Integer,0,1,unitless,number of surface impoundments that intersect habitat range,NumHab,HabNumRange,
+HabRangeNumWBNRch,2,Integer,0,50,unitless,Number of WBN reaches found within habitat range,NumHab,HabNumRange,
+HabRangeNumWSSub,2,Integer,0,100,unitless,Number of watersheds that impact habitat range,NumHab,HabNumRange,
+HabRangeRecIndex,2,Integer,1,66,unitless,receptor index associated with each habitat range (a single receptor),NumHab,HabNumRange,
+HabRangeRecType,1,String,,,not applicable,"type of receptor (e.g., herbivert, omnivert, small mammal, small bird)",HabRangeRecIndex,,
+HabRangeWBNIndex,3,Integer,0,50,unitless,Index of WBN that impacts habitat range,NumHab,HabNumRange,HabRangeNumWBNRch
+HabRangeWBNRchIndex,3,Integer,0,50,unitless,Index of WBN reaches that impact habitat range,NumHab,HabNumRange,HabRangeNumWBNRch
+HabRangeWSSubFrac,3,Float,0,1,fraction,Fraction of habitat range impacted by watershed,NumHab,HabNumRange,HabRangeNumWSSub
+HabRangeWSSubIndex,3,Integer,0,100,unitless,Index of watershed that impacts habitat range,NumHab,HabNumRange,HabRangeNumWSSub
+HabType,1,String,,,not applicable,"Type of representative habitat (e.g., grassland, pond, wetland)",NumHab,,
+HabWBNIndex,2,Integer,0,50,unitless,Index of WBN that impacts habitat range,NumHab,HabNumWBNRch,
+HabWBNRchFrac,2,Float,0,1,fraction,Fraction of habitat range impacted by aquatic,NumHab,HabNumWBNRch,
+HabWBNRchIndex,2,Integer,0,50,unitless,Index of WBN reaches that impact habitat,NumHab,HabNumWBNRch,
+HRangeFishWBNRchInde,3,Integer,0,50,unitless,Index of WBN fishable reaches that impact habitat range,NumHab,HabNumRange,HRangeNumFishWBNRch
+HRangeNumFishWBNRch,2,Integer,0,50,unitless,Number of fishable reaches that cross habitat range,NumHab,HabNumRange,
+HumRcpAirIndex,1,Integer,0,10000,,Index of air points that impact receptor,NumHumRcp,,
+HumRcpAquIndex,1,Integer,0,100,unitless,Index of aquifer that impacts receptor,NumHumRcp,,
+HumRcpAquWellFrac,1,Float,0,1,,Fraction of HumRcp drinking from wells,NumHumRcp,,
+HumRcpAquWellIndex,1,Integer,0,500,unitless,Index of well that impacts receptor for the given aquifer,NumHumRcp,,
+HumRcpLWSIndex,1,Integer,0,10,not applicable,local watershed index for each human receptor,NumHumRcp,,
+HumRcpLWSSubAreaInde,1,Integer,0,10,not applicable,local watershed subarea index for each human receptor,NumHumRcp,,
+HumRcpPh,0,Float,3,10,pH units,Average shower water pH,,,
+HumRcpPopulation,3,float,0,10000,unitless,population of a HumRcp,NumHumRcp,HumRcpType,Age
+HumRcpTemp,0,Float,0,50,degrees Celsius,Typical shower temperature,,,
+HumRcpType,1,String,,,,"Type of human receptor {Beef Farmer, Dairy Farmer, Beef Farmer Fisher, Dairy Farmer Fisher} a particular modeling pathway is turned off by setting the corresponding number of that media to 0.",NumHumRcpType,,
+HumRcpWSSubIndex,1,Integer,1,100,not applicable,Index of watershed that impacts receptor,NumHumRcp,,
+HydroGroup,0,string,,,,hydrologic soil group needed to select correct correlation by hydrologic soil group,,,
+HydrologicRegion,0,String,,,,USGS Hydrologic Region (USGSHydro1 - USGSHydro20)
+MaxSrcArea,0,float,0,100000000,m^2,"Maximum tank area (= SI SrcArea for AT, null for other sources)"
+MetSta,0,String,,,,"Met. Station identifier (<MetSta>L.dat, <MetSta>A.dat,<MetSta>M.dat,<MetSta>D.dat,<MetSta>H.dat)"
+NumAir,0,Integer,0,10000,,Number of Air Points
+NumAqu,0,Integer,0,5,,Number of aquifers
+NumAquWell,0,Integer,0,500,,Number of drinking water wells
+NumBinC,0,Integer,0,20,unitless,Number of Bins for human -- Carcinogen
+NumBinNC,0,Integer,0,20,unitless,Number of Bins for human -- nonCarcinogen
+NumEcoBin,0,Integer,0,5,unitless,Number of bins for eco -- noncarcinogen
+NumEcoRing,0,Integer,1,3,unitless,number of eco rings
+NumFarm,0,Integer,0,100,,Number of farm or crop areas
+NumFarmRcpType,0,Integer,1,10,,Number of farmer receptor types
+NumHab,0,Integer,0,25,unitless,number of habitats selected for site simulation
+NumHabGroup,0,Integer,1,3,unitless,Number of general groups into which habitat types are placed
+NumHabType,0,Integer,1,12,unitless,Number of habitat types represented at the site
+NumHumRcp,0,Integer,1,10000,unitless,Number of human receptor points at a site
+NumHumRcpType,0,Integer,1,10,,Number of human receptor types,,
+NumReceptor,0,Integer,1,66,unitless,Complete receptor list across all habitat types,,
+NumRecGroup,0,Integer,1,9,unitless,Total receptor groups considered (terrestrial plants; aquatic plants; mammals; birds; amphibians; reptiles; soil biota; sediment biota; aquatic biota),,
+NumRing,0,Integer,0,100,,number of rings at site,,
+NumTrophicLevel,0,Integer,1,5,unitless,Number of possible trophic levels,,
+NumVad,0,Integer,0,5,,Number of vadose zones,,
+NumWBN,0,Integer,0,50,,Number of waterbody networks,,
+NumWSSub,0,Integer,1,100,,Number of watershed sub basins,,
+NyrMax,0,Integer,1,10000,years,Maximum model simulation time,,
+ReceptorIndex,1,Integer,1,66,unitless,Indices assigned to each receptor,NumReceptor,
+ReceptorName,1,String,,,not applicable,"Name of receptor (e.g., red-tailed hawk)",NumReceptor,
+ReceptorType,1,String,,,not applicable,"Description of receptor (e.g., predator, omnivert, herbivert,etc.)",NumReceptor,
+RecGroup,1,String,,,not applicable,"The general receptor groups (e.g., mammals, birds, amphibians, reptiles, soil biota, terrestrial plants, aquatic biota, sediment biota, aquatic plants)",NumReceptor,
+RecTrophicLevel,1,String,,,not applicable,Trophic level into which each receptor falls,NumReceptor,
+RingDistance,1,Float,0,2000,m,Distance of ring from source edge,NumRing,
+RingFarmFrac,2,Float,0,1,fraction,fraction of a farm in a ring,NumRing,RingNumFarm
+RingFarmIndex,2,Integer,0,100,unitless,Index of a farm in a ring,NumRing,RingNumFarm
+RingHumRcpIndex,2,Integer,0,10000,unitless,Index of a HumRcp in a ring,NumRing,RingNumHumRcp
+RingNumFarm,1,Integer,0,100,unitless,Number of farms in a ring,NumRing,
+RingNumHumRcp,1,Integer,0,1000,unitless,Num of HumRcp locations in a ring,NumRing,
+SettingID,0,String,,,,SettingID (SrcType+SiteID),,
+SiteGeoRefX,0,Float,,,m,Easting in UTM (facility centroid),,
+SiteGeoRefY,0,Float,,,m,Northing in UTM (facility centroid),,
+SiteLatitude,0,Float,-90,90,degrees,,,
+SiteLongitude,0,Float,-180,180,degrees,,,
+SiteSeed,0,Integer,,,,Random seed for each site,,
+SiteUTMZone,0,Integer,0,20,,UTM Zone of SiteGeoRef,,
+SoilType,0,string,,,,soil type for site needed to select correct correlation by soil type,,
+SrcArea,0,Float,0.01,100000000,m^2,Area of source,,
+SrcDepth,0,Float,0,50,m,"Depth of source (0 for AT, WP)",,
+SrcId,0,String,,,,Environmental Setting Id for Source,,
+SrcLocX,0,Float,-100000,100000,m,Easting in Site Coordinate System (0),,
+SrcLocY,0,Float,-100000,100000,m,Northing in Site Coordinate System (0),,
+SrcLWSNumSubArea,1,Integer,0,10,,Number of local watershed subareas,SrcNumLWS,
+SrcLWSSubAreaArea,2,Float,1,100000000,m2,Area of LWS SubArea,SrcNumLWS,SrcLWSNumSubArea
+SrcLWSSubAreaIndex,1,Integer,0,10,unitless,local watershed subarea containing WMU,SrcNumLWS,
+SrcNumLWS,0,Integer,0,10,,Number of local watersheds,,
+SrcPh,0,Float,0,14,pH units,Average Waste/Source pH,,
+SrcTemp,0,Float,0,70,degrees Celsius,Average Waste/Source Temperature,,
+SrcType,0,String,,,,"One of {LAU, LF, WP, AT, SI}",,
+TermFrac,0,Float,0,1,fraction,Peak output fraction for simulation termination,,
+VadALPHA,0,float,0,0.3,1/cm,soil retention parameter alpha (subsoil),,
+VadBETA,0,float,0,5,unitless,soil retention parameter beta (subsoil),,
+VadID,1,String,,,,Environmental Setting Id for Aquifer,NumVad,
+VadLWSIndex,1,Integer,1,10,,LWS Index for vadose zone,NumVad,
+VadPh,0,Float,4,9,pH units,Average Vadose Zone pH,,
+VadSATK,0,float,0.00000001,1000000,cm/hr,saturated hydraulic conductivity (subsoil),,
+VadTemp,0,Float,0,35,degrees Celsius,Average Vadose Zone Temperature,,
+VadThick,1,Float,0,1000,m,Vadose zone thickness,NumVad,
+VadWCR,0,float,0,1,L/L,residual water content,,,
+VadWCS,0,float,0,1,L/L,saturated water content (subsoil),,,
+Waste_Stream,0,String,,,,Waste Stream Type (SLUDGE or DUST),
+WBNDOC,1,float,0,50,mg/L,"DOC of stream, lake, and wetland reaches in waterbody network",3,,
+WBNFishableRchIndex,2,Integer,0,50,unitless,index of reaches that are fishable,NumWBN,WBNNumFishableRch,
+WBNfocAbS,0,Float,0,0.5,fraction,fraction organic carbon of abiotic solids in water column,,,
+WBNfocBioS,0,Float,0.2,1,fraction,fraction organic carbon of biotic solids in water column,,,
+WBNfocSed,1,Float,0,0.5,fraction,"fraction organic carbon in sediments of stream, lake, and wetland reaches",3,,
+WBNId,1,Integer,0,100,,Environmental Setting Id for WBN,NumWBN,,
+WBNNumFishableRch,1,Integer,0,50,unitless,number of fishable reaches,NumWBN,,
+WBNNumRch,1,Integer,1,50,,Number of reaches for this network,NumWBN,,
+WBNpH,1,float,4,9.5,pH units,"pH of stream, lake, and wetland reaches in the waterbody network",3,,
+WBNRchAirFrac,3,Float,0,1,fraction,Fraction of this reach impacted by air point,NumWBN,WBNNumRch,WBNRchNumAir
+WBNRchAirIndex,3,Integer,1,10000,,Index of air point that impacts this reach,NumWBN,WBNNumRch,WBNRchNumAir
+WBNRchAquFrac,3,Float,0,1,fraction,Fraction of this reach impacted by the aquifer,NumWBN,WBNNumRch,WBNRchNumAqu
+WBNRchAquIndex,3,Integer,0,5,,Index of aquifer that impacts this reach,NumWBN,WBNNumRch,WBNRchNumAqu
+WBNRchArea,2,float,0,1000000000,m2,reach surface area (nonstream reaches),NumWBN,WBNNumRch,
+WBNRchBodyType,2,String,,,,"Type of waterbody (Stream, Lake, Wetland)",NumWBN,WBNNumRch,
+WBNRchHypoAreaFrac,2,float,0,1,fraction,fraction of total surface area for hypolimnion,NumWBN,WBNNumRch,
+WBNRchLength,2,Float,0,10000,m,Reach Length,NumWBN,WBNNumRch,
+WBNRchLocX,3,Float,-100000,100000,m,Easting in Site Coordinate System,NumWBN,WBNNumRch,WBNRchNumLoc
+WBNRchLocY,3,Float,-100000,100000,m,Northing in Site Coordinate System,NumWBN,WBNNumRch,WBNRchNumLoc
+WBNRchNumAir,2,Integer,0,10000,,Number of points that impact this reach,NumWBN,WBNNumRch,
+WBNRchNumAqu,2,Integer,0,2,,Number of aquifer that impact this reach,NumWBN,WBNNumRch,
+WBNRchNumLoc,2,Integer,1,1000,unitless,"number of x,y points associated with watershed",NumWBN,WBNNumRch,
+WBNRchNumRch,2,Integer,0,15,,Number of reaches that impact this reach,NumWBN,WBNNumRch,
+WBNRchNumWSSub,2,Integer,0,15,,Number of watersheds that impacts this reach,NumWBN,WBNNumRch,
+WBNRchOrder,2,Integer,1,10,unitless,stream order,NumWBN,WBNNumRch,
+WBNRchRchFrac,3,Float,0,1,fraction,Fraction of this reach impacted by another reach,NumWBN,WBNNumRch,WBNRchNumRch
+WBNRchRchIndex,3,Integer,0,50,,Index of reach that impacts this reach,NumWBN,WBNNumRch,WBNRchNumRch
+WBNRchSrcLWSFrac,2,float,0,1,fraction,fraction of waterbody network reach impacted by the source local watershed,NumWBN,WBNNumRch,
+WBNRchSrcLWSIndex,2,integer,0,10,,index of local watershed from source,NumWBN,WBNNumRch,
+WBNRchType,2,String,,,,"Type of reach (Headwater, exiting, other)",NumWBN,WBNNumRch,
+WBNRchWSSubFrac,3,Float,0,1,fraction,Fraction of this reach impacted by watershed,NumWBN,WBNNumRch,WBNRchNumWSSub
+WBNRchWSSubIndex,3,Integer,0,50,,Index of watershed that impacts this reach,NumWBN,WBNNumRch,WBNRchNumWSSub
+WBNTemp,1,float,0,35,degrees Celsius,"median temperature of stream, lake, and wetland reaches in waterbody network",3,,
+WBNTempMax,1,float,0,45,degrees Celsius,"maximum temperature of stream, lake, and wetland reaches in waterbody network",3,,
+WBNTOC,1,float,0,100,mg/L,"TOC of stream, lake, and wetland reaches in waterbody network",3,,
+WBNTSS,1,float,0,1000,mg/L,"TSS of stream, lake, and wetland reaches in waterbody network",3,,
+WBNWaterHardness,1,Float,5,3000,mg CaCO3 eq/L,water hardness,3,,
+WSPh,0,Float,4,9,pH units,Watershed soil pH,,,
+WSSubAirFrac,2,Float,0,1,fraction,Fraction of WSSub represented by air points,NumWSSub,WSSubNumAir,
+WSSubAirIndex,2,Integer,1,10000,,Index of air point that represents subasin,NumWSSub,WSSubNumAir,
+WSSubArea,1,Float,0,10000000000,m^2,Area of subasin,NumWSSub,,
+WSSubNumAir,1,Integer,1,10000,,Number of air points that represent subasin,NumWSSub,,
+WSSubNumSubArea,1,Integer,1,9,,Number of watershed subbasin subareas (= 1),NumWSSub,,
+WSTemp,0,Float,0,35,degrees Celsius,Average Watershed Temperature,,,

@@ -1,0 +1,609 @@
+"RunID","SiteID","SrcTypeID","LinerTypeID","ModelCode","Value","Ref_ID","Comment","Dependency","DoNotShowValue"
+,,,,"ALPHA","1",146,,"system",1
+,,,,"Area_3","52555",269,,"waterbody/watershed",0
+,,,,"Area_4","1728000",145,"Calculated as area of index res (Area_3) x depth of index res (dwc_3) x drainage to capacity ratio (DTR)","waterbody/watershed",0
+,,,,"asdm","0.5",164,,"site",0
+,,,,"bcm","1",146,,"system",1
+,,,,"BDw","0.7",156,,"waste",0
+,,,,"bsp","0.6",158,,"waterbody/watershed",0
+,,,,"C","0.1",25,,"waterbody/watershed",0
+,,,,"db","0.05",158,"changed for VVWM","waterbody/watershed",0
+,,,,"DelT","1",146,,"system",1
+,,,,"deltDiv","1",146,,"system",1
+,,,,"dwc_3","2.74",269,,"waterbody/watershed",0
+,,,,"Dynamic","N",146,,"system",1
+,,,,"DynLoadSecNum","2",146,,"system",1
+,,,,"DynParm","Y",146,,"system",1
+,,,,"DynPrint","T",146,,"system",1
+,,,,"DynType","3",146,,"system",1
+,,,,"foc_bs","0.04",269,,"waterbody/watershed",0
+,,,,"foc_sw","0.04",269,,"waterbody/watershed",0
+,,,,"focW","0.4",148,,"waste",0
+,,,,"fwmu","1",144,,"waste",0
+,,,,"Infild","0",146,,"system",1
+,,,,"Linear","Y",146,,"system",1
+,,,,"MAS","3",146,,"system",1
+,,,,"mt","0",144,"assumes no regular vehicular activity on agricultural field","particulate emissions",1
+,,,,"N","2",149,"based on surface soil textures","system",1
+,,,,"NB","2",146,,"system",1
+,,,,"NSV","1",146,,"system",1
+,,,,"NumPrintInterval","1",146,,"system",1
+,,,,"NumSectnPrint","2",146,,"system",1
+,,,,"NumWSSub","1",146,,"system",1
+,,,,"nv","0",144,"assumes no regular vehicular activity on agricultural field","particulate emissions",1
+,,,,"nw","4",147,"not used","particulate emissions",1
+,,,,"NyrMax","150",146,"Set longer than sum of max operating life (40 yrs) and max exposure duration (100 yrs)","system",1
+,,,,"P","1",168,,"waterbody/watershed",0
+,,,,"pHFreq","2",145,"= frequency of application","system",1
+,,,,"PI_1","0",153,,"site",0
+,,,,"Sed_Density","2.5E6",144,,"waterbody/watershed",0
+,,,,"siteseed","55403126",146,,"system",1
+,,,,"solid","40",148,,"waste",0
+,,,,"SrcID","LAU",146,,"system",1
+,,,,"SrcLWSNumSubArea","2",146,,"system",1
+,,,,"SrcLWSSubAreaIndex","1",146,,"system",1
+,,,,"SrcNumLWS","1",146,,"system",1
+,,,,"Sw","10",147,,"waste",0
+,,,,"td","150",146,"set equal to max model simulation time (Nyrmax)","system",1
+,,,,"TermFrac","0",146,,"system",1
+,,,,"Theta_water","1.024",151,,"waterbody/watershed",0
+,,,,"thetawZ1d","0",146,,"system",1
+,,,,"thetawZ2d","0",146,,"system",1
+,,,,"Tilled","1",146,,"system",1
+,,,,"U","0",144,,"waterbody/watershed",0
+,,,,"VolBed_3","1578",145,"calculated as db x area _3","waterbody/watershed",1
+,,,,"VolWC_3","144317",145,"calculated as dw_3 x area _3","waterbody/watershed",1
+,,,,"vw","2.1",147,"not used","particulate emissions",1
+,,,,"WCP","1",144,"based on low TSS concentration in water column","waterbody/watershed",0
+,,,,"zava","0",144,,"site",1
+,,,,"zavb","0.20",148,,"site",1
+,,,,"Zt","20",148,,"site",1
+,,,,"Zu","2",148,,"site",1
+,,,,"zZ1sa","0.2",148,,"site",1
+,,,,"zZ2WMU","0",144,,"site",1
+,,1,,"AppDepth","0.2",148,"same as zZ1WMU, tilling depth","practices",0
+,,1,,"Cwmu","0.1",25,,"practices",0
+,,1,,"fcult","5",164,,"practices",0
+,,1,,"fd","0.2083",148,,"practices",0
+,,1,,"Pwmu","0.5",168,,"practices",0
+,,2,,"AppDepth","0.02",148,"same as zZ1WMU, tilling depth","practices",0
+,,2,,"Cwmu","0.1",25,,"practices",0
+,,2,,"fcult","1",164,,"practices",0
+,,2,,"fd","0.0416",148,,"practices",0
+,,2,,"Pwmu","1",168,,"practices",0
+,,3,,"AppDepth","0.02",148,"same as zZ1WMU, tilling depth","practices",0
+,,3,,"Cwmu","0.1",25,,"practices",0
+,,3,,"fcult","1",164,,"practices",0
+,,3,,"fd","0.0416",148,,"practices",0
+,,3,,"Pwmu","1",168,,"practices",0
+,"13880",,,"AirTemp","18.18",160,"determined by met station","met/hydro",0
+,"13880",,,"DTR","12",270,,"waterbody/watershed",0
+,,,,"dwc_5","2.0",269,,"waterbody/watershed",0
+,"13880",,,"MetSta","13880",146,,"met/hydro",1
+,"13880",,,"R","360",166,"determined by met station","met/hydro",0
+,"13880",,,"SiteLatitude","32.9",160,"determined by met station","met/hydro",0
+,"13880",,,"Twater1"," 284",169,"depends on HUC Region","met/hydro",0
+,"13880",,,"Twater10"," 297",169,"depends on HUC Region","met/hydro",0
+,"13880",,,"Twater11"," 292",169,"depends on HUC Region","met/hydro",0
+,"13880",,,"Twater12"," 288",169,"depends on HUC Region","met/hydro",0
+,"13880",,,"Twater2"," 282",169,"depends on HUC Region","met/hydro",0
+,"13880",,,"Twater3"," 283",169,"depends on HUC Region","met/hydro",0
+,"13880",,,"Twater4"," 287",169,"depends on HUC Region","met/hydro",0
+,"13880",,,"Twater5"," 291",169,"depends on HUC Region","met/hydro",0
+,"13880",,,"Twater6"," 295",169,"depends on HUC Region","met/hydro",0
+,"13880",,,"Twater7"," 299",169,"depends on HUC Region","met/hydro",0
+,"13880",,,"Twater8"," 300",169,"depends on HUC Region","met/hydro",0
+,"13880",,,"Twater9"," 299",169,"depends on HUC Region","met/hydro",0
+,"13880",,,"uw","3.788",160,"determined by met station","met/hydro",0
+,"94018",,,"AirTemp","10.11",160,"determined by met station","met/hydro",0
+,"94018",,,"DTR","12",270,,"waterbody/watershed",0
+,"94018",,,"MetSta","94018",146,,"met/hydro",1
+,"94018",,,"R","50",166,"determined by met station","met/hydro",0
+,"94018",,,"SiteLatitude","40.0167",160,"determined by met station","met/hydro",0
+,"94018",,,"Twater1"," 273",169,"depends on HUC Region","met/hydro",0
+,"94018",,,"Twater10"," 290",169,"depends on HUC Region","met/hydro",0
+,"94018",,,"Twater11"," 284",169,"depends on HUC Region","met/hydro",0
+,"94018",,,"Twater12"," 277",169,"depends on HUC Region","met/hydro",0
+,"94018",,,"Twater2"," 271",169,"depends on HUC Region","met/hydro",0
+,"94018",,,"Twater3"," 274",169,"depends on HUC Region","met/hydro",0
+,"94018",,,"Twater4"," 277",169,"depends on HUC Region","met/hydro",0
+,"94018",,,"Twater5"," 282",169,"depends on HUC Region","met/hydro",0
+,"94018",,,"Twater6"," 287",169,"depends on HUC Region","met/hydro",0
+,"94018",,,"Twater7"," 293",169,"depends on HUC Region","met/hydro",0
+,"94018",,,"Twater8"," 296",169,"depends on HUC Region","met/hydro",0
+,"94018",,,"Twater9"," 295",169,"depends on HUC Region","met/hydro",0
+,"94018",,,"uw","3.783",160,"determined by met station","met/hydro",0
+,"94846",,,"AirTemp","9.69",160,"determined by met station","met/hydro",0
+,"94846",,,"DTR","12",270,,"waterbody/watershed",0
+,"94846",,,"MetSta","94846",146,,"met/hydro",1
+,"94846",,,"R","155",166,"determined by met station","met/hydro",0
+,"94846",,,"SiteLatitude","41.983",160,"determined by met station","met/hydro",0
+,"94846",,,"Twater1"," 270",169,"depends on HUC Region","met/hydro",0
+,"94846",,,"Twater10"," 291",169,"depends on HUC Region","met/hydro",0
+,"94846",,,"Twater11"," 285",169,"depends on HUC Region","met/hydro",0
+,"94846",,,"Twater12"," 278",169,"depends on HUC Region","met/hydro",0
+,"94846",,,"Twater2"," 267",169,"depends on HUC Region","met/hydro",0
+,"94846",,,"Twater3"," 270",169,"depends on HUC Region","met/hydro",0
+,"94846",,,"Twater4"," 276",169,"depends on HUC Region","met/hydro",0
+,"94846",,,"Twater5"," 282",169,"depends on HUC Region","met/hydro",0
+,"94846",,,"Twater6"," 289",169,"depends on HUC Region","met/hydro",0
+,"94846",,,"Twater7"," 294",169,"depends on HUC Region","met/hydro",0
+,"94846",,,"Twater8"," 297",169,"depends on HUC Region","met/hydro",0
+,"94846",,,"Twater9"," 295",169,"depends on HUC Region","met/hydro",0
+,"94846",,,"uw","4.632",160,"determined by met station","met/hydro",0
+5159,,1,,"Area_1","323750",219,,"site",0
+5159,,1,,"Area_2","5690",145,"length of source x buffer width; width is 10 m per Part 503 Biosolids rule","site",0
+5159,,1,,"BD","1.5105",145,"calculated from WCS (saturated water content)","site",0
+5159,,1,,"CN","80",168,"based on cover type and hydrologic soil group","site",0
+5159,,1,,"CNwmu","88",168,"based on cover type and hydrologic soil group","site",0
+5159,,1,,"ConVs","5.362",161,"Median Value","site",0
+5159,,1,,"CutOffYr","40",148,,"practices",0
+5159,,1,,"DRZ","82.7",154,"Median Value","site",0
+5159,,1,,"effdust","0.495",164,"Median Value","site",0
+5159,,1,,"foc_soil","0.0118",163,"Calculated using percent organic matter from STATSGO, based on EPACMTP - Median Value","site",0
+5159,,1,,"K","0.0716",163,"area weighted average for each soil texture within met region - Median Value","site",0
+5159,,1,,"Ksat","0.45",149,"based on surface soil textures - Median Value","site",0
+5159,,1,,"Kwmu","0.0716",163,"area weighted average for each soil texture within met region - Median Value","site",0
+5159,,1,,"Lc","0.000231",164,"review - Median Value","site",0
+5159,,1,,"LS","1.5",25,,"site",0
+5159,,1,,"Nappl","1",148,,"practices",0
+5159,,1,,"PI_4","11.07",153,,"Percent impervious (watershed) - Median Value",0
+5159,,1,,"Rappl","0.0025",145,,"practices",0
+5159,,1,,"RWS_frac","0.451",148,"Median Value","site",0
+5159,,1,,"SMb","5.3",152,"based on surface soil textures - Median Value","site",0
+5159,,1,,"SMFC","22.48",150,"based on average hydrologic soil group for each soil texture - Median Value","site",0
+5159,,1,,"SMWP","11.48",150,"based on average hydrologic soil group for each soil texture - Median Value","site",0
+5159,,1,,"Ss","42.5",163,"area weighted average for each soil texture within met region - Median Value","site",0
+5159,,1,,"Theta","3.66",163,"area weighted average for each soil texture within met region - Median Value","site",0
+5159,,1,,"veg","0.8",144,"0.8-1.0, mean of 0.9, std dev 0.1, protective assumption for screening","site",0
+5159,,1,,"Vs_WB","10.07",151,"assumed triangular distribution with max corresponding to Chapra high end for phytoplankton - Median Value","waterbody/watershed",0
+5159,,1,,"WCS","0.43",149,"based on surface soil textures","site",0
+5159,,1,,"WSpH","6.0",163,"area weighted average for each soil texture within met region - Median Value","waterbody/watershed",0
+5159,,1,,"X","200",37,"Calculated based on equation in cited reference to give LS of 1.5 based on theta of 3.66","site",0
+5159,,1,,"zruf","1",164,,"practices",0
+5159,,1,,"zZ1WMU","0.2",148,,"practices",0
+5159,"13880",1,,"cyp_1","27035693.34",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"cyp_2","12852707.97",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"cyp_3","11348664.72",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"cyp_4","11348664.72",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"cyp_5","18464168.76",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"cyv_1","33075947.16",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"cyv_2","17009911.53",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"cyv_3","15084236.65",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"cyv_4","15084236.65",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"cyv_5","23611006.92",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"Dydp_1","5084892.15",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"Dydp_2","2403808.95",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"Dydp_3","2164717.82",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"Dydp_4","2164717.82",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"Dydp_5","2598760.07",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"Dydv_1","227661.7",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"Dydv_2","175155.54",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"Dydv_3","150985.04",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"Dydv_4","150985.04",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"Dydv_5","194649.95",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"Dywp_1","29826.71",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"Dywp_2","17276.12",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"Dywp_3","16751.03",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"Dywp_4","16751.03",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"Dywp_5","17873.62",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"Dywv_1","24.41",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"Dywv_2","20.41",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"Dywv_3","19.87",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"Dywv_4","19.87",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"Dywv_5","20.99",145,"from dispersion model","air model outputs",0
+5159,"13880",1,,"Huc_Region","3",162,"site-specific - Median Value based on MetSta","site",0
+5159,"94018",1,,"cyp_1","20012193.36",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"cyp_2","9636686.72",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"cyp_3","8057677.41",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"cyp_4","8057677.41",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"cyp_5","14472905.65",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"cyv_1","24327225.32",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"cyv_2","12308588.98",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"cyv_3","10447839.35",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"cyv_4","10447839.35",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"cyv_5","18116538.55",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"Dydp_1","5791301.49",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"Dydp_2","3596433.45",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"Dydp_3","3270590.36",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"Dydp_4","3270590.36",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"Dydp_5","3890549.87",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"Dydv_1","208780.99",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"Dydv_2","168367.31",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"Dydv_3","145366.75",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"Dydv_4","145366.75",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"Dydv_5","186347.41",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"Dywp_1","11169.58",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"Dywp_2","10504.25",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"Dywp_3","10245.99",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"Dywp_4","10245.99",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"Dywp_5","10745.67",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"Dywv_1","9.65",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"Dywv_2","11.24",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"Dywv_3","11.08",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"Dywv_4","11.08",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"Dywv_5","11.42",145,"from dispersion model","air model outputs",0
+5159,"94018",1,,"Huc_Region","10",162,"site-specific - Median Value based on MetSta","site",0
+5159,"94846",1,,"cyp_1","4205543.61",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"cyp_2","125281.29",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"cyp_3","120646.51",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"cyp_4","120646.51",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"cyp_5","130176.48",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"cyv_1","4494809.64",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"cyv_2","173092.62",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"cyv_3","167061.92",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"cyv_4","167061.92",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"cyv_5","179445.12",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"Dydp_1","765492.13",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"Dydp_2","29199.88",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"Dydp_3","28063.83",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"Dydp_4","28063.83",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"Dydp_5","30403.28",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"Dydv_1","39796.17",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"Dydv_2","1102.95",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"Dydv_3","1075.14",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"Dydv_4","1075.14",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"Dydv_5","1132.09",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"Dywp_1","3776.45",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"Dywp_2","282.11",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"Dywp_3","274.5",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"Dywp_4","274.5",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"Dywp_5","290.06",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"Dywv_1","1.67",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"Dywv_2","0.3",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"Dywv_3","0.29",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"Dywv_4","0.29",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"Dywv_5","0.3",145,"from dispersion model","air model outputs",0
+5159,"94846",1,,"Huc_Region","7",162,"site-specific - Median Value based on MetSta","site",0
+7118,,2,,"Area_1","323750",219,,"site",0
+7118,,2,,"Area_2","5690",145,"length of source x buffer width; width is 10 m per Part 503 Biosolids rule","site",0
+7118,,2,,"BD","1.5105",145,"calculated from WCS (saturated water content)","site",0
+7118,,2,,"CN","80",168,"based on cover type and hydrologic soil group","site",0
+7118,,2,,"CNwmu","74",168,"based on cover type and hydrologic soil group","site",0
+7118,,2,,"ConVs","5.362",161,"Median Value","site",0
+7118,,2,,"CutOffYr","40",148,,"practices",0
+7118,,2,,"DRZ","82.7",154,"Median Value","site",0
+7118,,2,,"effdust","0.495",164,"Median Value","site",0
+7118,,2,,"foc_soil","0.0118",163,"Calculated using percent organic matter from STATSGO, based on EPACMTP - Median Value","site",0
+7118,,2,,"K","0.0716",163,"area weighted average for each soil texture within met region - Median Value","site",0
+7118,,2,,"Ksat","0.45",149,"based on surface soil textures - Median Value","site",0
+7118,,2,,"Kwmu","0.0716",163,"area weighted average for each soil texture within met region - Median Value","site",0
+7118,,2,,"Lc","0.000231",164,"review - Median Value","site",0
+7118,,2,,"LS","1.5",25,,"site",0
+7118,,2,,"Nappl","1",148,,"practices",0
+7118,,2,,"PI_4","11.07",153,,"Percent impervious (watershed) - Median Value",0
+7118,,2,,"Rappl","0.0025",145,,"practices",0
+7118,,2,,"RWS_frac","0.451",148,"Median Value","site",0
+7118,,2,,"SMb","5.3",152,"based on surface soil textures - Median Value","site",0
+7118,,2,,"SMFC","22.48",150,"based on average hydrologic soil group for each soil texture - Median Value","site",0
+7118,,2,,"SMWP","11.48",150,"based on average hydrologic soil group for each soil texture - Median Value","site",0
+7118,,2,,"Ss","42.5",163,"area weighted average for each soil texture within met region - Median Value","site",0
+7118,,2,,"Theta","3.66",163,"area weighted average for each soil texture within met region - Median Value","site",0
+7118,,2,,"veg","0.8",144,"0.8-1.0, mean of 0.9, std dev 0.1, protective assumption for screening","site",0
+7118,,2,,"Vs_WB","10.07",151,"assumed triangular distribution with max corresponding to Chapra high end for phytoplankton - Median Value","waterbody/watershed",0
+7118,,2,,"WCS","0.43",149,"based on surface soil textures","site",0
+7118,,2,,"WSpH","6.0",163,"area weighted average for each soil texture within met region - Median Value","waterbody/watershed",0
+7118,,2,,"X","200",37,"Calculated based on equation in cited reference to give LS of 1.5 based on theta of 3.66","site",0
+7118,,2,,"zruf","3.7",164,,"practices",0
+7118,,2,,"zZ1WMU","0.02",148,,"practices",0
+7118,"13880",2,,"cyp_1","27035693.34",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"cyp_2","12852707.97",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"cyp_3","11348664.72",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"cyp_4","11348664.72",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"cyp_5","18464168.76",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"cyv_1","33075947.16",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"cyv_2","17009911.53",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"cyv_3","15084236.65",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"cyv_4","15084236.65",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"cyv_5","23611006.92",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"Dydp_1","5084892.15",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"Dydp_2","2403808.95",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"Dydp_3","2164717.82",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"Dydp_4","2164717.82",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"Dydp_5","2598760.07",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"Dydv_1","227661.7",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"Dydv_2","175155.54",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"Dydv_3","150985.04",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"Dydv_4","150985.04",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"Dydv_5","194649.95",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"Dywp_1","29826.71",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"Dywp_2","17276.12",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"Dywp_3","16751.03",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"Dywp_4","16751.03",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"Dywp_5","17873.62",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"Dywv_1","24.41",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"Dywv_2","20.41",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"Dywv_3","19.87",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"Dywv_4","19.87",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"Dywv_5","20.99",145,"from dispersion model","air model outputs",0
+7118,"13880",2,,"Huc_Region","3",162,"site-specific - Median Value based on MetSta","site",0
+7118,"94018",2,,"cyp_1","20012193.36",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"cyp_2","9636686.72",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"cyp_3","8057677.41",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"cyp_4","8057677.41",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"cyp_5","14472905.65",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"cyv_1","24327225.32",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"cyv_2","12308588.98",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"cyv_3","10447839.35",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"cyv_4","10447839.35",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"cyv_5","18116538.55",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"Dydp_1","5791301.49",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"Dydp_2","3596433.45",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"Dydp_3","3270590.36",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"Dydp_4","3270590.36",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"Dydp_5","3890549.87",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"Dydv_1","208780.99",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"Dydv_2","168367.31",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"Dydv_3","145366.75",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"Dydv_4","145366.75",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"Dydv_5","186347.41",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"Dywp_1","11169.58",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"Dywp_2","10504.25",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"Dywp_3","10245.99",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"Dywp_4","10245.99",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"Dywp_5","10745.67",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"Dywv_1","9.65",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"Dywv_2","11.24",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"Dywv_3","11.08",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"Dywv_4","11.08",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"Dywv_5","11.42",145,"from dispersion model","air model outputs",0
+7118,"94018",2,,"Huc_Region","10",162,"site-specific - Median Value based on MetSta","site",0
+7118,"94846",2,,"cyp_1","4205543.61",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"cyp_2","125281.29",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"cyp_3","120646.51",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"cyp_4","120646.51",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"cyp_5","130176.48",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"cyv_1","4494809.64",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"cyv_2","173092.62",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"cyv_3","167061.92",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"cyv_4","167061.92",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"cyv_5","179445.12",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"Dydp_1","765492.13",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"Dydp_2","29199.88",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"Dydp_3","28063.83",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"Dydp_4","28063.83",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"Dydp_5","30403.28",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"Dydv_1","39796.17",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"Dydv_2","1102.95",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"Dydv_3","1075.14",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"Dydv_4","1075.14",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"Dydv_5","1132.09",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"Dywp_1","3776.45",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"Dywp_2","282.11",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"Dywp_3","274.5",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"Dywp_4","274.5",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"Dywp_5","290.06",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"Dywv_1","1.67",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"Dywv_2","0.3",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"Dywv_3","0.29",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"Dywv_4","0.29",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"Dywv_5","0.3",145,"from dispersion model","air model outputs",0
+7118,"94846",2,,"Huc_Region","7",162,"site-specific - Median Value based on MetSta","site",0
+10001,,3,,"Area_1","323750",219,,"site",0
+10001,,3,,"Area_2","5690",145,"length of source x buffer width; width is 10 m per Part 503 Biosolids rule","site",0
+10001,,3,,"BD","1.5105",145,"calculated from WCS (saturated water content)","site",0
+10001,,3,,"CN","80",168,"based on cover type and hydrologic soil group","site",0
+10001,,3,,"CNwmu","74",168,"based on cover type and hydrologic soil group","site",0
+10001,,3,,"ConVs","5.362",161,"Median Value","site",0
+10001,,3,,"CutOffYr","1",148,,"practices",0
+10001,,3,,"DRZ","82.7",154,"Median Value","site",0
+10001,,3,,"effdust","0.495",164,"Median Value","site",0
+10001,,3,,"foc_soil","0.0118",163,"Calculated using percent organic matter from STATSGO, based on EPACMTP - Median Value","site",0
+10001,,3,,"K","0.0716",163,"area weighted average for each soil texture within met region - Median Value","site",0
+10001,,3,,"Ksat","0.45",149,"based on surface soil textures - Median Value","site",0
+10001,,3,,"Kwmu","0.0716",163,"area weighted average for each soil texture within met region - Median Value","site",0
+10001,,3,,"Lc","0.000231",164,"review - Median Value","site",0
+10001,,3,,"LS","1.5",25,,"site",0
+10001,,3,,"Nappl","1",148,,"practices",0
+10001,,3,,"PI_4","11.07",153,,"Percent impervious (watershed) - Median Value",0
+10001,,3,,"Rappl","0.0125",145,,"practices",0
+10001,,3,,"RWS_frac","0.451",148,"Median Value","site",0
+10001,,3,,"SMb","5.3",152,"based on surface soil textures - Median Value","site",0
+10001,,3,,"SMFC","22.48",150,"based on average hydrologic soil group for each soil texture - Median Value","site",0
+10001,,3,,"SMWP","11.48",150,"based on average hydrologic soil group for each soil texture - Median Value","site",0
+10001,,3,,"Ss","42.5",163,"area weighted average for each soil texture within met region - Median Value","site",0
+10001,,3,,"Theta","3.66",163,"area weighted average for each soil texture within met region - Median Value","site",0
+10001,,3,,"veg","0.8",144,"0.8-1.0, mean of 0.9, std dev 0.1, protective assumption for screening","site",0
+10001,,3,,"Vs_WB","10.07",151,"assumed triangular distribution with max corresponding to Chapra high end for phytoplankton - Median Value","waterbody/watershed",0
+10001,,3,,"WCS","0.43",149,"based on surface soil textures","site",0
+10001,,3,,"WSpH","6.0",163,"area weighted average for each soil texture within met region - Median Value","waterbody/watershed",0
+10001,,3,,"X","200",37,"Calculated based on equation in cited reference to give LS of 1.5 based on theta of 3.66","site",0
+10001,,3,,"zruf","3.7",164,,"practices",0
+10001,,3,,"zZ1WMU","0.02",148,,"practices",0
+10001,"13880",3,,"cyp_1","27035693.34",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"cyp_2","12852707.97",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"cyp_3","11348664.72",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"cyp_4","11348664.72",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"cyp_5","18464168.76",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"cyv_1","33075947.16",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"cyv_2","17009911.53",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"cyv_3","15084236.65",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"cyv_4","15084236.65",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"cyv_5","23611006.92",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"Dydp_1","5084892.15",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"Dydp_2","2403808.95",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"Dydp_3","2164717.82",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"Dydp_4","2164717.82",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"Dydp_5","2598760.07",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"Dydv_1","227661.7",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"Dydv_2","175155.54",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"Dydv_3","150985.04",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"Dydv_4","150985.04",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"Dydv_5","194649.95",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"Dywp_1","29826.71",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"Dywp_2","17276.12",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"Dywp_3","16751.03",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"Dywp_4","16751.03",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"Dywp_5","17873.62",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"Dywv_1","24.41",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"Dywv_2","20.41",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"Dywv_3","19.87",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"Dywv_4","19.87",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"Dywv_5","20.99",145,"from dispersion model","air model outputs",0
+10001,"13880",3,,"Huc_Region","3",162,"site-specific - Median Value based on MetSta","site",0
+10001,"94018",3,,"cyp_1","20012193.36",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"cyp_2","9636686.72",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"cyp_3","8057677.41",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"cyp_4","8057677.41",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"cyp_5","14472905.65",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"cyv_1","24327225.32",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"cyv_2","12308588.98",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"cyv_3","10447839.35",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"cyv_4","10447839.35",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"cyv_5","18116538.55",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"Dydp_1","5791301.49",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"Dydp_2","3596433.45",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"Dydp_3","3270590.36",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"Dydp_4","3270590.36",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"Dydp_5","3890549.87",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"Dydv_1","208780.99",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"Dydv_2","168367.31",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"Dydv_3","145366.75",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"Dydv_4","145366.75",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"Dydv_5","186347.41",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"Dywp_1","11169.58",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"Dywp_2","10504.25",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"Dywp_3","10245.99",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"Dywp_4","10245.99",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"Dywp_5","10745.67",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"Dywv_1","9.65",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"Dywv_2","11.24",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"Dywv_3","11.08",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"Dywv_4","11.08",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"Dywv_5","11.42",145,"from dispersion model","air model outputs",0
+10001,"94018",3,,"Huc_Region","10",162,"site-specific - Median Value based on MetSta","site",0
+10001,"94846",3,,"cyp_1","4205543.61",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"cyp_2","125281.29",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"cyp_3","120646.51",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"cyp_4","120646.51",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"cyp_5","130176.48",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"cyv_1","4494809.64",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"cyv_2","173092.62",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"cyv_3","167061.92",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"cyv_4","167061.92",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"cyv_5","179445.12",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"Dydp_1","765492.13",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"Dydp_2","29199.88",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"Dydp_3","28063.83",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"Dydp_4","28063.83",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"Dydp_5","30403.28",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"Dydv_1","39796.17",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"Dydv_2","1102.95",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"Dydv_3","1075.14",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"Dydv_4","1075.14",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"Dydv_5","1132.09",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"Dywp_1","3776.45",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"Dywp_2","282.11",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"Dywp_3","274.5",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"Dywp_4","274.5",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"Dywp_5","290.06",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"Dywv_1","1.67",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"Dywv_2","0.3",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"Dywv_3","0.29",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"Dywv_4","0.29",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"Dywv_5","0.3",145,"from dispersion model","air model outputs",0
+10001,"94846",3,,"Huc_Region","7",162,"site-specific - Median Value based on MetSta","site",0
+,,,,"D_over_dx_5","0.0000000081667",,"Added for VVWM","waterbody/watershed",0
+,,,,"D_over_dx_3","0.0000000059928",,"Added for VVWM","waterbody/watershed",0
+,,,0,"d_liner","0",197,"Not applicable as no liner",,0
+,,,1,"d_liner","0.9144",143,,,0
+,,,2,"d_liner","0",197,"Not applicable to composite liner",,0
+,,,0,"hydc_liner","0",197,"Not applicable as no liner",,0
+,,,1,"hydc_liner","1e-9",143,,,0
+,,,2,"hydc_liner","0",197,"Not applicable to composite liner",,0
+,,,0,"Infil_CompLiner","0",197,"Not applicable as no liner",,0
+,,,1,"Infil_CompLiner","0",197,"Not applicable to clay liner",,0
+,,,2,"Infil_CompLiner","1.4E-6",222,"90th percentile, converted from 5E-4 m/yr to m/d",,0
+,"13880",,,"cypSI_1","0",145,"from dispersion model","air model outputs",0
+,"94018",,,"cypSI_1","0",145,"from dispersion model","air model outputs",0
+,"94846",,,"cypSI_1","0",145,"from dispersion model","air model outputs",0
+,"13880",,,"cypSI_2","0",145,"from dispersion model","air model outputs",0
+,"94018",,,"cypSI_2","0",145,"from dispersion model","air model outputs",0
+,"94846",,,"cypSI_2","0",145,"from dispersion model","air model outputs",0
+,"13880",,,"cypSI_3","0",145,"from dispersion model","air model outputs",0
+,"94018",,,"cypSI_3","0",145,"from dispersion model","air model outputs",0
+,"94846",,,"cypSI_3","0",145,"from dispersion model","air model outputs",0
+,"13880",,,"cypSI_4","0",145,"from dispersion model","air model outputs",0
+,"94018",,,"cypSI_4","0",145,"from dispersion model","air model outputs",0
+,"94846",,,"cypSI_4","0",145,"from dispersion model","air model outputs",0
+,"13880",,,"cypSI_5","0",145,"from dispersion model","air model outputs",0
+,"94018",,,"cypSI_5","0",145,"from dispersion model","air model outputs",0
+,"94846",,,"cypSI_5","0",145,"from dispersion model","air model outputs",0
+,"13880",,,"cyvSI_1","4537388.18",145,"from dispersion model","air model outputs",0
+,"94018",,,"cyvSI_1","3051381.69",145,"from dispersion model","air model outputs",0
+,"94846",,,"cyvSI_1","4494809.64",145,"from dispersion model","air model outputs",0
+,"13880",,,"cyvSI_2","293415.52",145,"from dispersion model","air model outputs",0
+,"94018",,,"cyvSI_2","188728.54",145,"from dispersion model","air model outputs",0
+,"94846",,,"cyvSI_2","173092.62",145,"from dispersion model","air model outputs",0
+,"13880",,,"cyvSI_3","283157.93",145,"from dispersion model","air model outputs",0
+,"94018",,,"cyvSI_3","183166.8",145,"from dispersion model","air model outputs",0
+,"94846",,,"cyvSI_3","167061.92",145,"from dispersion model","air model outputs",0
+,"13880",,,"cyvSI_4","283157.93",145,"from dispersion model","air model outputs",0
+,"94018",,,"cyvSI_4","183166.8",145,"from dispersion model","air model outputs",0
+,"94846",,,"cyvSI_4","167061.92",145,"from dispersion model","air model outputs",0
+,"13880",,,"cyvSI_5","304206.39",145,"from dispersion model","air model outputs",0
+,"94018",,,"cyvSI_5","194562.9",145,"from dispersion model","air model outputs",0
+,"94846",,,"cyvSI_5","179445.12",145,"from dispersion model","air model outputs",0
+,"13880",,,"DydpSI_1","0",145,"from dispersion model","air model outputs",0
+,"94018",,,"DydpSI_1","0",145,"from dispersion model","air model outputs",0
+,"94846",,,"DydpSI_1","0",145,"from dispersion model","air model outputs",0
+,"13880",,,"DydpSI_2","0",145,"from dispersion model","air model outputs",0
+,"94018",,,"DydpSI_2","0",145,"from dispersion model","air model outputs",0
+,"94846",,,"DydpSI_2","0",145,"from dispersion model","air model outputs",0
+,"13880",,,"DydpSI_3","0",145,"from dispersion model","air model outputs",0
+,"94018",,,"DydpSI_3","0",145,"from dispersion model","air model outputs",0
+,"94846",,,"DydpSI_3","0",145,"from dispersion model","air model outputs",0
+,"13880",,,"DydpSI_4","0",145,"from dispersion model","air model outputs",0
+,"94018",,,"DydpSI_4","0",145,"from dispersion model","air model outputs",0
+,"94846",,,"DydpSI_4","0",145,"from dispersion model","air model outputs",0
+,"13880",,,"DydpSI_5","0",145,"from dispersion model","air model outputs",0
+,"94018",,,"DydpSI_5","0",145,"from dispersion model","air model outputs",0
+,"94846",,,"DydpSI_5","0",145,"from dispersion model","air model outputs",0
+,"13880",,,"DydvSI_1","0",145,"from dispersion model","air model outputs",0
+,"94018",,,"DydvSI_1","0",145,"from dispersion model","air model outputs",0
+,"94846",,,"DydvSI_1","0",145,"from dispersion model","air model outputs",0
+,"13880",,,"DydvSI_2","0",145,"from dispersion model","air model outputs",0
+,"94018",,,"DydvSI_2","0",145,"from dispersion model","air model outputs",0
+,"94846",,,"DydvSI_2","0",145,"from dispersion model","air model outputs",0
+,"13880",,,"DydvSI_3","0",145,"from dispersion model","air model outputs",0
+,"94018",,,"DydvSI_3","0",145,"from dispersion model","air model outputs",0
+,"94846",,,"DydvSI_3","0",145,"from dispersion model","air model outputs",0
+,"13880",,,"DydvSI_4","0",145,"from dispersion model","air model outputs",0
+,"94018",,,"DydvSI_4","0",145,"from dispersion model","air model outputs",0
+,"94846",,,"DydvSI_4","0",145,"from dispersion model","air model outputs",0
+,"13880",,,"DydvSI_5","0",145,"from dispersion model","air model outputs",0
+,"94018",,,"DydvSI_5","0",145,"from dispersion model","air model outputs",0
+,"94846",,,"DydvSI_5","0",145,"from dispersion model","air model outputs",0
+,"13880",,,"DywpSI_1","0",145,"from dispersion model","air model outputs",0
+,"94018",,,"DywpSI_1","0",145,"from dispersion model","air model outputs",0
+,"94846",,,"DywpSI_1","0",145,"from dispersion model","air model outputs",0
+,"13880",,,"DywpSI_2","0",145,"from dispersion model","air model outputs",0
+,"94018",,,"DywpSI_2","0",145,"from dispersion model","air model outputs",0
+,"94846",,,"DywpSI_2","0",145,"from dispersion model","air model outputs",0
+,"13880",,,"DywpSI_3","0",145,"from dispersion model","air model outputs",0
+,"94018",,,"DywpSI_3","0",145,"from dispersion model","air model outputs",0
+,"94846",,,"DywpSI_3","0",145,"from dispersion model","air model outputs",0
+,"13880",,,"DywpSI_4","0",145,"from dispersion model","air model outputs",0
+,"94018",,,"DywpSI_4","0",145,"from dispersion model","air model outputs",0
+,"94846",,,"DywpSI_4","0",145,"from dispersion model","air model outputs",0
+,"13880",,,"DywpSI_5","0",145,"from dispersion model","air model outputs",0
+,"94018",,,"DywpSI_5","0",145,"from dispersion model","air model outputs",0
+,"94846",,,"DywpSI_5","0",145,"from dispersion model","air model outputs",0
+,"13880",,,"DywvSI_1","0",145,"from dispersion model","air model outputs",0
+,"94018",,,"DywvSI_1","0",145,"from dispersion model","air model outputs",0
+,"94846",,,"DywvSI_1","0",145,"from dispersion model","air model outputs",0
+,"13880",,,"DywvSI_2","0",145,"from dispersion model","air model outputs",0
+,"94018",,,"DywvSI_2","0",145,"from dispersion model","air model outputs",0
+,"94846",,,"DywvSI_2","0",145,"from dispersion model","air model outputs",0
+,"13880",,,"DywvSI_3","0",145,"from dispersion model","air model outputs",0
+,"94018",,,"DywvSI_3","0",145,"from dispersion model","air model outputs",0
+,"94846",,,"DywvSI_3","0",145,"from dispersion model","air model outputs",0
+,"13880",,,"DywvSI_4","0",145,"from dispersion model","air model outputs",0
+,"94018",,,"DywvSI_4","0",145,"from dispersion model","air model outputs",0
+,"94846",,,"DywvSI_4","0",145,"from dispersion model","air model outputs",0
+,"13880",,,"DywvSI_5","0",145,"from dispersion model","air model outputs",0
+,"94018",,,"DywvSI_5","0",145,"from dispersion model","air model outputs",0
+,"94846",,,"DywvSI_5","0",145,"from dispersion model","air model outputs",0
+,,,0,"DAF_SI","1",144,,,0
+,,,1,"DAF_SI","2",144,,,0
+,,,2,"DAF_SI","1E+7",144,,,0

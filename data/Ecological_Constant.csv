@@ -1,0 +1,3460 @@
+CAS,EcoRecID,ModelCode,Value,RefID,Comment,UserModified,userComment,DoNotShowValue
+,54,Crfrac_Sed,0.104,73,,FALSE,,FALSE
+,54,DF_2,0.75,73,"Min, Avg, Max = 0.5, 0.75, 1",FALSE,,FALSE
+,54,DF_7,0.125,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,54,DF_8,0.125,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+50328,8,BMD,0.4,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+60548,8,BMD,8,125,test species: Rat,FALSE,test species: Rat,FALSE
+117817,8,BMD,7.1,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7429905,8,BMD,0.8,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7439921,8,BMD,1,265,test species: Rat,FALSE,test species: Rat,FALSE
+7439965,8,BMD,38,256,test species: Sheep,FALSE,test species: Sheep,FALSE
+7439976,8,BMD,0.3,122,test species: Mink,FALSE,test species: Mink,FALSE
+7439987,8,BMD,0.1,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440020,8,BMD,0.2,266,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440224,8,BMD,3.1,255,test species: Pig,FALSE,test species: Pig,FALSE
+7440280,8,BMD,0.005,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440315,8,BMD,3.5,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440360,8,BMD,0.01,260,test species: Rat,FALSE,test species: Rat,FALSE
+7440382,8,BMD,0.6,252,test species: Dog,FALSE,test species: Dog,FALSE
+7440393,8,BMD,12,253,test species: Rat,FALSE,test species: Rat,FALSE
+7440417,8,BMD,0.1,254,test species: Rat,FALSE,test species: Rat,FALSE
+7440428,8,BMD,12,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440439,8,BMD,0.2,261,test species: Rat,FALSE,test species: Rat,FALSE
+7440484,8,BMD,1.6,263,test species: Rat,FALSE,test species: Rat,FALSE
+7440508,8,BMD,5.3,264,test species: Pig,FALSE,test species: Pig,FALSE
+7440622,8,BMD,0.6,268,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440666,8,BMD,30,257,test species: Rabbit,FALSE,test species: Rabbit,FALSE
+7783086,8,BMD,0.09,267,test species: Pig,FALSE,test species: Pig,FALSE
+14797558,8,BMD,220,122,test species: Guinea Pig,FALSE,test species: Guinea Pig,FALSE
+16065831,8,BMD,0.7,262,test species: Pig,FALSE,test species: Pig,FALSE
+16984488,8,BMD,12,122,test species: Mink,FALSE,test species: Mink,FALSE
+18540299,8,BMD,2.3,262,test species: Rat,FALSE,test species: Rat,FALSE
+50328,15,BMD,0.7,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+60548,15,BMD,14,125,test species: Rat,FALSE,test species: Rat,FALSE
+117817,15,BMD,13,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7429905,15,BMD,1.3,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7439921,15,BMD,1.8,265,test species: Rat,FALSE,test species: Rat,FALSE
+7439965,15,BMD,67,256,test species: Sheep,FALSE,test species: Sheep,FALSE
+7439976,15,BMD,0.5,122,test species: Mink,FALSE,test species: Mink,FALSE
+7439987,15,BMD,0.2,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440020,15,BMD,0.4,266,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440224,15,BMD,5.5,255,test species: Pig,FALSE,test species: Pig,FALSE
+7440280,15,BMD,0.01,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440315,15,BMD,6.3,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440360,15,BMD,0.02,260,test species: Rat,FALSE,test species: Rat,FALSE
+7440382,15,BMD,1,252,test species: Dog,FALSE,test species: Dog,FALSE
+7440393,15,BMD,21,253,test species: Rat,FALSE,test species: Rat,FALSE
+7440417,15,BMD,0.2,254,test species: Rat,FALSE,test species: Rat,FALSE
+7440428,15,BMD,21,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440439,15,BMD,0.3,261,test species: Rat,FALSE,test species: Rat,FALSE
+7440484,15,BMD,2.9,263,test species: Rat,FALSE,test species: Rat,FALSE
+7440508,15,BMD,9.3,264,test species: Pig,FALSE,test species: Pig,FALSE
+7440622,15,BMD,1,268,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440666,15,BMD,53,257,test species: Rabbit,FALSE,test species: Rabbit,FALSE
+7783086,15,BMD,0.2,267,test species: Pig,FALSE,test species: Pig,FALSE
+14797558,15,BMD,380,122,test species: Guinea Pig,FALSE,test species: Guinea Pig,FALSE
+16065831,15,BMD,1.2,262,test species: Pig,FALSE,test species: Pig,FALSE
+16984488,15,BMD,21,122,test species: Mink,FALSE,test species: Mink,FALSE
+18540299,15,BMD,4.1,262,test species: Rat,FALSE,test species: Rat,FALSE
+50328,16,BMD,3.5,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+60548,16,BMD,72,125,test species: Rat,FALSE,test species: Rat,FALSE
+117817,16,BMD,64,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7429905,16,BMD,6.8,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7439921,16,BMD,9.3,265,test species: Rat,FALSE,test species: Rat,FALSE
+7439965,16,BMD,340,256,test species: Sheep,FALSE,test species: Sheep,FALSE
+7439976,16,BMD,2.7,122,test species: Mink,FALSE,test species: Mink,FALSE
+7439987,16,BMD,0.9,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440020,16,BMD,1.8,266,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440224,16,BMD,28,255,test species: Pig,FALSE,test species: Pig,FALSE
+7440280,16,BMD,0.05,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440315,16,BMD,32,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440360,16,BMD,0.1,260,test species: Rat,FALSE,test species: Rat,FALSE
+7440382,16,BMD,5,252,test species: Dog,FALSE,test species: Dog,FALSE
+7440393,16,BMD,110,253,test species: Rat,FALSE,test species: Rat,FALSE
+7440417,16,BMD,1.2,254,test species: Rat,FALSE,test species: Rat,FALSE
+7440428,16,BMD,110,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440439,16,BMD,1.7,261,test species: Rat,FALSE,test species: Rat,FALSE
+7440484,16,BMD,14,263,test species: Rat,FALSE,test species: Rat,FALSE
+7440508,16,BMD,47,264,test species: Pig,FALSE,test species: Pig,FALSE
+7440622,16,BMD,5.2,268,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440666,16,BMD,270,257,test species: Rabbit,FALSE,test species: Rabbit,FALSE
+7783086,16,BMD,0.8,267,test species: Pig,FALSE,test species: Pig,FALSE
+14797558,16,BMD,1900,122,test species: Guinea Pig,FALSE,test species: Guinea Pig,FALSE
+16065831,16,BMD,6.3,262,test species: Pig,FALSE,test species: Pig,FALSE
+16984488,16,BMD,110,122,test species: Mink,FALSE,test species: Mink,FALSE
+18540299,16,BMD,21,262,test species: Rat,FALSE,test species: Rat,FALSE
+50328,18,BMD,1.2,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+60548,18,BMD,26,125,test species: Rat,FALSE,test species: Rat,FALSE
+117817,18,BMD,23,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7429905,18,BMD,2.4,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7439921,18,BMD,3.3,265,test species: Rat,FALSE,test species: Rat,FALSE
+7439965,18,BMD,120,256,test species: Sheep,FALSE,test species: Sheep,FALSE
+7439976,18,BMD,0.9,122,test species: Mink,FALSE,test species: Mink,FALSE
+7439987,18,BMD,0.3,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440020,18,BMD,0.6,266,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440224,18,BMD,9.9,255,test species: Pig,FALSE,test species: Pig,FALSE
+7440280,18,BMD,0.02,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440315,18,BMD,11,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440360,18,BMD,0.04,260,test species: Rat,FALSE,test species: Rat,FALSE
+7440382,18,BMD,1.8,252,test species: Dog,FALSE,test species: Dog,FALSE
+7440393,18,BMD,38,253,test species: Rat,FALSE,test species: Rat,FALSE
+7440417,18,BMD,0.4,254,test species: Rat,FALSE,test species: Rat,FALSE
+7440428,18,BMD,37,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440439,18,BMD,0.6,261,test species: Rat,FALSE,test species: Rat,FALSE
+7440484,18,BMD,5.2,263,test species: Rat,FALSE,test species: Rat,FALSE
+7440508,18,BMD,17,264,test species: Pig,FALSE,test species: Pig,FALSE
+7440622,18,BMD,1.8,268,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440666,18,BMD,96,257,test species: Rabbit,FALSE,test species: Rabbit,FALSE
+7783086,18,BMD,0.3,267,test species: Pig,FALSE,test species: Pig,FALSE
+14797558,18,BMD,690,122,test species: Guinea Pig,FALSE,test species: Guinea Pig,FALSE
+16065831,18,BMD,2.2,262,test species: Pig,FALSE,test species: Pig,FALSE
+16984488,18,BMD,39,122,test species: Mink,FALSE,test species: Mink,FALSE
+18540299,18,BMD,7.5,262,test species: Rat,FALSE,test species: Rat,FALSE
+50328,28,BMD,2.9,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+60548,28,BMD,60,125,test species: Rat,FALSE,test species: Rat,FALSE
+117817,28,BMD,54,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7429905,28,BMD,5.6,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7439921,28,BMD,7.7,265,test species: Rat,FALSE,test species: Rat,FALSE
+7439965,28,BMD,280,256,test species: Sheep,FALSE,test species: Sheep,FALSE
+7439976,28,BMD,2.2,122,test species: Mink,FALSE,test species: Mink,FALSE
+7439987,28,BMD,0.8,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440020,28,BMD,1.5,266,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440224,28,BMD,23,255,test species: Pig,FALSE,test species: Pig,FALSE
+7440280,28,BMD,0.04,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440315,28,BMD,26,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440360,28,BMD,0.1,260,test species: Rat,FALSE,test species: Rat,FALSE
+7440382,28,BMD,4.1,252,test species: Dog,FALSE,test species: Dog,FALSE
+7440393,28,BMD,88,253,test species: Rat,FALSE,test species: Rat,FALSE
+7440417,28,BMD,1,254,test species: Rat,FALSE,test species: Rat,FALSE
+7440428,28,BMD,88,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440439,28,BMD,1.4,261,test species: Rat,FALSE,test species: Rat,FALSE
+7440484,28,BMD,12,263,test species: Rat,FALSE,test species: Rat,FALSE
+7440508,28,BMD,39,264,test species: Pig,FALSE,test species: Pig,FALSE
+7440622,28,BMD,4.3,268,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440666,28,BMD,220,257,test species: Rabbit,FALSE,test species: Rabbit,FALSE
+7783086,28,BMD,0.7,267,test species: Pig,FALSE,test species: Pig,FALSE
+14797558,28,BMD,1600,122,test species: Guinea Pig,FALSE,test species: Guinea Pig,FALSE
+16065831,28,BMD,5.3,262,test species: Pig,FALSE,test species: Pig,FALSE
+16984488,28,BMD,90,122,test species: Mink,FALSE,test species: Mink,FALSE
+18540299,28,BMD,18,262,test species: Rat,FALSE,test species: Rat,FALSE
+50328,30,BMD,4.3,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+60548,30,BMD,88,125,test species: Rat,FALSE,test species: Rat,FALSE
+117817,30,BMD,79,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7429905,30,BMD,8.3,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7439921,30,BMD,11,265,test species: Rat,FALSE,test species: Rat,FALSE
+7439965,30,BMD,420,256,test species: Sheep,FALSE,test species: Sheep,FALSE
+7439976,30,BMD,3.3,122,test species: Mink,FALSE,test species: Mink,FALSE
+7439987,30,BMD,1.1,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440020,30,BMD,2.2,266,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440224,30,BMD,34,255,test species: Pig,FALSE,test species: Pig,FALSE
+7440280,30,BMD,0.06,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440315,30,BMD,39,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440360,30,BMD,0.1,260,test species: Rat,FALSE,test species: Rat,FALSE
+7440382,30,BMD,6.1,252,test species: Dog,FALSE,test species: Dog,FALSE
+7440393,30,BMD,130,253,test species: Rat,FALSE,test species: Rat,FALSE
+7440417,30,BMD,1.5,254,test species: Rat,FALSE,test species: Rat,FALSE
+7440428,30,BMD,130,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440439,30,BMD,2,261,test species: Rat,FALSE,test species: Rat,FALSE
+7440484,30,BMD,18,263,test species: Rat,FALSE,test species: Rat,FALSE
+7440508,30,BMD,58,264,test species: Pig,FALSE,test species: Pig,FALSE
+7440622,30,BMD,6.3,268,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440666,30,BMD,330,257,test species: Rabbit,FALSE,test species: Rabbit,FALSE
+7783086,30,BMD,1,267,test species: Pig,FALSE,test species: Pig,FALSE
+14797558,30,BMD,2400,122,test species: Guinea Pig,FALSE,test species: Guinea Pig,FALSE
+16065831,30,BMD,7.7,262,test species: Pig,FALSE,test species: Pig,FALSE
+16984488,30,BMD,130,122,test species: Mink,FALSE,test species: Mink,FALSE
+18540299,30,BMD,26,262,test species: Rat,FALSE,test species: Rat,FALSE
+50328,32,BMD,2,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+60548,32,BMD,41,125,test species: Rat,FALSE,test species: Rat,FALSE
+117817,32,BMD,37,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7429905,32,BMD,3.9,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7439921,32,BMD,5.3,265,test species: Rat,FALSE,test species: Rat,FALSE
+7439965,32,BMD,190,256,test species: Sheep,FALSE,test species: Sheep,FALSE
+7439976,32,BMD,1.5,122,test species: Mink,FALSE,test species: Mink,FALSE
+7439987,32,BMD,0.5,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440020,32,BMD,1,266,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440224,32,BMD,16,255,test species: Pig,FALSE,test species: Pig,FALSE
+7440280,32,BMD,0.03,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440315,32,BMD,18,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440360,32,BMD,0.07,260,test species: Rat,FALSE,test species: Rat,FALSE
+7440382,32,BMD,2.8,252,test species: Dog,FALSE,test species: Dog,FALSE
+7440393,32,BMD,60,253,test species: Rat,FALSE,test species: Rat,FALSE
+7440417,32,BMD,0.7,254,test species: Rat,FALSE,test species: Rat,FALSE
+7440428,32,BMD,60,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440439,32,BMD,0.9,261,test species: Rat,FALSE,test species: Rat,FALSE
+7440484,32,BMD,8.2,263,test species: Rat,FALSE,test species: Rat,FALSE
+7440508,32,BMD,27,264,test species: Pig,FALSE,test species: Pig,FALSE
+7440622,32,BMD,2.9,268,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440666,32,BMD,150,257,test species: Rabbit,FALSE,test species: Rabbit,FALSE
+7783086,32,BMD,0.4,267,test species: Pig,FALSE,test species: Pig,FALSE
+14797558,32,BMD,1100,122,test species: Guinea Pig,FALSE,test species: Guinea Pig,FALSE
+16065831,32,BMD,3.6,262,test species: Pig,FALSE,test species: Pig,FALSE
+7440020,,BAF_SmMammals,0.25,124,"Table 7, general, median",FALSE,,FALSE
+7440020,,BAF_SoilInvert,0.464,87,"Table 2, P90 (dataset=all), adjust for 80% moisture content to convert from dry to wet wt; data are for benthic organisms used as surrogate for soil",FALSE,,FALSE
+7440020,,BAF_Worms,0.17,123,"Table 11, median, adjust for 84% moisture content to convert from dry to wet wt",FALSE,,FALSE
+7440020,1,BMC_Soil,38,266,,FALSE,,FALSE
+7440020,58,BMC_Soil,280,266,,FALSE,,FALSE
+7440020,67,BMC_Soil,130,266,,FALSE,,FALSE
+7440020,68,BMC_Soil,210,266,,FALSE,,FALSE
+298464,65,ED_Eco,4,110,,FALSE,,FALSE
+114078,65,ED_Eco,1,103,,FALSE,,FALSE
+25812300,65,ED_Eco,4,118,,FALSE,,FALSE
+7440235,,BAF_HerbVert,61.8,124,"Table C.1, general, median",FALSE,,FALSE
+7440235,,BAF_OmnVert,61.8,124,"Table C.1, general, median",FALSE,,FALSE
+7440235,,BAF_SmBirds,61.8,124,"Table C.1, general, median",FALSE,,FALSE
+7440235,,BAF_SmHerp,61.8,124,"Table C.1, general, median",FALSE,,FALSE
+7440235,,BAF_SmMammals,61.8,124,"Table C.1, general, median",FALSE,,FALSE
+7440235,,BAF_SoilInvert,0,196,No data,FALSE,,FALSE
+7440235,,BAF_Worms,0.692,123,"Table C.1, median, adjust for 84% moisture content to convert from dry to wet wt",FALSE,,FALSE
+7440280,,BAF_HerbVert,0.11,124,"Table 7, general, median",FALSE,,FALSE
+7440280,,BAF_OmnVert,0.11,124,"Table 7, general, median",FALSE,,FALSE
+298464,,BAF_SmBirds,1,143,"Default, no data",FALSE,,FALSE
+16984488,32,BMD,62,122,test species: Mink,FALSE,test species: Mink,FALSE
+18540299,32,BMD,12,262,test species: Rat,FALSE,test species: Rat,FALSE
+50328,35,BMD,3.5,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+60548,35,BMD,71,125,test species: Rat,FALSE,test species: Rat,FALSE
+117817,35,BMD,63,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7429905,35,BMD,6.7,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7439921,35,BMD,9.2,265,test species: Rat,FALSE,test species: Rat,FALSE
+7439965,35,BMD,340,256,test species: Sheep,FALSE,test species: Sheep,FALSE
+7439976,35,BMD,2.6,122,test species: Mink,FALSE,test species: Mink,FALSE
+7439987,35,BMD,0.9,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440020,35,BMD,1.8,266,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440224,35,BMD,27,255,test species: Pig,FALSE,test species: Pig,FALSE
+7440280,35,BMD,0.05,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440315,35,BMD,31,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440360,35,BMD,0.1,260,test species: Rat,FALSE,test species: Rat,FALSE
+7440382,35,BMD,4.9,252,test species: Dog,FALSE,test species: Dog,FALSE
+7440393,35,BMD,100,253,test species: Rat,FALSE,test species: Rat,FALSE
+7440417,35,BMD,1.2,254,test species: Rat,FALSE,test species: Rat,FALSE
+7440428,35,BMD,100,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440439,35,BMD,1.6,261,test species: Rat,FALSE,test species: Rat,FALSE
+7440484,35,BMD,14,263,test species: Rat,FALSE,test species: Rat,FALSE
+298464,,BAF_SmHerp,1,143,"Default, no data",FALSE,,FALSE
+298464,,BAF_SmMammals,1,143,"Default, no data",FALSE,,FALSE
+298464,,BAF_SoilInvert,1,143,"Default, no data",FALSE,,FALSE
+298464,,BAF_Worms,1,143,"Default, no data",FALSE,,FALSE
+564250,,BAF_HerbVert,1,143,"Default, no data",FALSE,,FALSE
+564250,,BAF_OmnVert,1,143,"Default, no data",FALSE,,FALSE
+564250,,BAF_SmBirds,1,143,"Default, no data",FALSE,,FALSE
+564250,,BAF_SmHerp,1,143,"Default, no data",FALSE,,FALSE
+564250,,BAF_SmMammals,1,143,"Default, no data",FALSE,,FALSE
+564250,,BAF_SoilInvert,1,143,"Default, no data",FALSE,,FALSE
+564250,,BAF_Worms,1,143,"Default, no data",FALSE,,FALSE
+723466,,BAF_HerbVert,1,143,"Default, no data",FALSE,,FALSE
+723466,,BAF_OmnVert,1,143,"Default, no data",FALSE,,FALSE
+723466,,BAF_SmBirds,1,143,"Default, no data",FALSE,,FALSE
+723466,,BAF_SmHerp,1,143,"Default, no data",FALSE,,FALSE
+723466,,BAF_SmMammals,1,143,"Default, no data",FALSE,,FALSE
+723466,,BAF_SoilInvert,1,143,"Default, no data",FALSE,,FALSE
+723466,,BAF_Worms,1,143,"Default, no data",FALSE,,FALSE
+1163195,,BAF_Herbvert,1,143,"Default, no data",FALSE,,FALSE
+1163195,,BAF_OmnVert,1,143,"Default, no data",FALSE,,FALSE
+1163195,,BAF_SmBirds,1,143,"Default, no data",FALSE,,FALSE
+1163195,,BAF_SmHerp,1,143,"Default, no data",FALSE,,FALSE
+1163195,,BAF_SmMammals,1,143,"Default, no data",FALSE,,FALSE
+1163195,,BAF_SoilInvert,1,143,"Default, no data",FALSE,,FALSE
+1163195,,BAF_Worms,1,143,"Default, no data",FALSE,,FALSE
+7440439,59,BMC_Water,0.00072,74,,FALSE,,FALSE
+16065831,59,BMC_Water,0.074,74,,FALSE,,FALSE
+18540299,59,BMC_Water,0.011,74,,FALSE,,FALSE
+7439896,59,BMC_Water,1,74,,FALSE,,FALSE
+7439921,59,BMC_Water,0.0025,74,,FALSE,,FALSE
+7440020,59,BMC_Water,0.052,74,,FALSE,,FALSE
+298464,60,BMC_Water,35.4,106,,FALSE,,FALSE
+51481619,60,BMC_Water,100,106,,FALSE,,FALSE
+42399417,60,BMC_Water,15,106,,FALSE,,FALSE
+114078,60,BMC_Water,349,78,,FALSE,,FALSE
+54910893,60,BMC_Water,0.01,109,,FALSE,,FALSE
+91576,60,BMC_Water,1.46,105,,FALSE,,FALSE
+70458967,60,BMC_Water,1000,108,,FALSE,,FALSE
+3380345,,BAF_Herbvert,1,143,"Default, no data",FALSE,,FALSE
+7440382,68,BMC_Soil,43,252,,FALSE,,FALSE
+7440382,67,BMC_Soil,46,252,,FALSE,,FALSE
+7440382,1,BMC_Soil,18,252,,FALSE,,FALSE
+7440393,67,BMC_Soil,2000,253,,FALSE,,FALSE
+3380345,,BAF_OmnVert,1,143,"Default, no data",FALSE,,FALSE
+3380345,,BAF_SmBirds,1,143,"Default, no data",FALSE,,FALSE
+3380345,,BAF_SmHerp,1,143,"Default, no data",FALSE,,FALSE
+7440508,35,BMD,47,264,test species: Pig,FALSE,test species: Pig,FALSE
+7440622,35,BMD,5.1,268,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440666,35,BMD,270,257,test species: Rabbit,FALSE,test species: Rabbit,FALSE
+7487947,,BCF_Bff,1600000,38,BAF_T3W used as surrogate,FALSE,,FALSE
+7439976,,BCF_Bff,0,25,BAF_T3W used as surrogate,FALSE,,FALSE
+7429905,,BCF_Bff,36,17,BAF_T3W used as surrogate,FALSE,,FALSE
+7440360,,BCF_Bff,0,55,BAF_T3W used as surrogate,FALSE,,FALSE
+7440382,,BCF_Bff,4,55,BAF_T3W used as surrogate,FALSE,,FALSE
+7440393,,BCF_Bff,130,212,BAF_T3W used as surrogate,FALSE,,FALSE
+7440417,,BCF_Bff,19,55,BAF_T3W used as surrogate,FALSE,,FALSE
+3380345,,BAF_SmMammals,1,143,"Default, no data",FALSE,,FALSE
+3380345,,BAF_SoilInvert,1,143,"Default, no data",FALSE,,FALSE
+3380345,,BAF_Worms,1,143,"Default, no data",FALSE,,FALSE
+7429905,,BAF_HerbVert,0.026,124,"Table C.1, general, median",FALSE,,FALSE
+7429905,,BAF_OmnVert,0.026,124,"Table C.1, general, median",FALSE,,FALSE
+7429905,,BAF_SmBirds,0.026,124,"Table C.1, general, median",FALSE,,FALSE
+7429905,,BAF_SmHerp,0.026,124,"Table C.1, general, median",FALSE,,FALSE
+7429905,,BAF_SmMammals,0.026,124,"Table C.1, general, median",FALSE,,FALSE
+7429905,,BAF_SoilInvert,0,196,No data,FALSE,,FALSE
+7429905,,BAF_Worms,0.00688,123,"Table C.1, median, adjust for 84% moisture content to convert from dry to wet wt",FALSE,,FALSE
+50328,,BAF_HerbVert,1,143,"Default, no data",FALSE,,FALSE
+50328,,BAF_OmnVert,1,143,"Default, no data",FALSE,,FALSE
+50328,,BAF_SmBirds,1,143,"Default, no data",FALSE,,FALSE
+50328,,BAF_SmHerp,1,143,"Default, no data",FALSE,,FALSE
+50328,,BAF_SmMammals,1,143,"Default, no data",FALSE,,FALSE
+50328,,BAF_SoilInvert,1,143,"Default, no data",FALSE,,FALSE
+50328,,BAF_Worms,1,143,"Default, no data",FALSE,,FALSE
+7440393,58,BMC_soil,330,253,,FALSE,,FALSE
+7439965,68,BMC_Soil,4300,256,,FALSE,,FALSE
+7439965,67,BMC_soil,4000,256,,FALSE,,FALSE
+7439965,58,BMC_soil,450,256,,FALSE,,FALSE
+7439965,1,BMC_Soil,220,256,,FALSE,,FALSE
+7440417,67,BMC_soil,21,254,,FALSE,,FALSE
+7783086,35,BMD,0.8,267,test species: Pig,FALSE,test species: Pig,FALSE
+14797558,35,BMD,1900,122,test species: Guinea Pig,FALSE,test species: Guinea Pig,FALSE
+16065831,35,BMD,6.2,262,test species: Pig,FALSE,test species: Pig,FALSE
+16984488,35,BMD,110,122,test species: Mink,FALSE,test species: Mink,FALSE
+18540299,35,BMD,21,262,test species: Rat,FALSE,test species: Rat,FALSE
+50328,36,BMD,1.3,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+60548,36,BMD,27,125,test species: Rat,FALSE,test species: Rat,FALSE
+117817,36,BMD,24,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7429905,36,BMD,2.5,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7439921,36,BMD,3.5,265,test species: Rat,FALSE,test species: Rat,FALSE
+7439965,36,BMD,130,256,test species: Sheep,FALSE,test species: Sheep,FALSE
+7439976,36,BMD,1,122,test species: Mink,FALSE,test species: Mink,FALSE
+7439987,36,BMD,0.3,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440020,36,BMD,0.7,266,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440224,36,BMD,10,255,test species: Pig,FALSE,test species: Pig,FALSE
+7440280,36,BMD,0.02,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440315,36,BMD,12,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440360,36,BMD,0.04,260,test species: Rat,FALSE,test species: Rat,FALSE
+7440382,36,BMD,1.9,252,test species: Dog,FALSE,test species: Dog,FALSE
+79572,60,BMC_Water,75,101,,FALSE,,FALSE
+723466,60,BMC_Water,563,106,,FALSE,,FALSE
+148798,60,BMC_Water,0.56,258,,FALSE,,FALSE
+1163195,63,BMC_Water,1,131,,FALSE,,FALSE
+298464,63,BMC_Water,23.6,104,,FALSE,,FALSE
+85721331,63,BMC_Water,0.173,81,,FALSE,,FALSE
+564250,63,BMC_Water,0.173,81,,FALSE,,FALSE
+114078,63,BMC_Water,0.02,103,,FALSE,,FALSE
+7439896,,BAF_HerbVert,0.01,124,"Table 7, general, median",FALSE,,FALSE
+7439896,,BAF_OmnVert,0.01,124,"Table 7, general, median",FALSE,,FALSE
+7439896,,BAF_SmBirds,0.01,124,"Table 7, general, median",FALSE,,FALSE
+7439896,,BAF_SmHerp,0.01,124,"Table 7, general, median",FALSE,,FALSE
+7439896,,BAF_SmMammals,0.01,124,"Table 7, general, median",FALSE,,FALSE
+7439896,,BAF_SoilInvert,0,196,No data,FALSE,,FALSE
+7439896,,BAF_Worms,0.00576,123,"Table C.1, median, adjust for 84% moisture content to convert from dry to wet wt",FALSE,,FALSE
+106478,,BAF_HerbVert,1,143,,FALSE,,FALSE
+106478,,BAF_OmnVert,1,143,,FALSE,,FALSE
+106478,,BAF_SmBirds,1,143,,FALSE,,FALSE
+106478,,BAF_SmHerp,1,143,,FALSE,,FALSE
+7439896,58,BMC_Soil,200,92,,FALSE,,FALSE
+7439921,,BAF_HerbVert,0.105,124,"Table 7, general, median",FALSE,,FALSE
+7439921,,BAF_OmnVert,0.105,124,"Table 7, general, median",FALSE,,FALSE
+7439921,,BAF_SmBirds,0.105,124,"Table 7, general, median",FALSE,,FALSE
+7439921,,BAF_SmHerp,0.105,124,"Table 7, general, median",FALSE,,FALSE
+7439921,,BAF_SmMammals,0.105,124,"Table 7, general, median",FALSE,,FALSE
+7439921,,BAF_SoilInvert,0.12,87,"Table 2, P90 (dataset=all), adjust for 80% moisture content to convert from dry to wet wt; data are for benthic organisms used as surrogate for soil",FALSE,,FALSE
+7439921,,BAF_Worms,0.043,123,"Table 11, median, adjust for 84% moisture content to convert from dry to wet wt",FALSE,,FALSE
+7439921,1,BMC_Soil,120,265,,FALSE,,FALSE
+,2,BW,0.119,136,,FALSE,,FALSE
+,2,CR_Food,0.0957,73,Table 12A-2,FALSE,,FALSE
+,2,CR_Water,0.0141,73,Table 12A-3,FALSE,,FALSE
+,2,CRfrac_Soil,0.01,73,Table 12A-4,FALSE,,FALSE
+,2,DF_1,0,73,"Min, Avg, Max = 0, 0.025, 0.05",FALSE,,FALSE
+,2,DF_2,0.38,73,"Min, Avg, Max = 0.25, 0.38, 0.51",FALSE,,FALSE
+,2,DF_20,0.255,73,"Min, Avg, Max = 0.02, 0.255, 0.49",FALSE,,FALSE
+,2,DF_3,0.255,73,"Min, Avg, Max = 0, 0.255, 0.51",FALSE,,FALSE
+7440393,36,BMD,40,253,test species: Rat,FALSE,test species: Rat,FALSE
+7440417,36,BMD,0.4,254,test species: Rat,FALSE,test species: Rat,FALSE
+7440428,36,BMD,39,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440439,36,BMD,0.6,261,test species: Rat,FALSE,test species: Rat,FALSE
+7440484,36,BMD,5.4,263,test species: Rat,FALSE,test species: Rat,FALSE
+7440508,36,BMD,18,264,test species: Pig,FALSE,test species: Pig,FALSE
+7440622,36,BMD,1.9,268,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440666,36,BMD,100,257,test species: Rabbit,FALSE,test species: Rabbit,FALSE
+7783086,36,BMD,0.3,267,test species: Pig,FALSE,test species: Pig,FALSE
+14797558,36,BMD,730,122,test species: Guinea Pig,FALSE,test species: Guinea Pig,FALSE
+16065831,36,BMD,2.4,262,test species: Pig,FALSE,test species: Pig,FALSE
+7440417,58,BMC_soil,40,254,,FALSE,,FALSE
+7440224,68,BMC_soil,4.2,255,,FALSE,,FALSE
+7440224,67,BMC_soil,14,255,,FALSE,,FALSE
+7440224,1,BMC_soil,560,255,,FALSE,,FALSE
+,2,DF_6,0.11,73,"Min, Avg, Max = 0, 0.15, 0.3",FALSE,,FALSE
+,3,BW,0.0773,136,,FALSE,,FALSE
+,3,CR_Food,0.0723,73,Table 12A-2,FALSE,,FALSE
+,3,CR_Water,0.0106,73,Table 12A-3,FALSE,,FALSE
+,3,CRfrac_Soil,0.01,73,Table 12A-4,FALSE,,FALSE
+,3,DF_1,0,73,"Min, Avg, Max = 0.15, 0.21, 0.27",FALSE,,FALSE
+,3,DF_11,0.495,73,"Min, Avg, Max = 0.07, 0.495, 0.92",FALSE,,FALSE
+54910893,63,BMC_Water,1,81,,FALSE,,FALSE
+25812300,63,BMC_Water,0.6,135,,FALSE,,FALSE
+15687271,63,BMC_Water,0.018,82,,FALSE,,FALSE
+70458967,63,BMC_Water,0.548,81,,FALSE,,FALSE
+79572,63,BMC_Water,0.548,81,,FALSE,,FALSE
+723466,63,BMC_Water,0.055,81,,FALSE,,FALSE
+,3,DF_13,0,73,"Min, Avg, Max = 0, 0.12, 0.24",FALSE,,FALSE
+,3,DF_2,0.505,73,"Min, Avg, Max = 0.08, 0.505, 0.93",FALSE,,FALSE
+,4,BW,0.177,136,,FALSE,,FALSE
+,4,CR_Food,0.124,73,Table 12A-2,FALSE,,FALSE
+,4,CR_Water,0.0185,73,Table 12A-3,FALSE,,FALSE
+,4,CRfrac_Soil,0.104,73,Table 12A-4,FALSE,,FALSE
+,4,DF_1,0.851,73,"Min, Avg, Max = 0.6, 0.8, 1",FALSE,,FALSE
+,4,DF_13,0.059,73,"Min, Avg, Max = 0, 0.055, 0.11",FALSE,,FALSE
+,4,DF_2,0.09,73,"Min, Avg, Max = 0.01, 0.085, 0.16",FALSE,,FALSE
+,7,BW,0.147,136,,FALSE,,FALSE
+,7,CR_Food,0.11,73,Table 12A-2,FALSE,,FALSE
+,7,CR_Water,0.0163,73,Table 12A-3,FALSE,,FALSE
+,7,CRfrac_Sed,0.059,73,Table 12A-5,FALSE,,FALSE
+,7,DF_13,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,7,DF_2,0.25,73,"Min, Avg, Max = 0.2, 0.305, 0.41",FALSE,,FALSE
+,7,DF_20,0,73,"Min, Avg, Max = 0, 0.135, 0.27",FALSE,,FALSE
+,7,DF_3,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,7,DF_7,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,7,DF_8,0.75,73,"Min, Avg, Max = 0.5, 0.75, 1",FALSE,,FALSE
+,8,BW,129,138,,FALSE,,FALSE
+,8,CR_Food,24.3,138,,FALSE,,FALSE
+,8,CR_Water,7.85,138,,FALSE,,FALSE
+,8,CRfrac_Sed,0,196,,FALSE,,FALSE
+,8,CRfrac_Soil,0.028,138,,FALSE,,FALSE
+,8,DF_11,0.4,73,"Min, Avg, Max = 0.3, 0.4, 0.5",FALSE,,FALSE
+,8,DF_12,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,8,DF_13,0.175,73,"Min, Avg, Max = 0.05, 0.175, 0.3",FALSE,,FALSE
+106478,,BAF_SmMammals,1,143,,FALSE,,FALSE
+106478,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+106478,,BAF_Worms,1,143,,FALSE,,FALSE
+129000,,BAF_HerbVert,1,143,,FALSE,,FALSE
+129000,,BAF_OmnVert,1,143,,FALSE,,FALSE
+129000,,BAF_SmBirds,1,143,,FALSE,,FALSE
+129000,,BAF_SmHerp,1,143,,FALSE,,FALSE
+129000,,BAF_SmMammals,1,143,,FALSE,,FALSE
+129000,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+129000,,BAF_Worms,1,143,,FALSE,,FALSE
+206440,,BAF_HerbVert,1,143,,FALSE,,FALSE
+206440,,BAF_OmnVert,1,143,,FALSE,,FALSE
+206440,,BAF_SmBirds,1,143,,FALSE,,FALSE
+206440,,BAF_SmHerp,1,143,,FALSE,,FALSE
+206440,,BAF_SmMammals,1,143,,FALSE,,FALSE
+206440,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+206440,,BAF_Worms,1,143,,FALSE,,FALSE
+,8,DF_15,0,73,"Min, Avg, Max = 0, 0.025, 0.05",FALSE,,FALSE
+7440666,68,BMC_soil,46,257,,FALSE,,FALSE
+7440666,67,BMC_soil,79,257,,FALSE,,FALSE
+7440666,58,BMC_soil,120,257,,FALSE,,FALSE
+7440428,,BCF_Bff,0,196,BAF_T3W used as surrogate,FALSE,,FALSE
+7440439,,BCF_Bff,907,25,BAF_T3W used as surrogate,FALSE,,FALSE
+7440702,,BCF_Bff,0,196,BAF_T3W used as surrogate,FALSE,,FALSE
+7440666,1,BMC_soil,160,257,,FALSE,,FALSE
+3380345,65,BMC_Water,0.18,258,EC50 for water flea; 2006 study,FALSE,,FALSE
+3380345,63,BMC_Water,0.0012,258,"EC50 based on blue-green algae, most sensitive plant in the collection of studies; 1997 study",FALSE,,FALSE
+7439965,65,BMC_Water,0.084,258,EC50 based on surrogate: potassium permanganate (7722-64-7) in water flea; 1981 study,FALSE,,FALSE
+106478,63,BMC_Water,3.2,258,"EC50 based on surrogate: cyclanilide-2,4-dichloroaniline (113136-77-9) in green algae; 2009 study",FALSE,,FALSE
+7439965,60,BMC_Water,2.3,258,LC50 based on surrogate: potassium permanganate (7722-64-7) in bluegill; 1975 study,FALSE,,FALSE
+,8,DF_16,0,73,"Min, Avg, Max = 0, 0.025, 0.05",FALSE,,FALSE
+,8,DF_2,0.4,73,"Min, Avg, Max = 0.3, 0.4, 0.5",FALSE,,FALSE
+,8,DF_20,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,8,DF_3,0,73,"Min, Avg, Max = 0.01, 0.055, 0.1",FALSE,,FALSE
+,8,DF_4,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,8,DF_5,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,8,DF_7,0,73,"Min, Avg, Max = 0, 0.025, 0.05",FALSE,,FALSE
+,8,DF_8,0.025,73,"Min, Avg, Max = 0, 0.15, 0.3",FALSE,,FALSE
+,8,DF_9,0,73,"Min, Avg, Max = 0, 0.15, 0.3",FALSE,,FALSE
+,12,BW,3,136,,FALSE,,FALSE
+,12,CR_Food,0.782,73,Table 12A-2,FALSE,,FALSE
+,12,CR_Water,0.123,73,Table 12A-3,FALSE,,FALSE
+,12,CRfrac_Soil,0.082,73,Table 12A-4,FALSE,,FALSE
+,12,DF_10,0,73,"Min, Avg, Max = 0, 0.1, 0.2",FALSE,,FALSE
+7439987,44,BMD,0.8,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440020,44,BMD,1.5,266,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440224,44,BMD,23,255,test species: Pig,FALSE,test species: Pig,FALSE
+7440280,44,BMD,0.04,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440315,44,BMD,26,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440360,44,BMD,0.1,260,test species: Rat,FALSE,test species: Rat,FALSE
+7440382,44,BMD,4.1,252,test species: Dog,FALSE,test species: Dog,FALSE
+7440393,44,BMD,88,253,test species: Rat,FALSE,test species: Rat,FALSE
+7440417,44,BMD,1,254,test species: Rat,FALSE,test species: Rat,FALSE
+7440428,44,BMD,87,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440439,44,BMD,1.4,261,test species: Rat,FALSE,test species: Rat,FALSE
+7440484,44,BMD,12,263,test species: Rat,FALSE,test species: Rat,FALSE
+7439965,,BCF_Bff,0.4,213,BAF_T3W used as surrogate,FALSE,,FALSE
+7439987,,BCF_Bff,0,196,BAF_T3W used as surrogate,FALSE,,FALSE
+7440020,,BCF_Bff,0.8,55,BAF_T3W used as surrogate,FALSE,,FALSE
+298464,64,ED_Eco,4,119,,FALSE,,FALSE
+723466,64,ED_Eco,4,119,,FALSE,,FALSE
+148798,64,ED_Eco,4,114,,FALSE,,FALSE
+7440020,,BAF_HerbVert,0.25,124,"Table 7, general, median",FALSE,,FALSE
+7440020,,BAF_OmnVert,0.25,124,"Table 7, general, median",FALSE,,FALSE
+7440020,,BAF_SmBirds,0.25,124,"Table 7, general, median",FALSE,,FALSE
+7440020,,BAF_SmHerp,0.25,124,"Table 7, general, median",FALSE,,FALSE
+7440280,,BAF_SmBirds,0.11,124,"Table 7, general, median",FALSE,,FALSE
+7440280,,BAF_SmHerp,0.11,124,"Table 7, general, median",FALSE,,FALSE
+7440280,,BAF_SmMammals,0.11,124,"Table 7, general, median",FALSE,,FALSE
+7440280,,BAF_SoilInvert,0,196,No data,FALSE,,FALSE
+7440280,,BAF_Worms,0,196,No data,FALSE,,FALSE
+7440280,1,BMC_Soil,1,91,,FALSE,,FALSE
+7440280,58,BMC_Soil,1,84,,FALSE,,FALSE
+7440315,,BAF_HerbVert,1,143,"Default, no data",FALSE,,FALSE
+7440315,,BAF_OmnVert,1,143,"Default, no data",FALSE,,FALSE
+7440315,,BAF_SmBirds,1,143,"Default, no data",FALSE,,FALSE
+7440315,,BAF_SmHerp,1,143,"Default, no data",FALSE,,FALSE
+7440315,,BAF_SmMammals,1,143,"Default, no data",FALSE,,FALSE
+7440315,,BAF_SoilInvert,1,143,"Default, no data",FALSE,,FALSE
+7440315,,BAF_Worms,1,143,"Default, no data",FALSE,,FALSE
+7440315,1,BMC_Soil,50,91,,FALSE,,FALSE
+15687271,65,ED_Eco,4,118,,FALSE,,FALSE
+22204531,65,ED_Eco,1,82,,FALSE,,FALSE
+79572,65,ED_Eco,1,103,,FALSE,,FALSE
+7440508,44,BMD,39,264,test species: Pig,FALSE,test species: Pig,FALSE
+7440622,44,BMD,4.3,268,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440666,44,BMD,220,257,test species: Rabbit,FALSE,test species: Rabbit,FALSE
+7783086,44,BMD,0.7,267,test species: Pig,FALSE,test species: Pig,FALSE
+14797558,44,BMD,1600,122,test species: Guinea Pig,FALSE,test species: Guinea Pig,FALSE
+16065831,44,BMD,5.2,262,test species: Pig,FALSE,test species: Pig,FALSE
+16984488,44,BMD,90,122,test species: Mink,FALSE,test species: Mink,FALSE
+18540299,44,BMD,17,262,test species: Rat,FALSE,test species: Rat,FALSE
+50328,45,BMD,0.9,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+60548,45,BMD,17,125,test species: Rat,FALSE,test species: Rat,FALSE
+117817,45,BMD,16,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7429905,45,BMD,1.6,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7439921,45,BMD,2.3,265,test species: Rat,FALSE,test species: Rat,FALSE
+7439965,45,BMD,83,256,test species: Sheep,FALSE,test species: Sheep,FALSE
+7439976,45,BMD,0.6,122,test species: Mink,FALSE,test species: Mink,FALSE
+7439987,45,BMD,0.2,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440020,45,BMD,0.4,266,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440224,45,BMD,6.7,255,test species: Pig,FALSE,test species: Pig,FALSE
+7440280,45,BMD,0.01,122,test species: Rat,FALSE,test species: Rat,FALSE
+14797558,,BCF_Bff,0,196,BAF_T3W used as surrogate,FALSE,,FALSE
+14797650,,BCF_Bff,0,196,BAF_T3W used as surrogate,FALSE,,FALSE
+7783086,,BCF_Bff,490,34,BAF_T3W used as surrogate,FALSE,,FALSE
+723466,65,ED_Eco,1,103,,FALSE,,FALSE
+7440315,58,BMC_Soil,2000,92,,FALSE,,FALSE
+7440360,,BAF_HerbVert,1,143,"Default, no data",FALSE,,FALSE
+7440360,,BAF_OmnVert,1,143,"Default, no data",FALSE,,FALSE
+7440360,,BAF_SmBirds,1,143,"Default, no data",FALSE,,FALSE
+7440360,,BAF_SmHerp,1,143,"Default, no data",FALSE,,FALSE
+7440360,,BAF_SmMammals,1,143,"Default, no data",FALSE,,FALSE
+7440360,,BAF_SoilInvert,1,143,"Default, no data",FALSE,,FALSE
+7440360,,BAF_Worms,1,143,"Default, no data",FALSE,,FALSE
+7440360,1,BMC_Soil,5,91,,FALSE,,FALSE
+7440360,58,BMC_Soil,78,260,,FALSE,,FALSE
+7440360,67,BMC_Soil,0.27,260,,FALSE,,FALSE
+7440428,,BAF_HerbVert,1,143,"Default, no data",FALSE,,FALSE
+7440428,,BAF_OmnVert,1,143,"Default, no data",FALSE,,FALSE
+7440428,,BAF_SmBirds,1,143,"Default, no data",FALSE,,FALSE
+7440428,,BAF_SmHerp,1,143,"Default, no data",FALSE,,FALSE
+7440428,,BAF_SmMammals,1,143,"Default, no data",FALSE,,FALSE
+7440428,,BAF_SoilInvert,1,143,"Default, no data",FALSE,,FALSE
+7440428,,BAF_Worms,1,143,"Default, no data",FALSE,,FALSE
+7440428,58,BMC_Soil,20,92,,FALSE,,FALSE
+7440439,,BAF_HerbVert,0.33,124,"Table 7, general, median",FALSE,,FALSE
+7440439,,BAF_OmnVert,0.33,124,"Table 7, general, median",FALSE,,FALSE
+7440439,,BAF_SmBirds,0.33,124,"Table 7, general, median",FALSE,,FALSE
+7440439,,BAF_SmHerp,0.33,124,"Table 7, general, median",FALSE,,FALSE
+7440439,,BAF_SmMammals,0.33,124,"Table 7, general, median",FALSE,,FALSE
+7440439,,BAF_SoilInvert,1.6,87,"Table 2, P90 (dataset=all), adjust for 80% moisture content to convert from dry to wet wt; data are for benthic organisms used as surrogate for soil",FALSE,,FALSE
+7440439,,BAF_Worms,1.2,123,"Table 11, median, adjust for 84% moisture content to convert from dry to wet wt",FALSE,,FALSE
+7440439,1,BMC_Soil,32,261,,FALSE,,FALSE
+7440439,58,BMC_Soil,140,261,,FALSE,,FALSE
+7440439,67,BMC_Soil,0.36,261,,FALSE,,FALSE
+7440439,68,BMC_Soil,0.77,261,,FALSE,,FALSE
+7440484,,BAF_HerbVert,0.02,124,"Table 7, general, median",FALSE,,FALSE
+7440484,,BAF_OmnVert,0.02,124,"Table 7, general, median",FALSE,,FALSE
+7440484,,BAF_SmBirds,0.02,124,"Table 7, general, median",FALSE,,FALSE
+7440484,,BAF_SmHerp,0.02,124,"Table 7, general, median",FALSE,,FALSE
+7440484,,BAF_SmMammals,0.02,124,"Table 7, general, median",FALSE,,FALSE
+7440484,,BAF_SoilInvert,0,196,No data,FALSE,,FALSE
+7440484,,BAF_Worms,0.0195,123,"Table C.1, median, adjust for 84% moisture content to convert from dry to wet wt",FALSE,,FALSE
+7440484,1,BMC_Soil,13,263,,FALSE,,FALSE
+7440484,58,BMC_Soil,1000,92,,FALSE,,FALSE
+7440484,67,BMC_Soil,230,263,,FALSE,,FALSE
+7440484,68,BMC_Soil,120,263,,FALSE,,FALSE
+7440508,,BAF_HerbVert,0.196,124,"Table 7, general, median",FALSE,,FALSE
+7440508,,BAF_OmnVert,0.196,124,"Table 7, general, median",FALSE,,FALSE
+7440508,,BAF_SmBirds,0.196,124,"Table 7, general, median",FALSE,,FALSE
+7440508,,BAF_SmHerp,0.196,124,"Table 7, general, median",FALSE,,FALSE
+7440508,,BAF_SmMammals,0.196,124,"Table 7, general, median",FALSE,,FALSE
+7440508,,BAF_SoilInvert,1.05,87,"Table 2, P90 (dataset=all), adjust for 80% moisture content to convert from dry to wet wt; data are for benthic organisms used as surrogate for soil",FALSE,,FALSE
+7440508,,BAF_Worms,0.0824,123,"Table 11, median, adjust for 84% moisture content to convert from dry to wet wt",FALSE,,FALSE
+7440508,1,BMC_Soil,70,264,,FALSE,,FALSE
+7440508,58,BMC_Soil,80,264,,FALSE,,FALSE
+7440315,45,BMD,7.7,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440360,45,BMD,0.03,260,test species: Rat,FALSE,test species: Rat,FALSE
+7440382,45,BMD,1.2,252,test species: Dog,FALSE,test species: Dog,FALSE
+7440393,45,BMD,26,253,test species: Rat,FALSE,test species: Rat,FALSE
+7440417,45,BMD,0.3,254,test species: Rat,FALSE,test species: Rat,FALSE
+7440428,45,BMD,25,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440439,45,BMD,0.4,261,test species: Rat,FALSE,test species: Rat,FALSE
+7440484,45,BMD,3.5,263,test species: Rat,FALSE,test species: Rat,FALSE
+7440508,45,BMD,11,264,test species: Pig,FALSE,test species: Pig,FALSE
+7783008,,BCF_Bff,490,34,BAF_T3W used as surrogate,FALSE,,FALSE
+7440224,,BCF_Bff,0,196,BAF_T3W used as surrogate,FALSE,,FALSE
+7440235,,BCF_Bff,0,196,BAF_T3W used as surrogate,FALSE,,FALSE
+7440280,,BCF_Bff,34,55,BAF_T3W used as surrogate,FALSE,,FALSE
+7440315,,BCF_Bff,0,196,BAF_T3W used as surrogate,FALSE,,FALSE
+114078,,BAF_HerbVert,1,143,"Default, no data",FALSE,,FALSE
+114078,,BAF_OmnVert,1,143,"Default, no data",FALSE,,FALSE
+114078,,BAF_SmBirds,1,143,"Default, no data",FALSE,,FALSE
+114078,,BAF_SmHerp,1,143,"Default, no data",FALSE,,FALSE
+114078,,BAF_SmMammals,1,143,"Default, no data",FALSE,,FALSE
+114078,,BAF_SoilInvert,1,143,"Default, no data",FALSE,,FALSE
+114078,,BAF_Worms,1,143,"Default, no data",FALSE,,FALSE
+117817,,BAF_HerbVert,1,143,"Default, no data",FALSE,,FALSE
+117817,,BAF_OmnVert,1,143,"Default, no data",FALSE,,FALSE
+117817,,BAF_SmBirds,1,143,"Default, no data",FALSE,,FALSE
+117817,,BAF_SmHerp,1,143,"Default, no data",FALSE,,FALSE
+117817,,BAF_SmMammals,1,143,"Default, no data",FALSE,,FALSE
+117817,,BAF_SoilInvert,1,143,"Default, no data",FALSE,,FALSE
+723466,65,BMC_Water,0.21,103,,FALSE,,FALSE
+7440439,59,ED_Eco,4,74,,FALSE,,FALSE
+16065831,59,ED_Eco,4,74,,FALSE,,FALSE
+18540299,59,ED_Eco,4,74,,FALSE,,FALSE
+7439896,59,ED_Eco,4,74,,FALSE,,FALSE
+7439921,59,ED_Eco,4,74,,FALSE,,FALSE
+7440020,59,ED_Eco,4,74,,FALSE,,FALSE
+298464,60,ED_Eco,4,106,,FALSE,,FALSE
+51481619,60,ED_Eco,4,106,,FALSE,,FALSE
+42399417,60,ED_Eco,4,106,,FALSE,,FALSE
+114078,60,ED_Eco,4,78,,FALSE,,FALSE
+54910893,60,ED_Eco,4,109,,FALSE,,FALSE
+117817,,BAF_Worms,1,143,"Default, no data",FALSE,,FALSE
+7439965,60,ED_Eco,4,258,4-day study,FALSE,,FALSE
+3380345,60,ED_Eco,4,258,4-day study,FALSE,,FALSE
+7440622,45,BMD,1.3,268,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440666,45,BMD,65,257,test species: Rabbit,FALSE,test species: Rabbit,FALSE
+7783086,45,BMD,0.2,267,test species: Pig,FALSE,test species: Pig,FALSE
+14797558,45,BMD,470,122,test species: Guinea Pig,FALSE,test species: Guinea Pig,FALSE
+16065831,45,BMD,1.5,262,test species: Pig,FALSE,test species: Pig,FALSE
+16984488,45,BMD,26,122,test species: Mink,FALSE,test species: Mink,FALSE
+18540299,45,BMD,5.1,262,test species: Rat,FALSE,test species: Rat,FALSE
+50328,47,BMD,0.9,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+60548,47,BMD,18,125,test species: Rat,FALSE,test species: Rat,FALSE
+117817,47,BMD,17,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7429905,47,BMD,1.7,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7439921,47,BMD,2.4,265,test species: Rat,FALSE,test species: Rat,FALSE
+7439965,47,BMD,88,256,test species: Sheep,FALSE,test species: Sheep,FALSE
+7439976,47,BMD,0.7,122,test species: Mink,FALSE,test species: Mink,FALSE
+7439987,47,BMD,0.2,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440020,47,BMD,0.5,266,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440224,47,BMD,7.1,255,test species: Pig,FALSE,test species: Pig,FALSE
+7440280,47,BMD,0.01,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440622,,BCF_Bff,32,208,BAF_T3W used as surrogate,FALSE,,FALSE
+7440666,,BCF_Bff,2060,25,BAF_T3W used as surrogate,FALSE,,FALSE
+103902,,BCF_Bff,1,18,BAF_T3W used as surrogate,FALSE,,FALSE
+148798,,BAF_HerbVert,1,143,"Default, no data",FALSE,,FALSE
+148798,,BAF_OmnVert,1,143,"Default, no data",FALSE,,FALSE
+148798,,BAF_SmBirds,1,143,"Default, no data",FALSE,,FALSE
+148798,,BAF_SmHerp,1,143,"Default, no data",FALSE,,FALSE
+148798,,BAF_SmMammals,1,143,"Default, no data",FALSE,,FALSE
+148798,,BAF_SoilInvert,1,143,"Default, no data",FALSE,,FALSE
+148798,,BAF_Worms,1,143,"Default, no data",FALSE,,FALSE
+91576,60,ED_Eco,4,105,,FALSE,,FALSE
+70458967,60,ED_Eco,4,108,,FALSE,,FALSE
+79572,60,ED_Eco,4,101,,FALSE,,FALSE
+723466,60,ED_Eco,4,106,,FALSE,,FALSE
+148798,60,ED_Eco,4,258,,FALSE,,FALSE
+1163195,63,ED_Eco,4,131,,FALSE,,FALSE
+298464,63,ED_Eco,1,104,,FALSE,,FALSE
+85721331,63,ED_Eco,4,81,,FALSE,,FALSE
+298464,,BAF_Herbvert,1,143,"Default, no data",FALSE,,FALSE
+298464,,BAF_OmnVert,1,143,"Default, no data",FALSE,,FALSE
+7439921,58,BMC_Soil,1700,265,,FALSE,,FALSE
+7439921,67,BMC_Soil,56,265,,FALSE,,FALSE
+7439921,68,BMC_Soil,11,265,,FALSE,,FALSE
+7439954,,BAF_HerbVert,0.68,124,"Table C.1, general, median",FALSE,,FALSE
+7439954,,BAF_OmnVert,0.68,124,"Table C.1, general, median",FALSE,,FALSE
+7439954,,BAF_SmBirds,0.68,124,"Table C.1, general, median",FALSE,,FALSE
+7439954,,BAF_SmHerp,0.68,124,"Table C.1, general, median",FALSE,,FALSE
+7439954,,BAF_SmMammals,0.68,124,"Table C.1, general, median",FALSE,,FALSE
+7439954,,BAF_SoilInvert,0,196,No data,FALSE,,FALSE
+7439954,,BAF_Worms,0.027,123,"Table C.1, median, adjust for 84% moisture content to convert from dry to wet wt",FALSE,,FALSE
+564250,63,ED_Eco,4,81,,FALSE,,FALSE
+114078,63,ED_Eco,4,103,,FALSE,,FALSE
+54910893,63,ED_Eco,4,81,,FALSE,,FALSE
+25812300,63,ED_Eco,4,135,,FALSE,,FALSE
+15687271,63,ED_Eco,4,82,,FALSE,,FALSE
+70458967,63,ED_Eco,4,81,,FALSE,,FALSE
+79572,63,ED_Eco,4,81,,FALSE,,FALSE
+723466,63,ED_Eco,4,81,,FALSE,,FALSE
+60548,63,ED_Eco,4,81,,FALSE,,FALSE
+103902,,BAF_SmBirds,1,143,,FALSE,,FALSE
+335671,,BAF_SmBirds,1,143,,FALSE,,FALSE
+2795393,,BAF_SmBirds,1,143,,FALSE,,FALSE
+7487947,,BAF_SmBirds,1,143,,FALSE,,FALSE
+7440315,47,BMD,8.2,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440360,47,BMD,0.03,260,test species: Rat,FALSE,test species: Rat,FALSE
+7440382,47,BMD,1.3,252,test species: Dog,FALSE,test species: Dog,FALSE
+7440393,47,BMD,27,253,test species: Rat,FALSE,test species: Rat,FALSE
+7440417,47,BMD,0.3,254,test species: Rat,FALSE,test species: Rat,FALSE
+7440428,47,BMD,27,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440439,47,BMD,0.4,261,test species: Rat,FALSE,test species: Rat,FALSE
+7440484,47,BMD,3.7,263,test species: Rat,FALSE,test species: Rat,FALSE
+7440508,47,BMD,12,264,test species: Pig,FALSE,test species: Pig,FALSE
+7440622,47,BMD,1.3,268,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440666,47,BMD,69,257,test species: Rabbit,FALSE,test species: Rabbit,FALSE
+7783086,47,BMD,0.2,267,test species: Pig,FALSE,test species: Pig,FALSE
+14797558,47,BMD,500,122,test species: Guinea Pig,FALSE,test species: Guinea Pig,FALSE
+16065831,47,BMD,1.6,262,test species: Pig,FALSE,test species: Pig,FALSE
+16984488,47,BMD,28,122,test species: Mink,FALSE,test species: Mink,FALSE
+18540299,47,BMD,5.4,262,test species: Rat,FALSE,test species: Rat,FALSE
+50328,50,BMD,3.8,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+60548,50,BMD,77,125,test species: Rat,FALSE,test species: Rat,FALSE
+117817,50,BMD,69,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7429905,50,BMD,7.3,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7439921,50,BMD,9.9,265,test species: Rat,FALSE,test species: Rat,FALSE
+7439965,50,BMD,370,256,test species: Sheep,FALSE,test species: Sheep,FALSE
+7439976,50,BMD,2.9,122,test species: Mink,FALSE,test species: Mink,FALSE
+7439987,50,BMD,1,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440020,50,BMD,1.9,266,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440224,50,BMD,30,255,test species: Pig,FALSE,test species: Pig,FALSE
+7440280,50,BMD,0.05,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440315,50,BMD,34,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440360,50,BMD,0.1,260,test species: Rat,FALSE,test species: Rat,FALSE
+18559949,,BCF_Bff,1,18,BAF_T3W used as surrogate,FALSE,,FALSE
+68631492,,BCF_Bff,1.8E+06,18,BAF_T3W used as surrogate,FALSE,,FALSE
+60348609,,BAF_SmBirds,1,143,,FALSE,,FALSE
+103902,,BAF_SmHerp,1,143,,FALSE,,FALSE
+335671,,BAF_SmHerp,1,143,,FALSE,,FALSE
+2795393,,BAF_SmHerp,1,143,,FALSE,,FALSE
+7487947,,BAF_SmHerp,1,143,,FALSE,,FALSE
+60348609,,BAF_SmHerp,1,143,,FALSE,,FALSE
+103902,,BAF_SmMammals,1,143,,FALSE,,FALSE
+335671,,BAF_SmMammals,1,143,,FALSE,,FALSE
+2795393,,BAF_SmMammals,1,143,,FALSE,,FALSE
+7487947,,BAF_SmMammals,1,143,,FALSE,,FALSE
+60348609,,BAF_SmMammals,1,143,,FALSE,,FALSE
+103902,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+335671,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+2795393,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+7487947,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+60348609,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+103902,,BAF_Worms,1,143,,FALSE,,FALSE
+335671,,BAF_Worms,1,143,,FALSE,,FALSE
+2795393,,BAF_Worms,1,143,,FALSE,,FALSE
+7440382,50,BMD,5.3,252,test species: Dog,FALSE,test species: Dog,FALSE
+7440393,50,BMD,110,253,test species: Rat,FALSE,test species: Rat,FALSE
+7440417,50,BMD,1.3,254,test species: Rat,FALSE,test species: Rat,FALSE
+7440428,50,BMD,110,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440439,50,BMD,1.8,261,test species: Rat,FALSE,test species: Rat,FALSE
+7440484,50,BMD,16,263,test species: Rat,FALSE,test species: Rat,FALSE
+7440508,50,BMD,51,264,test species: Pig,FALSE,test species: Pig,FALSE
+7440622,50,BMD,5.5,268,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440666,50,BMD,290,257,test species: Rabbit,FALSE,test species: Rabbit,FALSE
+7783086,50,BMD,0.8,267,test species: Pig,FALSE,test species: Pig,FALSE
+14797558,50,BMD,2100,122,test species: Guinea Pig,FALSE,test species: Guinea Pig,FALSE
+16065831,50,BMD,6.8,262,test species: Pig,FALSE,test species: Pig,FALSE
+16984488,50,BMD,120,122,test species: Mink,FALSE,test species: Mink,FALSE
+18540299,50,BMD,23,262,test species: Rat,FALSE,test species: Rat,FALSE
+50328,51,BMD,2,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+60548,51,BMD,40,125,test species: Rat,FALSE,test species: Rat,FALSE
+117817,51,BMD,36,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7429905,51,BMD,3.8,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7439921,51,BMD,5.2,265,test species: Rat,FALSE,test species: Rat,FALSE
+7439965,51,BMD,190,256,test species: Sheep,FALSE,test species: Sheep,FALSE
+7439976,51,BMD,1.5,122,test species: Mink,FALSE,test species: Mink,FALSE
+7439987,51,BMD,0.5,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440020,51,BMD,1,266,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440224,51,BMD,15,255,test species: Pig,FALSE,test species: Pig,FALSE
+7440280,51,BMD,0.03,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440315,51,BMD,18,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440360,51,BMD,0.07,260,test species: Rat,FALSE,test species: Rat,FALSE
+7440382,51,BMD,2.8,252,test species: Dog,FALSE,test species: Dog,FALSE
+7440393,51,BMD,59,253,test species: Rat,FALSE,test species: Rat,FALSE
+7487947,,BAF_Worms,1,143,,FALSE,,FALSE
+60348609,,BAF_Worms,1,143,,FALSE,,FALSE
+103902,,BAF_HerbVert,1,143,,FALSE,,FALSE
+335671,,BAF_HerbVert,1,143,,FALSE,,FALSE
+2795393,,BAF_HerbVert,1,143,,FALSE,,FALSE
+7487947,,BAF_HerbVert,1,143,,FALSE,,FALSE
+60348609,,BAF_HerbVert,1,143,,FALSE,,FALSE
+103902,,BAF_OmnVert,1,143,,FALSE,,FALSE
+335671,,BAF_OmnVert,1,143,,FALSE,,FALSE
+2795393,,BAF_OmnVert,1,143,,FALSE,,FALSE
+7487947,,BAF_OmnVert,1,143,,FALSE,,FALSE
+60348609,,BAF_OmnVert,1,143,,FALSE,,FALSE
+7440417,51,BMD,0.7,254,test species: Rat,FALSE,test species: Rat,FALSE
+7440428,51,BMD,59,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440439,51,BMD,0.9,261,test species: Rat,FALSE,test species: Rat,FALSE
+7440484,51,BMD,8.1,263,test species: Rat,FALSE,test species: Rat,FALSE
+7440508,51,BMD,26,264,test species: Pig,FALSE,test species: Pig,FALSE
+7440622,51,BMD,2.9,268,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440666,51,BMD,150,257,test species: Rabbit,FALSE,test species: Rabbit,FALSE
+7783086,51,BMD,0.4,267,test species: Pig,FALSE,test species: Pig,FALSE
+14797558,51,BMD,1100,122,test species: Guinea Pig,FALSE,test species: Guinea Pig,FALSE
+16065831,51,BMD,3.5,262,test species: Pig,FALSE,test species: Pig,FALSE
+16984488,51,BMD,61,122,test species: Mink,FALSE,test species: Mink,FALSE
+18540299,51,BMD,12,262,test species: Rat,FALSE,test species: Rat,FALSE
+50328,57,BMD,0.5,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+60548,57,BMD,9.3,125,test species: Rat,FALSE,test species: Rat,FALSE
+117817,57,BMD,8.3,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7429905,57,BMD,0.9,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7439921,57,BMD,1.2,265,test species: Rat,FALSE,test species: Rat,FALSE
+7439965,57,BMD,44,256,test species: Sheep,FALSE,test species: Sheep,FALSE
+7439976,57,BMD,0.3,122,test species: Mink,FALSE,test species: Mink,FALSE
+7439987,57,BMD,0.1,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440020,57,BMD,0.2,266,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440224,57,BMD,3.6,255,test species: Pig,FALSE,test species: Pig,FALSE
+7440280,57,BMD,0.006,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440315,57,BMD,4.1,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440360,57,BMD,0.02,260,test species: Rat,FALSE,test species: Rat,FALSE
+7440382,57,BMD,0.6,252,test species: Dog,FALSE,test species: Dog,FALSE
+7440393,57,BMD,14,253,test species: Rat,FALSE,test species: Rat,FALSE
+7440417,57,BMD,0.2,254,test species: Rat,FALSE,test species: Rat,FALSE
+7440428,57,BMD,14,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440439,57,BMD,0.2,261,test species: Rat,FALSE,test species: Rat,FALSE
+7440484,57,BMD,1.9,263,test species: Rat,FALSE,test species: Rat,FALSE
+7439987,2,BMD,24,122,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440020,2,BMD,4.4,266,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440224,2,BMD,1.6,255,test species: Turkey,FALSE,test species: Turkey,FALSE
+7440315,2,BMD,10,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7440382,2,BMD,1.5,252,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440393,2,BMD,29,122,test species: 1-day old chicks,FALSE,test species: 1-day old chicks,FALSE
+7440428,2,BMD,39,122,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+7440439,2,BMD,1.1,261,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440484,2,BMD,5.2,263,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440508,2,BMD,2.8,264,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440622,2,BMD,0.2,268,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440666,2,BMD,45,257,test species: Chicken,FALSE,test species: Chicken,FALSE
+7487947,2,BMD,0.6,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7783086,2,BMD,0.2,267,test species: Chicken,FALSE,test species: Chicken,FALSE
+16065831,2,BMD,1.8,262,test species: Chicken,FALSE,test species: Chicken,FALSE
+16984488,2,BMD,15,122,test species: Screech owl,FALSE,test species: Screech owl,FALSE
+79572,3,BMD,1400,258,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+103902,3,BMD,2000,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+117817,3,BMD,1,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+148798,3,BMD,2000,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+3380345,3,BMD,720,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+7429905,3,BMD,99,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+7439921,3,BMD,1,265,test species: Chicken,FALSE,test species: Chicken,FALSE
+7439965,3,BMD,110,256,test species: Chicken,FALSE,test species: Chicken,FALSE
+7439987,3,BMD,23,122,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440020,3,BMD,4.2,266,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440224,3,BMD,1.5,255,test species: Turkey,FALSE,test species: Turkey,FALSE
+7440315,3,BMD,9.7,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7440382,3,BMD,1.4,252,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440393,3,BMD,28,122,test species: 1-day old chicks,FALSE,test species: 1-day old chicks,FALSE
+7440428,3,BMD,37,122,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+7440439,3,BMD,1,261,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440484,3,BMD,4.9,263,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440508,3,BMD,2.6,264,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440622,3,BMD,0.2,268,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440666,3,BMD,42,257,test species: Chicken,FALSE,test species: Chicken,FALSE
+7487947,3,BMD,0.6,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7783086,3,BMD,0.2,267,test species: Chicken,FALSE,test species: Chicken,FALSE
+16065831,3,BMD,1.7,262,test species: Chicken,FALSE,test species: Chicken,FALSE
+16984488,3,BMD,14,122,test species: Screech owl,FALSE,test species: Screech owl,FALSE
+79572,4,BMD,1500,258,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+103902,4,BMD,2200,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+117817,4,BMD,1.1,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+148798,4,BMD,2200,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+3380345,4,BMD,820,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+7429905,4,BMD,110,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+7439921,4,BMD,1.2,265,test species: Chicken,FALSE,test species: Chicken,FALSE
+7439965,4,BMD,130,256,test species: Chicken,FALSE,test species: Chicken,FALSE
+7439987,4,BMD,26,122,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440020,4,BMD,4.7,266,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440224,4,BMD,1.7,255,test species: Turkey,FALSE,test species: Turkey,FALSE
+7440315,4,BMD,11,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7440382,4,BMD,1.6,252,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440393,4,BMD,31,122,test species: 1-day old chicks,FALSE,test species: 1-day old chicks,FALSE
+7440428,4,BMD,41,122,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+7440439,4,BMD,1.2,261,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440484,4,BMD,5.5,263,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440508,4,BMD,2.9,264,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440622,4,BMD,0.3,268,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440666,4,BMD,48,257,test species: Chicken,FALSE,test species: Chicken,FALSE
+7487947,4,BMD,0.7,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7783086,4,BMD,0.2,267,test species: Chicken,FALSE,test species: Chicken,FALSE
+16065831,4,BMD,1.9,262,test species: Chicken,FALSE,test species: Chicken,FALSE
+16984488,4,BMD,16,122,test species: Screech owl,FALSE,test species: Screech owl,FALSE
+79572,7,BMD,1500,258,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+103902,7,BMD,2200,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+117817,7,BMD,1.1,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+148798,7,BMD,2200,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+3380345,7,BMD,790,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+7429905,7,BMD,110,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+7439921,7,BMD,1.1,265,test species: Chicken,FALSE,test species: Chicken,FALSE
+7439965,7,BMD,130,256,test species: Chicken,FALSE,test species: Chicken,FALSE
+7439987,7,BMD,25,122,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440020,7,BMD,4.6,266,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440224,7,BMD,1.6,255,test species: Turkey,FALSE,test species: Turkey,FALSE
+,12,DF_13,0.6,73,"Min, Avg, Max = 0.2, 0.6, 1",FALSE,,FALSE
+,12,DF_14,0.4,73,"Min, Avg, Max = 0.2, 0.6, 1",FALSE,,FALSE
+,12,DF_15,0,73,"Min, Avg, Max = 0, 0.185, 0.37",FALSE,,FALSE
+,12,DF_16,0,73,"Min, Avg, Max = 0.2, 0.6, 1",FALSE,,FALSE
+,12,DF_2,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,14,BW,0.405,137,,FALSE,,FALSE
+,14,CR_Food,0.213,137,,FALSE,,FALSE
+,14,CR_Water,0.0322,137,,FALSE,,FALSE
+,14,CRfrac_Soil,0.01,137,,FALSE,,FALSE
+,14,DF_3,0.43,73,"Min, Avg, Max = 0.15, 0.43, 0.71",FALSE,,FALSE
+,14,DF_6,0.57,73,"Min, Avg, Max = 0.29, 0.57, 0.85",FALSE,,FALSE
+,15,BW,13.1,137,,FALSE,,FALSE
+,15,CR_Food,3.72,137,,FALSE,,FALSE
+,15,CR_Water,1.00,137,,FALSE,,FALSE
+,15,CRfrac_Soil,0.028,137,,FALSE,,FALSE
+,15,DF_11,0.128,73,"Min, Avg, Max = 0.05, 0.125, 0.2",FALSE,,FALSE
+,15,DF_2,0.056,73,"Min, Avg, Max = 0.01, 0.055, 0.1",FALSE,,FALSE
+,15,DF_20,0.051,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,15,DF_3,0.4,73,"Min, Avg, Max = 0.05, 0.39, 0.73",FALSE,,FALSE
+,15,DF_4,0.103,73,"Min, Avg, Max = 0, 0.1, 0.2",FALSE,,FALSE
+,15,DF_5,0.103,73,"Min, Avg, Max = 0, 0.1, 0.2",FALSE,,FALSE
+,15,DF_6,0.159,73,"Min, Avg, Max = 0.03, 0.155, 0.28",FALSE,,FALSE
+,16,BW,0.0196,136,,FALSE,,FALSE
+,16,CR_Food,0.0177,73,Table 12A-2,FALSE,,FALSE
+,16,CR_Water,0.00288,73,Table 12A-3,FALSE,,FALSE
+,16,CRfrac_Sed,0,196,,FALSE,,FALSE
+,16,CRfrac_Soil,0.02,73,Table 12A-4,FALSE,,FALSE
+,16,DF_11,0.235,73,"Min, Avg, Max = 0.01, 0.235, 0.46",FALSE,,FALSE
+,16,DF_12,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,16,DF_13,0.055,73,"Min, Avg, Max = 0, 0.205, 0.41",FALSE,,FALSE
+,16,DF_14,0.385,73,"Min, Avg, Max = 0.12, 0.385, 0.65",FALSE,,FALSE
+,16,DF_2,0.325,73,"Min, Avg, Max = 0.07, 0.325, 0.58",FALSE,,FALSE
+,18,BW,1.23,136,,FALSE,,FALSE
+,18,CR_Food,0.530,73,Table 12A-2,FALSE,,FALSE
+,18,CR_Water,0.119,73,Table 12A-3,FALSE,,FALSE
+,18,CRfrac_Sed,0,196,,FALSE,,FALSE
+7439965,,BAF_HerbVert,0.0205,124,"Table C.1, general, median",FALSE,,FALSE
+7439965,,BAF_OmnVert,0.0205,124,"Table C.1, general, median",FALSE,,FALSE
+7439965,,BAF_SmBirds,0.0205,124,"Table C.1, general, median",FALSE,,FALSE
+7439965,,BAF_SmHerp,0.0205,124,"Table C.1, general, median",FALSE,,FALSE
+7439965,,BAF_SmMammals,0.0205,124,"Table C.1, general, median",FALSE,,FALSE
+7439965,,BAF_SoilInvert,0,196,No data,FALSE,,FALSE
+7439965,,BAF_Worms,0.00864,123,"Table 11, median, adjust for 84% moisture content to convert from dry to wet wt",FALSE,,FALSE
+7439976,,BAF_HerbVert,0.0543,124,"Table 7, general, median",FALSE,,FALSE
+7439976,,BAF_OmnVert,0.0543,124,"Table 7, general, median",FALSE,,FALSE
+7439976,,BAF_SmBirds,0.0543,124,"Table 7, general, median",FALSE,,FALSE
+3380345,60,BMC_Water,0.25,258,LC50 fathead minnow - only freshwater data available; 1990 study,FALSE,,FALSE
+7429905,59,BMC_Water,0.98,259,"Acute max concentration based on pH 7.0, hardness 100 mg/L CACO3, DOC 1 mg/L.  1 hr average; does not include plants. Broadly protective of aquatic life. Chronic for same conditions is 380 ug/L (0.38 mg/L).",FALSE,,FALSE
+7440382,59,BMC_Water,0.34,74,"Criterion Maximum Concentration (acute), 1-hr average. Broadly protective of aquatic life. Derived from 1995 criteria for Arsenic III recalculated for total As, no plants.  Criterion Continuous Concentration (chronic), 4-day average is 150 ug/L (0.15 mg/L",FALSE,,FALSE
+7439976,59,BMC_Water,0.0014,74,"Broadly protective of aquatic life (acute).  1995 Criterion Continuous Concentration (chronic), 4-day average is  0.77 ug/L (0.00077 mg/L)",FALSE,,FALSE
+7439976,,BAF_SmHerp,0.0543,124,"Table 7, general, median",FALSE,,FALSE
+7439976,,BAF_SmMammals,0.0543,124,"Table 7, general, median",FALSE,,FALSE
+7439976,,BAF_SoilInvert,0.57,87,"Table 2, P90 (dataset=all), adjust for 80% moisture content to convert from dry to wet wt; data are for benthic organisms used as surrogate for soil",FALSE,,FALSE
+7439976,,BAF_Worms,0.27,123,"Table 11, median, adjust for 84% moisture content to convert from dry to wet wt",FALSE,,FALSE
+7439987,,BAF_Herbvert,1,143,,FALSE,,FALSE
+7439987,,BAF_OmnVert,1,143,,FALSE,,FALSE
+7439987,,BAF_SmBirds,1,143,,FALSE,,FALSE
+7439987,,BAF_SmHerp,1,143,,FALSE,,FALSE
+7439987,,BAF_SmMammals,1,143,,FALSE,,FALSE
+7439987,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+7439987,,BAF_Worms,1,143,,FALSE,,FALSE
+,18,CRfrac_Soil,0.063,73,Table 12A-4,FALSE,,FALSE
+,18,DF_13,0.824,73,"Min, Avg, Max = 0.17, 0.585, 1",FALSE,,FALSE
+,18,DF_16,0.176,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,23,BW,2.23,136,,FALSE,,FALSE
+,23,CR_Food,0.645,73,Table 12A-2,FALSE,,FALSE
+,23,CR_Water,0.101,73,Table 12A-3,FALSE,,FALSE
+,23,CRfrac_Sed,0.094,73,Table 12A-5,FALSE,,FALSE
+,23,CRfrac_Soil,0,196,,FALSE,,FALSE
+,23,DF_10,0,73,"Min, Avg, Max = 0.01, 0.17, 0.33",FALSE,,FALSE
+,23,DF_13,0,73,"Min, Avg, Max = 0.01, 0.17, 0.33",FALSE,,FALSE
+,23,DF_2,0,73,"Min, Avg, Max = 0.02, 0.055, 0.09",FALSE,,FALSE
+,23,DF_20,0,73,"Min, Avg, Max = 0.04, 0.135, 0.23",FALSE,,FALSE
+,23,DF_3,0,73,"Min, Avg, Max = 0.03, 0.13, 0.23",FALSE,,FALSE
+,23,DF_6,0,73,"Min, Avg, Max = 0, 0.01, 0.02",FALSE,,FALSE
+,23,DF_7,0,73,"Min, Avg, Max = 0, 0.045, 0.09",FALSE,,FALSE
+,23,DF_8,0.515,73,"Min, Avg, Max = 0.05, 0.515, 0.98",FALSE,,FALSE
+,23,DF_9,0.485,73,"Min, Avg, Max = 0.05, 0.515, 0.98",FALSE,,FALSE
+,25,BW,0.226,137,,FALSE,,FALSE
+,25,CR_Food,0.145,137,,FALSE,,FALSE
+,25,CR_Water,0.0218,137,,FALSE,,FALSE
+,25,CRfrac_Sed,0.094,73,Table 12A-5,FALSE,,FALSE
+,25,DF_1,0.106,73,"Min, Avg, Max = 0, 0.105, 0.21",FALSE,,FALSE
+,25,DF_10,0.015,73,"Min, Avg, Max = 0, 0.015, 0.03",FALSE,,FALSE
+,25,DF_13,0.015,73,"Min, Avg, Max = 0, 0.015, 0.03",FALSE,,FALSE
+,25,DF_2,0.126,73,"Min, Avg, Max = 0.01, 0.125, 0.24",FALSE,,FALSE
+,25,DF_20,0.056,73,"Min, Avg, Max = 0.01, 0.055, 0.1",FALSE,,FALSE
+,25,DF_3,0.025,73,"Min, Avg, Max = 0, 0.025, 0.05",FALSE,,FALSE
+,25,DF_8,0.657,73,"Min, Avg, Max = 0.4, 0.65, 0.9",FALSE,,FALSE
+,28,BW,0.041,137,,FALSE,,FALSE
+,28,CR_Food,0.032,137,,FALSE,,FALSE
+,28,CR_Water,0.00557,137,,FALSE,,FALSE
+,28,CRfrac_Sed,0,196,,FALSE,,FALSE
+,28,CRfrac_Soil,0.01,137,,FALSE,,FALSE
+,28,DF_2,0.059,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+7440224,,BAF_HerbVert,0.004,124,"Table C.1, general, median",FALSE,,FALSE
+16065831,,BCF_Bff,0.6,55,BAF_T3W used as surrogate,FALSE,,FALSE
+18540299,,BCF_Bff,0.6,55,BAF_T3W used as surrogate,FALSE,,FALSE
+7440484,,BCF_Bff,0,196,BAF_T3W used as surrogate,FALSE,,FALSE
+7440224,,BAF_OmnVert,0.004,124,"Table C.1, general, median",FALSE,,FALSE
+7440224,,BAF_SmBirds,0.004,124,"Table C.1, general, median",FALSE,,FALSE
+7440224,,BAF_SmHerp,0.004,124,"Table C.1, general, median",FALSE,,FALSE
+7440224,,BAF_SmMammals,0.004,124,"Table C.1, general, median",FALSE,,FALSE
+7440224,,BAF_SoilInvert,0,196,No data,FALSE,,FALSE
+,28,DF_3,0.882,73,"Min, Avg, Max = 0.5, 0.75, 1",FALSE,,FALSE
+,28,DF_6,0.059,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,30,BW,0.00879,137,,FALSE,,FALSE
+,30,CR_Food,0.00915,137,,FALSE,,FALSE
+,30,CR_Water,0.0014,137,,FALSE,,FALSE
+,30,CRfrac_Soil,0,137,,FALSE,,FALSE
+,30,DF_2,1,73,"Min, Avg, Max = 0.95, 0.975, 1",FALSE,,FALSE
+,32,BW,0.189,137,,FALSE,,FALSE
+7440224,59,BMC_Water,0.0016,74,"Broadly protective of aquatic life (acute); value given as 3.2 ug/L (0.0032 mg/L), but source notes ""If evaluation is to be done using an averaging period, the acute criteria values given should be divided by 2 to obtain a value that is more comparable to",FALSE,,FALSE
+7440666,59,BMC_Water,0.12,74,Broadly protective of aquatic life (acute). Chronic value is the same.,FALSE,,FALSE
+7429905,59,ED_Eco,1,259,Acute assumed = 1 day,FALSE,,FALSE
+7440382,59,ED_Eco,1,74,Acute assumed = 1 day,FALSE,,FALSE
+7439976,59,ED_Eco,1,74,Acute assumed = 1 day,FALSE,,FALSE
+,32,CR_Food,0.114,137,,FALSE,,FALSE
+,32,CR_Water,0.0221,137,,FALSE,,FALSE
+,32,CRfrac_Sed,0,196,,FALSE,,FALSE
+,32,CRfrac_Soil,0.028,137,,FALSE,,FALSE
+,32,DF_1,0.052,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,32,DF_2,0.052,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,32,DF_3,0.503,73,"Min, Avg, Max = 0.14, 0.48, 0.82",FALSE,,FALSE
+,32,DF_4,0.131,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,32,DF_5,0.131,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,32,DF_6,0.131,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,33,BW,1.17,136,,FALSE,,FALSE
+,33,CR_Food,0.424,73,Table 12A-2,FALSE,,FALSE
+,33,CR_Water,0.0656,73,Table 12A-3,FALSE,,FALSE
+,33,CRfrac_Sed,0.033,73,Table 12A-5,FALSE,,FALSE
+,33,DF_10,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,33,DF_11,0,73,"Min, Avg, Max = 0, 0.12, 0.24",FALSE,,FALSE
+,33,DF_13,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,33,DF_14,0.75,73,"Min, Avg, Max = 0.5, 0.75, 1",FALSE,,FALSE
+,33,DF_15,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,33,DF_16,0,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,33,DF_2,0.25,73,"Min, Avg, Max = 0.1, 0.35, 0.6",FALSE,,FALSE
+,33,DF_7,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,33,DF_8,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,35,BW,0.0208,136,,FALSE,,FALSE
+,35,CR_Food,0.019,73,Table 12A-2,FALSE,,FALSE
+,35,CR_Water,0.00304,73,Table 12A-3,FALSE,,FALSE
+,35,CRfrac_Soil,0.024,73,Table 12A-4,FALSE,,FALSE
+,35,DF_11,0,73,"Min, Avg, Max = 0.01, 0.105, 0.2",FALSE,,FALSE
+,35,DF_12,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,35,DF_13,0.75,73,"Min, Avg, Max = 0.5, 0.75, 1",FALSE,,FALSE
+,35,DF_14,0.075,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,35,DF_15,0.175,73,"Min, Avg, Max = 0.01, 0.175, 0.34",FALSE,,FALSE
+,35,DF_16,0,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,35,DF_2,0,73,"Min, Avg, Max = 0.01, 0.03, 0.05",FALSE,,FALSE
+,36,BW,0.992,136,,FALSE,,FALSE
+,36,CR_Food,0.446,73,Table 12A-2,FALSE,,FALSE
+,36,CR_Water,0.0983,73,Table 12A-3,FALSE,,FALSE
+,36,CRfrac_Sed,0.094,73,Table 12A-5,FALSE,,FALSE
+,36,DF_2,0.1,73,"Min, Avg, Max = 0, 0.315, 0.63",FALSE,,FALSE
+,36,DF_20,0,73,"Min, Avg, Max = 0.02, 0.205, 0.39",FALSE,,FALSE
+,36,DF_3,0,73,"Min, Avg, Max = 0.1, 0.265, 0.43",FALSE,,FALSE
+,36,DF_4,0,73,"Min, Avg, Max = 0.1, 0.265, 0.43",FALSE,,FALSE
+,36,DF_6,0,73,"Min, Avg, Max = 0, 0.165, 0.33",FALSE,,FALSE
+,36,DF_8,0.45,73,"Min, Avg, Max = 0, 0.45, 0.9",FALSE,,FALSE
+7440224,,BAF_Worms,0.327,123,"Table C.1, median, adjust for 84% moisture content to convert from dry to wet wt",FALSE,,FALSE
+,36,DF_9,0.45,73,"Min, Avg, Max = 0, 0.45, 0.9",FALSE,,FALSE
+,38,BW,0.873,136,,FALSE,,FALSE
+,38,CR_Food,0.401,73,Table 12A-2,FALSE,,FALSE
+,38,CR_Water,0.0876,73,Table 12A-3,FALSE,,FALSE
+,38,CRfrac_Sed,0.033,73,Table 12A-5,FALSE,,FALSE
+,38,CRfrac_Soil,0,196,,FALSE,,FALSE
+,38,DF_10,0.515,73,"Min, Avg, Max = 0.12, 0.515, 0.91",FALSE,,FALSE
+,38,DF_12,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,38,DF_13,0.415,73,"Min, Avg, Max = 0.02, 0.415, 0.81",FALSE,,FALSE
+,38,DF_14,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,38,DF_15,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,38,DF_20,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,38,DF_7,0.07,73,"Min, Avg, Max = 0, 0.25, 0.5",FALSE,,FALSE
+,38,DF_8,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,39,BW,0.191,136,,FALSE,,FALSE
+,39,CR_Food,0.13,73,Table 12A-2,FALSE,,FALSE
+,39,CR_Water,0.0195,73,Table 12A-3,FALSE,,FALSE
+,39,CRfrac_Soil,0.093,73,Table 12A-4,FALSE,,FALSE
+,39,DF_11,0.126,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,39,DF_13,0.126,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,39,DF_14,0.568,73,"Min, Avg, Max = 0.21, 0.565, 0.92",FALSE,,FALSE
+,39,DF_2,0.181,73,"Min, Avg, Max = 0, 0.18, 0.36",FALSE,,FALSE
+,44,BW,0.0416,136,,FALSE,,FALSE
+,44,CR_Food,0.0328,73,Table 12A-2,FALSE,,FALSE
+,44,CR_Water,0.00566,73,Table 12A-3,FALSE,,FALSE
+,44,CRfrac_Sed,0,196,,FALSE,,FALSE
+,44,CRfrac_Soil,0.024,73,Table 12A-4,FALSE,,FALSE
+,44,DF_11,0.075,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,44,DF_12,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,44,DF_13,0.75,73,"Min, Avg, Max = 0.5, 0.75, 1",FALSE,,FALSE
+,44,DF_14,0,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,44,DF_15,0.175,73,"Min, Avg, Max = 0.1, 0.175, 0.25",FALSE,,FALSE
+,44,DF_2,0,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,45,BW,5.69,136,,FALSE,,FALSE
+,45,CR_Food,1.87,73,Table 12A-2,FALSE,,FALSE
+,45,CR_Water,0.474,73,Table 12A-3,FALSE,,FALSE
+,45,CRfrac_Sed,0.094,73,Table 12A-5,FALSE,,FALSE
+,45,DF_1,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,45,DF_11,0.555,73,"Min, Avg, Max = 0.25, 0.555, 0.86",FALSE,,FALSE
+,45,DF_13,0,73,"Min, Avg, Max = 0.1, 0.38, 0.66",FALSE,,FALSE
+,45,DF_14,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,45,DF_15,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,45,DF_16,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,45,DF_2,0.445,73,"Min, Avg, Max = 0, 0.45, 0.9",FALSE,,FALSE
+,45,DF_20,0,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,45,DF_3,0,73,"Min, Avg, Max = 0, 0.175, 0.35",FALSE,,FALSE
+,45,DF_6,0,73,"Min, Avg, Max = 0, 0.095, 0.19",FALSE,,FALSE
+,45,DF_7,0,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,45,DF_8,0,73,"Min, Avg, Max = 0, 0.115, 0.23",FALSE,,FALSE
+,45,DF_9,0,73,"Min, Avg, Max = 0, 0.115, 0.23",FALSE,,FALSE
+,47,BW,4.53,136,,FALSE,,FALSE
+,47,CR_Food,1.55,73,Table 12A-2,FALSE,,FALSE
+,47,CR_Water,0.386,73,Table 12A-3,FALSE,,FALSE
+,47,CRfrac_Sed,0,196,,FALSE,,FALSE
+,47,CRfrac_Soil,0.028,73,Table 12A-4,FALSE,,FALSE
+,47,DF_11,0.3,73,"Min, Avg, Max = 0.1, 0.3, 0.5",FALSE,,FALSE
+,47,DF_13,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,47,DF_2,0,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+7440382,,BAF_HerbVert,0.0025,124,"Table 7, general, median",FALSE,,FALSE
+7440382,,BAF_OmnVert,0.0025,124,"Table 7, general, median",FALSE,,FALSE
+7440382,,BAF_SmBirds,0.0025,124,"Table 7, general, median",FALSE,,FALSE
+7440382,,BAF_SmHerp,0.0025,124,"Table 7, general, median",FALSE,,FALSE
+7440382,,BAF_SmMammals,0.0025,124,"Table 7, general, median",FALSE,,FALSE
+7440382,,BAF_SoilInvert,0.14,87,"Table 2, P90 (dataset=all), adjust for 80% moisture content to convert from dry to wet wt; data are for benthic organisms used as surrogate for soil",FALSE,,FALSE
+7440382,,BAF_Worms,0.035,123,"Table 11, median, adjust for 84% moisture content to convert from dry to wet wt",FALSE,,FALSE
+,47,DF_3,0.51,73,"Min, Avg, Max = 0.1, 0.51, 0.92",FALSE,,FALSE
+,47,DF_4,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,47,DF_5,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,47,DF_6,0.19,73,"Min, Avg, Max = 0, 0.23, 0.46",FALSE,,FALSE
+7440224,59,ED_Eco,1,74,Acute assumed = 1 day,FALSE,,FALSE
+7440702,14,BMD,0,196,,FALSE,,FALSE
+564250,,BCF_WaterVeg,0.95,18,BAF_T3W used as surrogate,FALSE,,FALSE
+93106606,,BCF_WaterVeg,28,18,BAF_T3W used as surrogate,FALSE,,FALSE
+114078,,BCF_WaterVeg,12,18,BAF_T3W used as surrogate,FALSE,,FALSE
+50282,,BCF_WaterVeg,46,18,BAF_T3W used as surrogate,FALSE,,FALSE
+206440,,BCF_WaterVeg,540,18,BAF_T3W used as surrogate,FALSE,,FALSE
+54910893,,BCF_WaterVeg,610,18,BAF_T3W used as surrogate,FALSE,,FALSE
+25812300,,BCF_WaterVeg,1200,18,BAF_T3W used as surrogate,FALSE,,FALSE
+15687271,,BCF_WaterVeg,400,18,BAF_T3W used as surrogate,FALSE,,FALSE
+154212,,BCF_WaterVeg,0.97,18,BAF_T3W used as surrogate,FALSE,,FALSE
+657249,,BCF_WaterVeg,0.93,18,BAF_T3W used as surrogate,FALSE,,FALSE
+91576,,BCF_WaterVeg,480,18,BAF_T3W used as surrogate,FALSE,,FALSE
+22204531,,BCF_WaterVeg,94,18,BAF_T3W used as surrogate,FALSE,,FALSE
+70458967,,BCF_WaterVeg,0.93,18,BAF_T3W used as surrogate,FALSE,,FALSE
+14698294,,BCF_WaterVeg,1.3,18,BAF_T3W used as surrogate,FALSE,,FALSE
+79572,,BCF_WaterVeg,0.93,18,BAF_T3W used as surrogate,FALSE,,FALSE
+335671,,BCF_WaterVeg,140,251,BAF_T3W used as surrogate,FALSE,,FALSE
+2795393,,BCF_WaterVeg,3500,251,BAF_T3W used as surrogate,FALSE,,FALSE
+57830,,BCF_WaterVeg,380,18,BAF_T3W used as surrogate,FALSE,,FALSE
+129000,,BCF_WaterVeg,1100,18,BAF_T3W used as surrogate,FALSE,,FALSE
+66357355,,BCF_WaterVeg,1,18,BAF_T3W used as surrogate,FALSE,,FALSE
+98105998,,BCF_WaterVeg,1.7,18,BAF_T3W used as surrogate,FALSE,,FALSE
+68359,,BCF_WaterVeg,0.98,18,BAF_T3W used as surrogate,FALSE,,FALSE
+57681,,BCF_WaterVeg,1,18,BAF_T3W used as surrogate,FALSE,,FALSE
+723466,,BCF_WaterVeg,1.4,18,BAF_T3W used as surrogate,FALSE,,FALSE
+72140,,BCF_WaterVeg,0.98,18,BAF_T3W used as surrogate,FALSE,,FALSE
+58220,,BCF_WaterVeg,120,18,BAF_T3W used as surrogate,FALSE,,FALSE
+60548,,BCF_WaterVeg,0.9,18,BAF_T3W used as surrogate,FALSE,,FALSE
+148798,,BCF_WaterVeg,17,18,BAF_T3W used as surrogate,FALSE,,FALSE
+3380345,,BCF_WaterVeg,210,18,BAF_T3W used as surrogate,FALSE,,FALSE
+738705,,BCF_WaterVeg,1.2,18,BAF_T3W used as surrogate,FALSE,,FALSE
+11006761,,BCF_WaterVeg,1.9,18,BAF_T3W used as surrogate,FALSE,,FALSE
+7439965,48,BMD,170,256,test species: Chicken,FALSE,test species: Chicken,FALSE
+7439987,48,BMD,34,122,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440020,48,BMD,6.2,266,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440224,48,BMD,2.2,255,test species: Turkey,FALSE,test species: Turkey,FALSE
+7440315,48,BMD,15,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7440382,48,BMD,2.1,252,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440393,48,BMD,41,122,test species: 1-day old chicks,FALSE,test species: 1-day old chicks,FALSE
+7440428,48,BMD,55,122,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+7440439,48,BMD,1.5,261,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440484,48,BMD,7.3,263,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440508,48,BMD,3.9,264,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440622,48,BMD,0.3,268,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440666,48,BMD,63,257,test species: Chicken,FALSE,test species: Chicken,FALSE
+7487947,48,BMD,0.9,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7783086,48,BMD,0.3,267,test species: Chicken,FALSE,test species: Chicken,FALSE
+16065831,48,BMD,2.5,262,test species: Chicken,FALSE,test species: Chicken,FALSE
+16984488,48,BMD,21,122,test species: Screech owl,FALSE,test species: Screech owl,FALSE
+79572,54,BMD,1200,258,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+103902,54,BMD,1800,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+117817,54,BMD,0.9,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+148798,54,BMD,1800,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+3380345,54,BMD,650,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+7429905,54,BMD,90,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+7439921,54,BMD,0.9,265,test species: Chicken,FALSE,test species: Chicken,FALSE
+7439965,54,BMD,100,256,test species: Chicken,FALSE,test species: Chicken,FALSE
+7439987,54,BMD,20,122,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440020,54,BMD,3.8,266,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440224,54,BMD,1.3,255,test species: Turkey,FALSE,test species: Turkey,FALSE
+7440315,54,BMD,8.8,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7440382,54,BMD,1.3,252,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440393,54,BMD,25,122,test species: 1-day old chicks,FALSE,test species: 1-day old chicks,FALSE
+7440428,54,BMD,33,122,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+7440439,54,BMD,0.9,261,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440484,54,BMD,4.4,263,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440508,54,BMD,2.3,264,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440622,54,BMD,0.2,268,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440666,54,BMD,38,257,test species: Chicken,FALSE,test species: Chicken,FALSE
+7487947,54,BMD,0.5,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7783086,54,BMD,0.2,267,test species: Chicken,FALSE,test species: Chicken,FALSE
+16065831,54,BMD,1.5,262,test species: Chicken,FALSE,test species: Chicken,FALSE
+16984488,54,BMD,13,122,test species: Screech owl,FALSE,test species: Screech owl,FALSE
+79572,55,BMD,1100,258,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+103902,55,BMD,1600,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+117817,55,BMD,0.8,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+148798,55,BMD,1600,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+3380345,55,BMD,590,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+7429905,55,BMD,81,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+7439921,55,BMD,0.8,265,test species: Chicken,FALSE,test species: Chicken,FALSE
+7439965,55,BMD,94,256,test species: Chicken,FALSE,test species: Chicken,FALSE
+7439987,55,BMD,19,122,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440020,55,BMD,3.4,266,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440224,55,BMD,1.2,255,test species: Turkey,FALSE,test species: Turkey,FALSE
+7440315,55,BMD,8,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7440382,55,BMD,1.2,252,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440393,55,BMD,23,122,test species: 1-day old chicks,FALSE,test species: 1-day old chicks,FALSE
+7440428,55,BMD,30,122,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+7440439,55,BMD,0.8,261,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440484,55,BMD,4,263,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440508,55,BMD,2.1,264,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440622,55,BMD,0.2,268,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440666,55,BMD,35,257,test species: Chicken,FALSE,test species: Chicken,FALSE
+7487947,55,BMD,0.5,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7783086,55,BMD,0.2,267,test species: Chicken,FALSE,test species: Chicken,FALSE
+16065831,55,BMD,1.4,262,test species: Chicken,FALSE,test species: Chicken,FALSE
+16984488,55,BMD,11,122,test species: Screech owl,FALSE,test species: Screech owl,FALSE
+79572,56,BMD,1400,258,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+103902,56,BMD,2100,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+117817,56,BMD,1,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+148798,56,BMD,2100,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+3380345,56,BMD,760,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+7429905,56,BMD,100,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+7439921,56,BMD,1.1,265,test species: Chicken,FALSE,test species: Chicken,FALSE
+7439965,56,BMD,120,256,test species: Chicken,FALSE,test species: Chicken,FALSE
+7439987,56,BMD,24,122,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440020,56,BMD,4.4,266,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440224,56,BMD,1.5,255,test species: Turkey,FALSE,test species: Turkey,FALSE
+7440315,56,BMD,10,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7440382,56,BMD,1.5,252,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440393,56,BMD,29,122,test species: 1-day old chicks,FALSE,test species: 1-day old chicks,FALSE
+7440428,56,BMD,38,122,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+7440439,56,BMD,1.1,261,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440484,56,BMD,5.1,263,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440508,56,BMD,2.7,264,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440622,56,BMD,0.2,268,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440666,56,BMD,44,257,test species: Chicken,FALSE,test species: Chicken,FALSE
+7487947,56,BMD,0.6,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7783086,56,BMD,0.2,267,test species: Chicken,FALSE,test species: Chicken,FALSE
+16065831,56,BMD,1.8,262,test species: Chicken,FALSE,test species: Chicken,FALSE
+16984488,56,BMD,15,122,test species: Screech owl,FALSE,test species: Screech owl,FALSE
+50282,2,BMD,0,196,,FALSE,,FALSE
+50328,2,BMD,0,196,,FALSE,,FALSE
+57625,2,BMD,0,196,,FALSE,,FALSE
+57681,2,BMD,0,196,,FALSE,,FALSE
+57830,2,BMD,0,196,,FALSE,,FALSE
+58220,2,BMD,0,196,,FALSE,,FALSE
+60548,2,BMD,0,196,,FALSE,,FALSE
+68359,2,BMD,0,196,,FALSE,,FALSE
+72140,2,BMD,0,196,,FALSE,,FALSE
+76573,2,BMD,0,196,,FALSE,,FALSE
+91576,2,BMD,0,196,,FALSE,,FALSE
+106478,2,BMD,0,196,,FALSE,,FALSE
+114078,2,BMD,0,196,,FALSE,,FALSE
+129000,2,BMD,0,196,,FALSE,,FALSE
+154212,2,BMD,0,196,,FALSE,,FALSE
+206440,2,BMD,0,196,,FALSE,,FALSE
+298464,2,BMD,0,196,,FALSE,,FALSE
+335671,2,BMD,0,196,,FALSE,,FALSE
+564250,2,BMD,0,196,,FALSE,,FALSE
+657249,2,BMD,0,196,,FALSE,,FALSE
+723466,2,BMD,0,196,,FALSE,,FALSE
+738705,2,BMD,0,196,,FALSE,,FALSE
+1163195,2,BMD,0,196,,FALSE,,FALSE
+2795393,2,BMD,0,196,,FALSE,,FALSE
+5436431,2,BMD,0,196,,FALSE,,FALSE
+7439896,2,BMD,0,196,,FALSE,,FALSE
+7439954,2,BMD,0,196,,FALSE,,FALSE
+7439976,2,BMD,0,196,,FALSE,,FALSE
+7440235,2,BMD,0,196,,FALSE,,FALSE
+7440280,2,BMD,0,196,,FALSE,,FALSE
+7440360,2,BMD,0,196,,FALSE,,FALSE
+7440417,2,BMD,0,196,,FALSE,,FALSE
+7440702,2,BMD,0,196,,FALSE,,FALSE
+7783008,2,BMD,0,196,,FALSE,,FALSE
+11006761,2,BMD,0,196,,FALSE,,FALSE
+14698294,2,BMD,0,196,,FALSE,,FALSE
+14797558,2,BMD,0,196,,FALSE,,FALSE
+14797650,2,BMD,0,196,,FALSE,,FALSE
+15687271,2,BMD,0,196,,FALSE,,FALSE
+18540299,2,BMD,0,196,,FALSE,,FALSE
+18559949,2,BMD,0,196,,FALSE,,FALSE
+22204531,2,BMD,0,196,,FALSE,,FALSE
+25812300,2,BMD,0,196,,FALSE,,FALSE
+42399417,2,BMD,0,196,,FALSE,,FALSE
+51481619,2,BMD,0,196,,FALSE,,FALSE
+54910893,2,BMD,0,196,,FALSE,,FALSE
+60348609,2,BMD,0,196,,FALSE,,FALSE
+66357355,2,BMD,0,196,,FALSE,,FALSE
+68631492,2,BMD,0,196,,FALSE,,FALSE
+70458967,2,BMD,0,196,,FALSE,,FALSE
+85721331,2,BMD,0,196,,FALSE,,FALSE
+93106606,2,BMD,0,196,,FALSE,,FALSE
+98105998,2,BMD,0,196,,FALSE,,FALSE
+50282,3,BMD,0,196,,FALSE,,FALSE
+50328,3,BMD,0,196,,FALSE,,FALSE
+57625,3,BMD,0,196,,FALSE,,FALSE
+57681,3,BMD,0,196,,FALSE,,FALSE
+57830,3,BMD,0,196,,FALSE,,FALSE
+58220,3,BMD,0,196,,FALSE,,FALSE
+60548,3,BMD,0,196,,FALSE,,FALSE
+68359,3,BMD,0,196,,FALSE,,FALSE
+72140,3,BMD,0,196,,FALSE,,FALSE
+76573,3,BMD,0,196,,FALSE,,FALSE
+91576,3,BMD,0,196,,FALSE,,FALSE
+106478,3,BMD,0,196,,FALSE,,FALSE
+114078,3,BMD,0,196,,FALSE,,FALSE
+129000,3,BMD,0,196,,FALSE,,FALSE
+154212,3,BMD,0,196,,FALSE,,FALSE
+206440,3,BMD,0,196,,FALSE,,FALSE
+298464,3,BMD,0,196,,FALSE,,FALSE
+335671,3,BMD,0,196,,FALSE,,FALSE
+564250,3,BMD,0,196,,FALSE,,FALSE
+657249,3,BMD,0,196,,FALSE,,FALSE
+723466,3,BMD,0,196,,FALSE,,FALSE
+738705,3,BMD,0,196,,FALSE,,FALSE
+1163195,3,BMD,0,196,,FALSE,,FALSE
+2795393,3,BMD,0,196,,FALSE,,FALSE
+5436431,3,BMD,0,196,,FALSE,,FALSE
+7439896,3,BMD,0,196,,FALSE,,FALSE
+7439954,3,BMD,0,196,,FALSE,,FALSE
+7439976,3,BMD,0,196,,FALSE,,FALSE
+7440235,3,BMD,0,196,,FALSE,,FALSE
+7440280,3,BMD,0,196,,FALSE,,FALSE
+7440360,3,BMD,0,196,,FALSE,,FALSE
+7440417,3,BMD,0,196,,FALSE,,FALSE
+7440702,3,BMD,0,196,,FALSE,,FALSE
+7783008,3,BMD,0,196,,FALSE,,FALSE
+11006761,3,BMD,0,196,,FALSE,,FALSE
+14698294,3,BMD,0,196,,FALSE,,FALSE
+14797558,3,BMD,0,196,,FALSE,,FALSE
+14797650,3,BMD,0,196,,FALSE,,FALSE
+15687271,3,BMD,0,196,,FALSE,,FALSE
+18540299,3,BMD,0,196,,FALSE,,FALSE
+18559949,3,BMD,0,196,,FALSE,,FALSE
+22204531,3,BMD,0,196,,FALSE,,FALSE
+25812300,3,BMD,0,196,,FALSE,,FALSE
+42399417,3,BMD,0,196,,FALSE,,FALSE
+51481619,3,BMD,0,196,,FALSE,,FALSE
+54910893,3,BMD,0,196,,FALSE,,FALSE
+60348609,3,BMD,0,196,,FALSE,,FALSE
+66357355,3,BMD,0,196,,FALSE,,FALSE
+68631492,3,BMD,0,196,,FALSE,,FALSE
+70458967,3,BMD,0,196,,FALSE,,FALSE
+85721331,3,BMD,0,196,,FALSE,,FALSE
+93106606,3,BMD,0,196,,FALSE,,FALSE
+98105998,3,BMD,0,196,,FALSE,,FALSE
+50282,4,BMD,0,196,,FALSE,,FALSE
+50328,4,BMD,0,196,,FALSE,,FALSE
+57625,4,BMD,0,196,,FALSE,,FALSE
+57681,4,BMD,0,196,,FALSE,,FALSE
+57830,4,BMD,0,196,,FALSE,,FALSE
+58220,4,BMD,0,196,,FALSE,,FALSE
+60548,4,BMD,0,196,,FALSE,,FALSE
+68359,4,BMD,0,196,,FALSE,,FALSE
+72140,4,BMD,0,196,,FALSE,,FALSE
+76573,4,BMD,0,196,,FALSE,,FALSE
+91576,4,BMD,0,196,,FALSE,,FALSE
+106478,4,BMD,0,196,,FALSE,,FALSE
+114078,4,BMD,0,196,,FALSE,,FALSE
+129000,4,BMD,0,196,,FALSE,,FALSE
+154212,4,BMD,0,196,,FALSE,,FALSE
+206440,4,BMD,0,196,,FALSE,,FALSE
+298464,4,BMD,0,196,,FALSE,,FALSE
+335671,4,BMD,0,196,,FALSE,,FALSE
+564250,4,BMD,0,196,,FALSE,,FALSE
+657249,4,BMD,0,196,,FALSE,,FALSE
+723466,4,BMD,0,196,,FALSE,,FALSE
+738705,4,BMD,0,196,,FALSE,,FALSE
+1163195,4,BMD,0,196,,FALSE,,FALSE
+2795393,4,BMD,0,196,,FALSE,,FALSE
+5436431,4,BMD,0,196,,FALSE,,FALSE
+7439896,4,BMD,0,196,,FALSE,,FALSE
+7439954,4,BMD,0,196,,FALSE,,FALSE
+7439976,4,BMD,0,196,,FALSE,,FALSE
+7440235,4,BMD,0,196,,FALSE,,FALSE
+7440280,4,BMD,0,196,,FALSE,,FALSE
+7440360,4,BMD,0,196,,FALSE,,FALSE
+7440417,4,BMD,0,196,,FALSE,,FALSE
+7440702,4,BMD,0,196,,FALSE,,FALSE
+7783008,4,BMD,0,196,,FALSE,,FALSE
+11006761,4,BMD,0,196,,FALSE,,FALSE
+14698294,4,BMD,0,196,,FALSE,,FALSE
+14797558,4,BMD,0,196,,FALSE,,FALSE
+14797650,4,BMD,0,196,,FALSE,,FALSE
+15687271,4,BMD,0,196,,FALSE,,FALSE
+18540299,4,BMD,0,196,,FALSE,,FALSE
+18559949,4,BMD,0,196,,FALSE,,FALSE
+22204531,4,BMD,0,196,,FALSE,,FALSE
+25812300,4,BMD,0,196,,FALSE,,FALSE
+42399417,4,BMD,0,196,,FALSE,,FALSE
+51481619,4,BMD,0,196,,FALSE,,FALSE
+54910893,4,BMD,0,196,,FALSE,,FALSE
+60348609,4,BMD,0,196,,FALSE,,FALSE
+66357355,4,BMD,0,196,,FALSE,,FALSE
+68631492,4,BMD,0,196,,FALSE,,FALSE
+70458967,4,BMD,0,196,,FALSE,,FALSE
+85721331,4,BMD,0,196,,FALSE,,FALSE
+93106606,4,BMD,0,196,,FALSE,,FALSE
+98105998,4,BMD,0,196,,FALSE,,FALSE
+50282,7,BMD,0,196,,FALSE,,FALSE
+50328,7,BMD,0,196,,FALSE,,FALSE
+57625,7,BMD,0,196,,FALSE,,FALSE
+57681,7,BMD,0,196,,FALSE,,FALSE
+57830,7,BMD,0,196,,FALSE,,FALSE
+58220,7,BMD,0,196,,FALSE,,FALSE
+60548,7,BMD,0,196,,FALSE,,FALSE
+68359,7,BMD,0,196,,FALSE,,FALSE
+72140,7,BMD,0,196,,FALSE,,FALSE
+76573,7,BMD,0,196,,FALSE,,FALSE
+91576,7,BMD,0,196,,FALSE,,FALSE
+106478,7,BMD,0,196,,FALSE,,FALSE
+114078,7,BMD,0,196,,FALSE,,FALSE
+129000,7,BMD,0,196,,FALSE,,FALSE
+154212,7,BMD,0,196,,FALSE,,FALSE
+206440,7,BMD,0,196,,FALSE,,FALSE
+298464,7,BMD,0,196,,FALSE,,FALSE
+335671,7,BMD,0,196,,FALSE,,FALSE
+564250,7,BMD,0,196,,FALSE,,FALSE
+657249,7,BMD,0,196,,FALSE,,FALSE
+723466,7,BMD,0,196,,FALSE,,FALSE
+738705,7,BMD,0,196,,FALSE,,FALSE
+1163195,7,BMD,0,196,,FALSE,,FALSE
+2795393,7,BMD,0,196,,FALSE,,FALSE
+5436431,7,BMD,0,196,,FALSE,,FALSE
+7439896,7,BMD,0,196,,FALSE,,FALSE
+7439954,7,BMD,0,196,,FALSE,,FALSE
+7439976,7,BMD,0,196,,FALSE,,FALSE
+7440235,7,BMD,0,196,,FALSE,,FALSE
+7440280,7,BMD,0,196,,FALSE,,FALSE
+7440360,7,BMD,0,196,,FALSE,,FALSE
+7440417,7,BMD,0,196,,FALSE,,FALSE
+7440702,7,BMD,0,196,,FALSE,,FALSE
+7783008,7,BMD,0,196,,FALSE,,FALSE
+11006761,7,BMD,0,196,,FALSE,,FALSE
+14698294,7,BMD,0,196,,FALSE,,FALSE
+14797558,7,BMD,0,196,,FALSE,,FALSE
+14797650,7,BMD,0,196,,FALSE,,FALSE
+15687271,7,BMD,0,196,,FALSE,,FALSE
+18540299,7,BMD,0,196,,FALSE,,FALSE
+18559949,7,BMD,0,196,,FALSE,,FALSE
+22204531,7,BMD,0,196,,FALSE,,FALSE
+25812300,7,BMD,0,196,,FALSE,,FALSE
+42399417,7,BMD,0,196,,FALSE,,FALSE
+51481619,7,BMD,0,196,,FALSE,,FALSE
+54910893,7,BMD,0,196,,FALSE,,FALSE
+60348609,7,BMD,0,196,,FALSE,,FALSE
+66357355,7,BMD,0,196,,FALSE,,FALSE
+68631492,7,BMD,0,196,,FALSE,,FALSE
+70458967,7,BMD,0,196,,FALSE,,FALSE
+85721331,7,BMD,0,196,,FALSE,,FALSE
+93106606,7,BMD,0,196,,FALSE,,FALSE
+98105998,7,BMD,0,196,,FALSE,,FALSE
+50282,8,BMD,0,196,,FALSE,,FALSE
+57625,8,BMD,0,196,,FALSE,,FALSE
+57681,8,BMD,0,196,,FALSE,,FALSE
+57830,8,BMD,0,196,,FALSE,,FALSE
+58220,8,BMD,0,196,,FALSE,,FALSE
+68359,8,BMD,0,196,,FALSE,,FALSE
+72140,8,BMD,0,196,,FALSE,,FALSE
+76573,8,BMD,0,196,,FALSE,,FALSE
+79572,8,BMD,0,196,,FALSE,,FALSE
+91576,8,BMD,0,196,,FALSE,,FALSE
+103902,8,BMD,0,196,,FALSE,,FALSE
+106478,8,BMD,0,196,,FALSE,,FALSE
+114078,8,BMD,0,196,,FALSE,,FALSE
+129000,8,BMD,0,196,,FALSE,,FALSE
+148798,8,BMD,0,196,,FALSE,,FALSE
+154212,8,BMD,0,196,,FALSE,,FALSE
+206440,8,BMD,0,196,,FALSE,,FALSE
+298464,8,BMD,0,196,,FALSE,,FALSE
+335671,8,BMD,0,196,,FALSE,,FALSE
+564250,8,BMD,0,196,,FALSE,,FALSE
+657249,8,BMD,0,196,,FALSE,,FALSE
+723466,8,BMD,0,196,,FALSE,,FALSE
+738705,8,BMD,0,196,,FALSE,,FALSE
+1163195,8,BMD,0,196,,FALSE,,FALSE
+2795393,8,BMD,0,196,,FALSE,,FALSE
+3380345,8,BMD,0,196,,FALSE,,FALSE
+5436431,8,BMD,0,196,,FALSE,,FALSE
+7439896,8,BMD,0,196,,FALSE,,FALSE
+7439954,8,BMD,0,196,,FALSE,,FALSE
+7440235,8,BMD,0,196,,FALSE,,FALSE
+7440702,8,BMD,0,196,,FALSE,,FALSE
+7487947,8,BMD,0,196,,FALSE,,FALSE
+7783008,8,BMD,0,196,,FALSE,,FALSE
+11006761,8,BMD,0,196,,FALSE,,FALSE
+14698294,8,BMD,0,196,,FALSE,,FALSE
+14797650,8,BMD,0,196,,FALSE,,FALSE
+15687271,8,BMD,0,196,,FALSE,,FALSE
+18559949,8,BMD,0,196,,FALSE,,FALSE
+22204531,8,BMD,0,196,,FALSE,,FALSE
+25812300,8,BMD,0,196,,FALSE,,FALSE
+42399417,8,BMD,0,196,,FALSE,,FALSE
+51481619,8,BMD,0,196,,FALSE,,FALSE
+54910893,8,BMD,0,196,,FALSE,,FALSE
+60348609,8,BMD,0,196,,FALSE,,FALSE
+66357355,8,BMD,0,196,,FALSE,,FALSE
+68631492,8,BMD,0,196,,FALSE,,FALSE
+70458967,8,BMD,0,196,,FALSE,,FALSE
+85721331,8,BMD,0,196,,FALSE,,FALSE
+93106606,8,BMD,0,196,,FALSE,,FALSE
+98105998,8,BMD,0,196,,FALSE,,FALSE
+50282,12,BMD,0,196,,FALSE,,FALSE
+50328,12,BMD,0,196,,FALSE,,FALSE
+57625,12,BMD,0,196,,FALSE,,FALSE
+57681,12,BMD,0,196,,FALSE,,FALSE
+57830,12,BMD,0,196,,FALSE,,FALSE
+58220,12,BMD,0,196,,FALSE,,FALSE
+60548,12,BMD,0,196,,FALSE,,FALSE
+68359,12,BMD,0,196,,FALSE,,FALSE
+72140,12,BMD,0,196,,FALSE,,FALSE
+76573,12,BMD,0,196,,FALSE,,FALSE
+91576,12,BMD,0,196,,FALSE,,FALSE
+106478,12,BMD,0,196,,FALSE,,FALSE
+114078,12,BMD,0,196,,FALSE,,FALSE
+129000,12,BMD,0,196,,FALSE,,FALSE
+154212,12,BMD,0,196,,FALSE,,FALSE
+206440,12,BMD,0,196,,FALSE,,FALSE
+298464,12,BMD,0,196,,FALSE,,FALSE
+335671,12,BMD,0,196,,FALSE,,FALSE
+564250,12,BMD,0,196,,FALSE,,FALSE
+657249,12,BMD,0,196,,FALSE,,FALSE
+723466,12,BMD,0,196,,FALSE,,FALSE
+738705,12,BMD,0,196,,FALSE,,FALSE
+1163195,12,BMD,0,196,,FALSE,,FALSE
+2795393,12,BMD,0,196,,FALSE,,FALSE
+5436431,12,BMD,0,196,,FALSE,,FALSE
+7439896,12,BMD,0,196,,FALSE,,FALSE
+7439954,12,BMD,0,196,,FALSE,,FALSE
+7439976,12,BMD,0,196,,FALSE,,FALSE
+7440235,12,BMD,0,196,,FALSE,,FALSE
+7440280,12,BMD,0,196,,FALSE,,FALSE
+7440360,12,BMD,0,196,,FALSE,,FALSE
+7440417,12,BMD,0,196,,FALSE,,FALSE
+7440702,12,BMD,0,196,,FALSE,,FALSE
+7783008,12,BMD,0,196,,FALSE,,FALSE
+11006761,12,BMD,0,196,,FALSE,,FALSE
+14698294,12,BMD,0,196,,FALSE,,FALSE
+14797558,12,BMD,0,196,,FALSE,,FALSE
+14797650,12,BMD,0,196,,FALSE,,FALSE
+15687271,12,BMD,0,196,,FALSE,,FALSE
+18540299,12,BMD,0,196,,FALSE,,FALSE
+18559949,12,BMD,0,196,,FALSE,,FALSE
+22204531,12,BMD,0,196,,FALSE,,FALSE
+25812300,12,BMD,0,196,,FALSE,,FALSE
+42399417,12,BMD,0,196,,FALSE,,FALSE
+51481619,12,BMD,0,196,,FALSE,,FALSE
+54910893,12,BMD,0,196,,FALSE,,FALSE
+60348609,12,BMD,0,196,,FALSE,,FALSE
+66357355,12,BMD,0,196,,FALSE,,FALSE
+68631492,12,BMD,0,196,,FALSE,,FALSE
+70458967,12,BMD,0,196,,FALSE,,FALSE
+85721331,12,BMD,0,196,,FALSE,,FALSE
+93106606,12,BMD,0,196,,FALSE,,FALSE
+98105998,12,BMD,0,196,,FALSE,,FALSE
+50282,14,BMD,0,196,,FALSE,,FALSE
+50328,14,BMD,0,196,,FALSE,,FALSE
+57625,14,BMD,0,196,,FALSE,,FALSE
+57681,14,BMD,0,196,,FALSE,,FALSE
+57830,14,BMD,0,196,,FALSE,,FALSE
+58220,14,BMD,0,196,,FALSE,,FALSE
+60548,14,BMD,0,196,,FALSE,,FALSE
+68359,14,BMD,0,196,,FALSE,,FALSE
+72140,14,BMD,0,196,,FALSE,,FALSE
+76573,14,BMD,0,196,,FALSE,,FALSE
+91576,14,BMD,0,196,,FALSE,,FALSE
+106478,14,BMD,0,196,,FALSE,,FALSE
+114078,14,BMD,0,196,,FALSE,,FALSE
+129000,14,BMD,0,196,,FALSE,,FALSE
+154212,14,BMD,0,196,,FALSE,,FALSE
+206440,14,BMD,0,196,,FALSE,,FALSE
+298464,14,BMD,0,196,,FALSE,,FALSE
+335671,14,BMD,0,196,,FALSE,,FALSE
+564250,14,BMD,0,196,,FALSE,,FALSE
+657249,14,BMD,0,196,,FALSE,,FALSE
+723466,14,BMD,0,196,,FALSE,,FALSE
+738705,14,BMD,0,196,,FALSE,,FALSE
+1163195,14,BMD,0,196,,FALSE,,FALSE
+2795393,14,BMD,0,196,,FALSE,,FALSE
+5436431,14,BMD,0,196,,FALSE,,FALSE
+7439896,14,BMD,0,196,,FALSE,,FALSE
+7439954,14,BMD,0,196,,FALSE,,FALSE
+7439976,14,BMD,0,196,,FALSE,,FALSE
+7440235,14,BMD,0,196,,FALSE,,FALSE
+7440280,14,BMD,0,196,,FALSE,,FALSE
+7440360,14,BMD,0,196,,FALSE,,FALSE
+7440417,14,BMD,0,196,,FALSE,,FALSE
+7783008,14,BMD,0,196,,FALSE,,FALSE
+11006761,14,BMD,0,196,,FALSE,,FALSE
+14698294,14,BMD,0,196,,FALSE,,FALSE
+14797558,14,BMD,0,196,,FALSE,,FALSE
+14797650,14,BMD,0,196,,FALSE,,FALSE
+15687271,14,BMD,0,196,,FALSE,,FALSE
+18540299,14,BMD,0,196,,FALSE,,FALSE
+18559949,14,BMD,0,196,,FALSE,,FALSE
+22204531,14,BMD,0,196,,FALSE,,FALSE
+25812300,14,BMD,0,196,,FALSE,,FALSE
+42399417,14,BMD,0,196,,FALSE,,FALSE
+51481619,14,BMD,0,196,,FALSE,,FALSE
+54910893,14,BMD,0,196,,FALSE,,FALSE
+60348609,14,BMD,0,196,,FALSE,,FALSE
+66357355,14,BMD,0,196,,FALSE,,FALSE
+68631492,14,BMD,0,196,,FALSE,,FALSE
+70458967,14,BMD,0,196,,FALSE,,FALSE
+85721331,14,BMD,0,196,,FALSE,,FALSE
+93106606,14,BMD,0,196,,FALSE,,FALSE
+98105998,14,BMD,0,196,,FALSE,,FALSE
+50282,15,BMD,0,196,,FALSE,,FALSE
+57625,15,BMD,0,196,,FALSE,,FALSE
+57681,15,BMD,0,196,,FALSE,,FALSE
+57830,15,BMD,0,196,,FALSE,,FALSE
+58220,15,BMD,0,196,,FALSE,,FALSE
+68359,15,BMD,0,196,,FALSE,,FALSE
+72140,15,BMD,0,196,,FALSE,,FALSE
+76573,15,BMD,0,196,,FALSE,,FALSE
+79572,15,BMD,0,196,,FALSE,,FALSE
+91576,15,BMD,0,196,,FALSE,,FALSE
+103902,15,BMD,0,196,,FALSE,,FALSE
+106478,15,BMD,0,196,,FALSE,,FALSE
+114078,15,BMD,0,196,,FALSE,,FALSE
+129000,15,BMD,0,196,,FALSE,,FALSE
+148798,15,BMD,0,196,,FALSE,,FALSE
+154212,15,BMD,0,196,,FALSE,,FALSE
+206440,15,BMD,0,196,,FALSE,,FALSE
+298464,15,BMD,0,196,,FALSE,,FALSE
+335671,15,BMD,0,196,,FALSE,,FALSE
+564250,15,BMD,0,196,,FALSE,,FALSE
+657249,15,BMD,0,196,,FALSE,,FALSE
+723466,15,BMD,0,196,,FALSE,,FALSE
+738705,15,BMD,0,196,,FALSE,,FALSE
+1163195,15,BMD,0,196,,FALSE,,FALSE
+2795393,15,BMD,0,196,,FALSE,,FALSE
+3380345,15,BMD,0,196,,FALSE,,FALSE
+5436431,15,BMD,0,196,,FALSE,,FALSE
+7439896,15,BMD,0,196,,FALSE,,FALSE
+7439954,15,BMD,0,196,,FALSE,,FALSE
+7440235,15,BMD,0,196,,FALSE,,FALSE
+7440702,15,BMD,0,196,,FALSE,,FALSE
+7487947,15,BMD,0,196,,FALSE,,FALSE
+7783008,15,BMD,0,196,,FALSE,,FALSE
+11006761,15,BMD,0,196,,FALSE,,FALSE
+14698294,15,BMD,0,196,,FALSE,,FALSE
+14797650,15,BMD,0,196,,FALSE,,FALSE
+15687271,15,BMD,0,196,,FALSE,,FALSE
+18559949,15,BMD,0,196,,FALSE,,FALSE
+22204531,15,BMD,0,196,,FALSE,,FALSE
+25812300,15,BMD,0,196,,FALSE,,FALSE
+42399417,15,BMD,0,196,,FALSE,,FALSE
+51481619,15,BMD,0,196,,FALSE,,FALSE
+54910893,15,BMD,0,196,,FALSE,,FALSE
+60348609,15,BMD,0,196,,FALSE,,FALSE
+66357355,15,BMD,0,196,,FALSE,,FALSE
+68631492,15,BMD,0,196,,FALSE,,FALSE
+70458967,15,BMD,0,196,,FALSE,,FALSE
+85721331,15,BMD,0,196,,FALSE,,FALSE
+93106606,15,BMD,0,196,,FALSE,,FALSE
+98105998,15,BMD,0,196,,FALSE,,FALSE
+50282,16,BMD,0,196,,FALSE,,FALSE
+57625,16,BMD,0,196,,FALSE,,FALSE
+57681,16,BMD,0,196,,FALSE,,FALSE
+57830,16,BMD,0,196,,FALSE,,FALSE
+58220,16,BMD,0,196,,FALSE,,FALSE
+68359,16,BMD,0,196,,FALSE,,FALSE
+72140,16,BMD,0,196,,FALSE,,FALSE
+76573,16,BMD,0,196,,FALSE,,FALSE
+79572,16,BMD,0,196,,FALSE,,FALSE
+91576,16,BMD,0,196,,FALSE,,FALSE
+103902,16,BMD,0,196,,FALSE,,FALSE
+106478,16,BMD,0,196,,FALSE,,FALSE
+114078,16,BMD,0,196,,FALSE,,FALSE
+129000,16,BMD,0,196,,FALSE,,FALSE
+148798,16,BMD,0,196,,FALSE,,FALSE
+154212,16,BMD,0,196,,FALSE,,FALSE
+206440,16,BMD,0,196,,FALSE,,FALSE
+298464,16,BMD,0,196,,FALSE,,FALSE
+335671,16,BMD,0,196,,FALSE,,FALSE
+564250,16,BMD,0,196,,FALSE,,FALSE
+657249,16,BMD,0,196,,FALSE,,FALSE
+723466,16,BMD,0,196,,FALSE,,FALSE
+738705,16,BMD,0,196,,FALSE,,FALSE
+1163195,16,BMD,0,196,,FALSE,,FALSE
+2795393,16,BMD,0,196,,FALSE,,FALSE
+3380345,16,BMD,0,196,,FALSE,,FALSE
+5436431,16,BMD,0,196,,FALSE,,FALSE
+7439896,16,BMD,0,196,,FALSE,,FALSE
+7439954,16,BMD,0,196,,FALSE,,FALSE
+7440235,16,BMD,0,196,,FALSE,,FALSE
+7440702,16,BMD,0,196,,FALSE,,FALSE
+7487947,16,BMD,0,196,,FALSE,,FALSE
+7783008,16,BMD,0,196,,FALSE,,FALSE
+11006761,16,BMD,0,196,,FALSE,,FALSE
+14698294,16,BMD,0,196,,FALSE,,FALSE
+14797650,16,BMD,0,196,,FALSE,,FALSE
+15687271,16,BMD,0,196,,FALSE,,FALSE
+18559949,16,BMD,0,196,,FALSE,,FALSE
+22204531,16,BMD,0,196,,FALSE,,FALSE
+7440666,59,ED_Eco,1,74,Acute assumed = 1 day,FALSE,,FALSE
+7439965,65,ED_Eco,1,258,"2-day study, ED rounded down",FALSE,,FALSE
+,48,BW,1.13,136,,FALSE,,FALSE
+,48,CR_Food,0.415,73,Table 12A-2,FALSE,,FALSE
+,48,CR_Water,0.0641,73,Table 12A-3,FALSE,,FALSE
+,48,CRfrac_Sed,0,196,,FALSE,,FALSE
+,48,CRfrac_Soil,0.01,73,Table 12A-4,FALSE,,FALSE
+,48,DF_1,0,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,48,DF_2,0.125,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,48,DF_20,0,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,48,DF_3,0.5,73,"Min, Avg, Max = 0.1, 0.5, 0.9",FALSE,,FALSE
+,48,DF_4,0.125,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,48,DF_5,0.125,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,48,DF_6,0.125,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,50,BW,0.015,136,,FALSE,,FALSE
+,50,CR_Food,0.0142,73,Table 12A-2,FALSE,,FALSE
+,50,CR_Water,0.00354,73,Table 12A-3,FALSE,,FALSE
+,50,CRfrac_Soil,0.01,73,Table 12A-4,FALSE,,FALSE
+,50,DF_1,0.417,73,"Min, Avg, Max = 0.25, 0.375, 0.5",FALSE,,FALSE
+,50,DF_11,0.056,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,50,DF_12,0.139,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,50,DF_2,0.333,73,"Min, Avg, Max = 0.1, 0.3, 0.5",FALSE,,FALSE
+,50,DF_3,0.056,73,"Min, Avg, Max = 0, 0.05, 0.1",FALSE,,FALSE
+,51,BW,0.202,137,,FALSE,,FALSE
+,51,CR_Food,0.12,137,,FALSE,,FALSE
+,51,CR_Water,0.0234,137,,FALSE,,FALSE
+,51,CRfrac_Soil,0.028,137,,FALSE,,FALSE
+,51,DF_2,0.125,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,51,DF_20,0.1,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,51,DF_3,0.65,73,"Min, Avg, Max = 0.5, 0.65, 0.8",FALSE,,FALSE
+,51,DF_6,0.125,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,55,BW,0.021,137,,FALSE,,FALSE
+,55,CR_Food,0.0309,137,,FALSE,,FALSE
+,55,CR_Water,0.00443,137,,FALSE,,FALSE
+7440508,,BCF_Bff,0,55,BAF_T3W used as surrogate,FALSE,,FALSE
+,55,CRfrac_Soil,0.01,137,,FALSE,,FALSE
+,55,DF_11,0.14,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,55,DF_13,0.14,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,55,DF_2,0.719,73,"Min, Avg, Max = 0.5, 0.64, 0.78",FALSE,,FALSE
+,56,BW,0.106,137,,FALSE,,FALSE
+,56,CR_Food,0.0891,137,,FALSE,,FALSE
+,56,CR_Water,0.0132,137,,FALSE,,FALSE
+,56,CRfrac_Sed,0,196,,FALSE,,FALSE
+,56,CRfrac_Soil,0,137,,FALSE,,FALSE
+,56,DF_14,0.143,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,56,DF_2,0.857,73,"Min, Avg, Max = 0.5, 0.75, 1",FALSE,,FALSE
+7440393,,BAF_HerbVert,0.0566,124,"Table 7, general, median",FALSE,,FALSE
+7440393,,BAF_OmnVert,0.0566,124,"Table 7, general, median",FALSE,,FALSE
+7440393,,BAF_SmBirds,0.0566,124,"Table 7, general, median",FALSE,,FALSE
+7440393,,BAF_SmHerp,0.0566,124,"Table 7, general, median",FALSE,,FALSE
+7440393,,BAF_SmMammals,0.0566,124,"Table 7, general, median",FALSE,,FALSE
+7440393,,BAF_SoilInvert,0,196,No data,FALSE,,FALSE
+7440393,,BAF_Worms,0.0146,123,"Table 11, median, adjust for 84% moisture content to convert from dry to wet wt",FALSE,,FALSE
+7440417,,BAF_HerbVert,0,196,No data,FALSE,,FALSE
+7440417,,BAF_OmnVert,0,196,No data,FALSE,,FALSE
+7440417,,BAF_SmBirds,0,196,No data,FALSE,,FALSE
+7440417,,BAF_SmHerp,0,196,No data,FALSE,,FALSE
+7440417,,BAF_SmMammals,0,196,No data,FALSE,,FALSE
+7440417,,BAF_SoilInvert,0,196,No data,FALSE,,FALSE
+7440417,,BAF_Worms,0.0072,123,"Table 11, median, adjust for 84% moisture content to convert from dry to wet wt",FALSE,,FALSE
+,57,BW,69.4,139,,FALSE,,FALSE
+,57,CR_Food,14.6,139,,FALSE,,FALSE
+,57,CR_Water,4.5,139,,FALSE,,FALSE
+,57,CRfrac_Sed,0,196,,FALSE,,FALSE
+3380345,65,ED_Eco,1,258,"2-day study, ED rounded down",FALSE,,FALSE
+106478,63,ED_Eco,1,258,"3-day study, ED rounded down",FALSE,,FALSE
+3380345,63,ED_Eco,4,258,4-day study,FALSE,,FALSE
+,57,CRfrac_Soil,0.068,139,,FALSE,,FALSE
+,57,DF_10,0,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,57,DF_11,0,73,"Min, Avg, Max = 0.1, 0.25, 0.4",FALSE,,FALSE
+,57,DF_12,0,73,"Min, Avg, Max = 0, 0.125, 0.25",FALSE,,FALSE
+,57,DF_13,0.75,73,"Min, Avg, Max = 0.5, 0.75, 1",FALSE,,FALSE
+,57,DF_14,0.25,73,"Min, Avg, Max = 0, 0.39, 0.78",FALSE,,FALSE
+,57,DF_16,0,73,"Min, Avg, Max = 0, 0.39, 0.78",FALSE,,FALSE
+60548,63,BMC_Water,0.548,81,,FALSE,,FALSE
+298464,64,BMC_Water,100,119,,FALSE,,FALSE
+723466,64,BMC_Water,100,119,,FALSE,,FALSE
+148798,64,BMC_Water,7.3,114,,FALSE,,FALSE
+60548,,BAF_HerbVert,1,143,"Default, no data",FALSE,,FALSE
+60548,,BAF_OmnVert,1,143,"Default, no data",FALSE,,FALSE
+60548,,BAF_SmBirds,1,143,"Default, no data",FALSE,,FALSE
+60548,,BAF_SmHerp,1,143,"Default, no data",FALSE,,FALSE
+60548,,BAF_SmMammals,1,143,"Default, no data",FALSE,,FALSE
+60548,,BAF_SoilInvert,1,143,"Default, no data",FALSE,,FALSE
+60548,,BAF_Worms,1,143,"Default, no data",FALSE,,FALSE
+79572,,BAF_HerbVert,1,143,"Default, no data",FALSE,,FALSE
+79572,,BAF_OmnVert,1,143,"Default, no data",FALSE,,FALSE
+79572,,BAF_SmBirds,1,143,"Default, no data",FALSE,,FALSE
+79572,,BAF_SmHerp,1,143,"Default, no data",FALSE,,FALSE
+79572,,BAF_SmMammals,1,143,"Default, no data",FALSE,,FALSE
+79572,,BAF_SoilInvert,1,143,"Default, no data",FALSE,,FALSE
+16984488,36,BMD,41,122,test species: Mink,FALSE,test species: Mink,FALSE
+18540299,36,BMD,7.9,262,test species: Rat,FALSE,test species: Rat,FALSE
+50328,38,BMD,1.4,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+60548,38,BMD,28,125,test species: Rat,FALSE,test species: Rat,FALSE
+117817,38,BMD,25,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7429905,38,BMD,2.6,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7439921,38,BMD,3.6,265,test species: Rat,FALSE,test species: Rat,FALSE
+7439965,38,BMD,130,256,test species: Sheep,FALSE,test species: Sheep,FALSE
+7439976,38,BMD,1,122,test species: Mink,FALSE,test species: Mink,FALSE
+7439987,38,BMD,0.4,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440020,38,BMD,0.7,266,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440224,38,BMD,11,255,test species: Pig,FALSE,test species: Pig,FALSE
+7440280,38,BMD,0.02,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440315,38,BMD,12,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440360,38,BMD,0.05,260,test species: Rat,FALSE,test species: Rat,FALSE
+7440382,38,BMD,1.9,252,test species: Dog,FALSE,test species: Dog,FALSE
+7440393,38,BMD,41,253,test species: Rat,FALSE,test species: Rat,FALSE
+7440417,38,BMD,0.5,254,test species: Rat,FALSE,test species: Rat,FALSE
+7440428,38,BMD,41,122,test species: Rat,FALSE,test species: Rat,FALSE
+7440439,38,BMD,0.6,261,test species: Rat,FALSE,test species: Rat,FALSE
+7440484,38,BMD,5.6,263,test species: Rat,FALSE,test species: Rat,FALSE
+7440508,38,BMD,18,264,test species: Pig,FALSE,test species: Pig,FALSE
+7440622,38,BMD,2,268,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440666,38,BMD,100,257,test species: Rabbit,FALSE,test species: Rabbit,FALSE
+7783086,38,BMD,0.3,267,test species: Pig,FALSE,test species: Pig,FALSE
+14797558,38,BMD,750,122,test species: Guinea Pig,FALSE,test species: Guinea Pig,FALSE
+16065831,38,BMD,2.4,262,test species: Pig,FALSE,test species: Pig,FALSE
+16984488,38,BMD,42,122,test species: Mink,FALSE,test species: Mink,FALSE
+16984488,,BCF_Bff,2.3,214,BAF_T3W used as surrogate,FALSE,,FALSE
+7439896,,BCF_Bff,19,210,BAF_T3W used as surrogate,FALSE,,FALSE
+7439921,,BCF_Bff,46,55,BAF_T3W used as surrogate,FALSE,,FALSE
+7439954,,BCF_Bff,0,196,BAF_T3W used as surrogate,FALSE,,FALSE
+79572,,BAF_Worms,1,143,"Default, no data",FALSE,,FALSE
+79572,1,BMC_Soil,0.01,79,,FALSE,,FALSE
+298464,65,BMC_Water,0.2,110,,FALSE,,FALSE
+114078,65,BMC_Water,0.22,103,,FALSE,,FALSE
+25812300,65,BMC_Water,22.4,118,,FALSE,,FALSE
+15687271,65,BMC_Water,22.4,118,,FALSE,,FALSE
+22204531,65,BMC_Water,0.032,82,,FALSE,,FALSE
+79572,65,BMC_Water,0.18,103,,FALSE,,FALSE
+79572,58,BMC_Soil,2450,76,,FALSE,,FALSE
+91576,,BAF_HerbVert,1,143,"Default, no data",FALSE,,FALSE
+91576,,BAF_OmnVert,1,143,"Default, no data",FALSE,,FALSE
+91576,,BAF_SmBirds,1,143,"Default, no data",FALSE,,FALSE
+91576,,BAF_SmHerp,1,143,"Default, no data",FALSE,,FALSE
+91576,,BAF_SmMammals,1,143,"Default, no data",FALSE,,FALSE
+91576,,BAF_SoilInvert,1,143,"Default, no data",FALSE,,FALSE
+91576,,BAF_Worms,1,143,"Default, no data",FALSE,,FALSE
+7440666,,BAF_HerbVert,0.77,124,"Table 7, general, median",FALSE,,FALSE
+7440666,,BAF_OmnVert,0.77,124,"Table 7, general, median",FALSE,,FALSE
+7440666,,BAF_SmBirds,0.77,124,"Table 7, general, median",FALSE,,FALSE
+7440666,,BAF_SmHerp,0.77,124,"Table 7, general, median",FALSE,,FALSE
+7440666,,BAF_SmMammals,0.77,124,"Table 7, general, median",FALSE,,FALSE
+7440666,,BAF_SoilInvert,1.5,87,"Table 2, P90 (dataset=all), adjust for 80% moisture content to convert from dry to wet wt; data are for benthic organisms used as surrogate for soil",FALSE,,FALSE
+7440666,,BAF_Worms,0.51,123,"Table 11, median, adjust for 84% moisture content to convert from dry to wet wt",FALSE,,FALSE
+18540299,38,BMD,8.2,262,test species: Rat,FALSE,test species: Rat,FALSE
+50328,44,BMD,2.9,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+60548,44,BMD,60,125,test species: Rat,FALSE,test species: Rat,FALSE
+117817,44,BMD,53,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7429905,44,BMD,5.6,122,test species: Mouse,FALSE,test species: Mouse,FALSE
+7439921,44,BMD,7.7,265,test species: Rat,FALSE,test species: Rat,FALSE
+7439965,44,BMD,280,256,test species: Sheep,FALSE,test species: Sheep,FALSE
+7439976,44,BMD,2.2,122,test species: Mink,FALSE,test species: Mink,FALSE
+7440315,7,BMD,11,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7440382,7,BMD,1.6,252,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440393,7,BMD,30,122,test species: 1-day old chicks,FALSE,test species: 1-day old chicks,FALSE
+7440428,7,BMD,40,122,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+7440439,7,BMD,1.1,261,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440484,7,BMD,5.4,263,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440508,7,BMD,2.9,264,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440622,7,BMD,0.3,268,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440666,7,BMD,47,257,test species: Chicken,FALSE,test species: Chicken,FALSE
+7487947,7,BMD,0.6,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7783086,7,BMD,0.2,267,test species: Chicken,FALSE,test species: Chicken,FALSE
+16065831,7,BMD,1.9,262,test species: Chicken,FALSE,test species: Chicken,FALSE
+16984488,7,BMD,15,122,test species: Screech owl,FALSE,test species: Screech owl,FALSE
+79572,12,BMD,2400,258,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+103902,12,BMD,3400,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+117817,12,BMD,1.7,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+148798,12,BMD,3400,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+3380345,12,BMD,1200,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+7429905,12,BMD,170,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+7439921,12,BMD,1.8,265,test species: Chicken,FALSE,test species: Chicken,FALSE
+7439965,12,BMD,200,256,test species: Chicken,FALSE,test species: Chicken,FALSE
+7439987,12,BMD,39,122,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440020,12,BMD,7.2,266,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440224,12,BMD,2.5,255,test species: Turkey,FALSE,test species: Turkey,FALSE
+7440315,12,BMD,17,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7440382,12,BMD,2.5,252,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440393,12,BMD,48,122,test species: 1-day old chicks,FALSE,test species: 1-day old chicks,FALSE
+7440428,12,BMD,63,122,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+7440439,12,BMD,1.8,261,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440484,12,BMD,8.4,263,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440508,12,BMD,4.5,264,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440622,12,BMD,0.4,268,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440666,12,BMD,73,257,test species: Chicken,FALSE,test species: Chicken,FALSE
+7487947,12,BMD,1,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7783086,12,BMD,0.3,267,test species: Chicken,FALSE,test species: Chicken,FALSE
+16065831,12,BMD,3,262,test species: Chicken,FALSE,test species: Chicken,FALSE
+16984488,12,BMD,24,122,test species: Screech owl,FALSE,test species: Screech owl,FALSE
+79572,14,BMD,1700,258,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+103902,14,BMD,2500,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+117817,14,BMD,1.3,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+148798,14,BMD,2500,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+3380345,14,BMD,920,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+7429905,14,BMD,130,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+7439921,14,BMD,1.3,265,test species: Chicken,FALSE,test species: Chicken,FALSE
+7439965,14,BMD,150,256,test species: Chicken,FALSE,test species: Chicken,FALSE
+7439987,14,BMD,29,122,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440020,14,BMD,5.3,266,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440224,14,BMD,1.9,255,test species: Turkey,FALSE,test species: Turkey,FALSE
+7440315,14,BMD,12,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7440382,14,BMD,1.8,252,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440393,14,BMD,35,122,test species: 1-day old chicks,FALSE,test species: 1-day old chicks,FALSE
+7440428,14,BMD,47,122,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+7440439,14,BMD,1.3,261,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440484,14,BMD,6.3,263,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440508,14,BMD,3.3,264,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440622,14,BMD,0.3,268,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440666,14,BMD,54,257,test species: Chicken,FALSE,test species: Chicken,FALSE
+7487947,14,BMD,0.7,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7783086,14,BMD,0.2,267,test species: Chicken,FALSE,test species: Chicken,FALSE
+16065831,14,BMD,2.2,262,test species: Chicken,FALSE,test species: Chicken,FALSE
+16984488,14,BMD,18,122,test species: Screech owl,FALSE,test species: Screech owl,FALSE
+79572,23,BMD,2300,258,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+103902,23,BMD,3300,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+117817,23,BMD,1.6,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+148798,23,BMD,3300,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+3380345,23,BMD,1200,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+7429905,23,BMD,160,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+7439921,23,BMD,1.7,265,test species: Chicken,FALSE,test species: Chicken,FALSE
+7439965,23,BMD,190,256,test species: Chicken,FALSE,test species: Chicken,FALSE
+7439987,23,BMD,37,122,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440020,23,BMD,6.9,266,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440224,23,BMD,2.4,255,test species: Turkey,FALSE,test species: Turkey,FALSE
+7440315,23,BMD,16,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7440382,23,BMD,2.4,252,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440393,23,BMD,46,122,test species: 1-day old chicks,FALSE,test species: 1-day old chicks,FALSE
+7440428,23,BMD,61,122,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+7440439,23,BMD,1.7,261,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440484,23,BMD,8.1,263,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440508,23,BMD,4.3,264,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440622,23,BMD,0.4,268,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440666,23,BMD,70,257,test species: Chicken,FALSE,test species: Chicken,FALSE
+7487947,23,BMD,1,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7783086,23,BMD,0.3,267,test species: Chicken,FALSE,test species: Chicken,FALSE
+16065831,23,BMD,2.8,262,test species: Chicken,FALSE,test species: Chicken,FALSE
+16984488,23,BMD,23,122,test species: Screech owl,FALSE,test species: Screech owl,FALSE
+79572,25,BMD,1600,258,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+103902,25,BMD,2300,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+117817,25,BMD,1.2,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+148798,25,BMD,2300,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+3380345,25,BMD,850,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+7429905,25,BMD,120,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+7439921,25,BMD,1.2,265,test species: Chicken,FALSE,test species: Chicken,FALSE
+7439965,25,BMD,130,256,test species: Chicken,FALSE,test species: Chicken,FALSE
+7439987,25,BMD,27,122,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440020,25,BMD,4.9,266,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440224,25,BMD,1.7,255,test species: Turkey,FALSE,test species: Turkey,FALSE
+7440315,25,BMD,11,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7440382,25,BMD,1.7,252,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440393,25,BMD,32,122,test species: 1-day old chicks,FALSE,test species: 1-day old chicks,FALSE
+7440428,25,BMD,43,122,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+7440439,25,BMD,1.2,261,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440484,25,BMD,5.7,263,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440508,25,BMD,3,264,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440622,25,BMD,0.3,268,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440666,25,BMD,50,257,test species: Chicken,FALSE,test species: Chicken,FALSE
+7487947,25,BMD,0.7,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7783086,25,BMD,0.2,267,test species: Chicken,FALSE,test species: Chicken,FALSE
+16065831,25,BMD,2,262,test species: Chicken,FALSE,test species: Chicken,FALSE
+16984488,25,BMD,16,122,test species: Screech owl,FALSE,test species: Screech owl,FALSE
+79572,33,BMD,2000,258,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+103902,33,BMD,3000,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+117817,33,BMD,1.5,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+148798,33,BMD,3000,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+3380345,33,BMD,1100,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+7429905,33,BMD,150,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+7439921,33,BMD,1.5,265,test species: Chicken,FALSE,test species: Chicken,FALSE
+7439965,33,BMD,170,256,test species: Chicken,FALSE,test species: Chicken,FALSE
+7439987,33,BMD,34,122,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440020,33,BMD,6.2,266,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440224,33,BMD,2.2,255,test species: Turkey,FALSE,test species: Turkey,FALSE
+7440315,33,BMD,15,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7440382,33,BMD,2.1,252,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440393,33,BMD,41,122,test species: 1-day old chicks,FALSE,test species: 1-day old chicks,FALSE
+7440428,33,BMD,55,122,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+7440439,33,BMD,1.5,261,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440484,33,BMD,7.3,263,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440508,33,BMD,3.9,264,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440622,33,BMD,0.4,268,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440666,33,BMD,64,257,test species: Chicken,FALSE,test species: Chicken,FALSE
+7487947,33,BMD,0.9,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7440508,67,BMC_Soil,49,264,,FALSE,,FALSE
+7440508,68,BMC_Soil,28,264,,FALSE,,FALSE
+7440622,,BAF_HerbVert,0.012,124,"Table C.1, general, median",FALSE,,FALSE
+7440622,,BAF_OmnVert,0.012,124,"Table C.1, general, median",FALSE,,FALSE
+7440622,,BAF_SmBirds,0.012,124,"Table C.1, general, median",FALSE,,FALSE
+7440622,,BAF_SmHerp,0.012,124,"Table C.1, general, median",FALSE,,FALSE
+7440622,,BAF_SmMammals,0.012,124,"Table C.1, general, median",FALSE,,FALSE
+7440622,,BAF_SoilInvert,0,196,No data,FALSE,,FALSE
+7440622,,BAF_Worms,0.0067,123,"Table C.1, median, adjust for 84% moisture content to convert from dry to wet wt",FALSE,,FALSE
+7440622,1,BMC_Soil,2,91,,FALSE,,FALSE
+7440622,58,BMC_Soil,20,92,,FALSE,,FALSE
+7440622,67,BMC_Soil,280,268,,FALSE,,FALSE
+7440622,68,BMC_Soil,7.8,268,,FALSE,,FALSE
+7440702,,BAF_HerbVert,9.04,124,"Table C.1, general, median",FALSE,,FALSE
+7440702,,BAF_OmnVert,9.04,124,"Table C.1, general, median",FALSE,,FALSE
+7440702,,BAF_SmBirds,9.04,124,"Table C.1, general, median",FALSE,,FALSE
+7440702,,BAF_SmHerp,9.04,124,"Table C.1, general, median",FALSE,,FALSE
+7440702,,BAF_SmMammals,9.04,124,"Table C.1, general, median",FALSE,,FALSE
+7440702,,BAF_SoilInvert,0,196,No data,FALSE,,FALSE
+7440702,,BAF_Worms,0.0674,123,"Table C.1, median, adjust for 84% moisture content to convert from dry to wet wt",FALSE,,FALSE
+7783086,,BAF_HerbVert,0.16,124,"Table 7, general, median",FALSE,,FALSE
+7783086,,BAF_OmnVert,0.16,124,"Table 7, general, median",FALSE,,FALSE
+7783086,,BAF_SmBirds,0.16,124,"Table 7, general, median",FALSE,,FALSE
+7783086,,BAF_SmHerp,0.16,124,"Table 7, general, median",FALSE,,FALSE
+7783086,,BAF_SmMammals,0.16,124,"Table 7, general, median",FALSE,,FALSE
+7783086,,BAF_SoilInvert,1.05,184,"Table 10-8, median of values for grasshopper and mantis from Wu et al 1995",FALSE,,FALSE
+7783086,,BAF_Worms,0.1576,123,"Table 11, median, adjust for 84% moisture content to convert from dry to wet wt",FALSE,,FALSE
+14797558,,BAF_HerbVert,1,143,,FALSE,,FALSE
+14797558,,BAF_OmnVert,1,143,,FALSE,,FALSE
+14797558,,BAF_SmBirds,1,143,,FALSE,,FALSE
+14797558,,BAF_SmHerp,1,143,,FALSE,,FALSE
+14797558,,BAF_SmMammals,1,143,,FALSE,,FALSE
+14797558,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+14797558,,BAF_Worms,1,143,,FALSE,,FALSE
+15687271,,BAF_HerbVert,1,143,"Default, no data",FALSE,,FALSE
+15687271,,BAF_OmnVert,1,143,"Default, no data",FALSE,,FALSE
+15687271,,BAF_SmBirds,1,143,"Default, no data",FALSE,,FALSE
+15687271,,BAF_SmHerp,1,143,"Default, no data",FALSE,,FALSE
+15687271,,BAF_SmMammals,1,143,"Default, no data",FALSE,,FALSE
+15687271,,BAF_SoilInvert,1,143,"Default, no data",FALSE,,FALSE
+15687271,,BAF_Worms,1,143,"Default, no data",FALSE,,FALSE
+16065831,,BAF_HerbVert,0.085,124,"Table 7, general, median",FALSE,,FALSE
+16065831,,BAF_OmnVert,0.085,124,"Table 7, general, median",FALSE,,FALSE
+16065831,,BAF_SmBirds,0.085,124,"Table 7, general, median",FALSE,,FALSE
+16065831,,BAF_SmHerp,0.085,124,"Table 7, general, median",FALSE,,FALSE
+16065831,,BAF_SmMammals,0.085,124,"Table 7, general, median",FALSE,,FALSE
+16065831,,BAF_SoilInvert,0.094,87,"Table 2, P90 (dataset=all), adjust for 80% moisture content to convert from dry to wet wt; data are for benthic organisms used as surrogate for soil",FALSE,,FALSE
+16065831,,BAF_Worms,0.049,123,"Table 11, median, adjust for 84% moisture content to convert from dry to wet wt",FALSE,,FALSE
+16984488,,BAF_HerbVert,0.0579,124,"Table 7, general, median",FALSE,,FALSE
+16984488,,BAF_OmnVert,0.0579,124,"Table 7, general, median",FALSE,,FALSE
+16984488,,BAF_SmBirds,0.0579,124,"Table 7, general, median",FALSE,,FALSE
+16984488,,BAF_SmHerp,0.0579,124,"Table 7, general, median",FALSE,,FALSE
+16984488,,BAF_SmMammals,0.0579,124,"Table 7, general, median",FALSE,,FALSE
+16984488,,BAF_SoilInvert,0,196,No data,FALSE,,FALSE
+16984488,,BAF_Worms,0,196,No data,FALSE,,FALSE
+16984488,1,BMC_Soil,200,91,,FALSE,,FALSE
+16984488,58,BMC_Soil,30,92,,FALSE,,FALSE
+18540299,,BAF_HerbVert,0.085,124,"Table 7, general, median",FALSE,,FALSE
+18540299,,BAF_OmnVert,0.085,124,"Table 7, general, median",FALSE,,FALSE
+18540299,,BAF_SmBirds,0.085,124,"Table 7, general, median",FALSE,,FALSE
+18540299,,BAF_SmHerp,0.085,124,"Table 7, general, median",FALSE,,FALSE
+18540299,,BAF_SmMammals,0.085,124,"Table 7, general, median",FALSE,,FALSE
+18540299,,BAF_SoilInvert,0.094,87,"Table 2, P90 (dataset=all), adjust for 80% moisture content to convert from dry to wet wt; data are for benthic organisms used as surrogate for soil",FALSE,,FALSE
+18540299,,BAF_Worms,0.049,123,"Table 11, median, adjust for 84% moisture content to convert from dry to wet wt",FALSE,,FALSE
+22204531,,BAF_HerbVert,1,143,"Default, no data",FALSE,,FALSE
+22204531,,BAF_OmnVert,1,143,"Default, no data",FALSE,,FALSE
+22204531,,BAF_SmBirds,1,143,"Default, no data",FALSE,,FALSE
+22204531,,BAF_SmHerp,1,143,"Default, no data",FALSE,,FALSE
+22204531,,BAF_SmMammals,1,143,"Default, no data",FALSE,,FALSE
+22204531,,BAF_SoilInvert,1,143,"Default, no data",FALSE,,FALSE
+22204531,,BAF_Worms,1,143,"Default, no data",FALSE,,FALSE
+25812300,,BAF_HerbVert,1,143,"Default, no data",FALSE,,FALSE
+25812300,,BAF_OmnVert,1,143,"Default, no data",FALSE,,FALSE
+25812300,,BAF_SmBirds,1,143,"Default, no data",FALSE,,FALSE
+25812300,,BAF_SmHerp,1,143,"Default, no data",FALSE,,FALSE
+25812300,,BAF_SmMammals,1,143,"Default, no data",FALSE,,FALSE
+25812300,,BAF_SoilInvert,1,143,"Default, no data",FALSE,,FALSE
+25812300,,BAF_Worms,1,143,"Default, no data",FALSE,,FALSE
+42399417,,BAF_HerbVert,1,143,"Default, no data",FALSE,,FALSE
+42399417,,BAF_OmnVert,1,143,"Default, no data",FALSE,,FALSE
+42399417,,BAF_SmBirds,1,143,"Default, no data",FALSE,,FALSE
+42399417,,BAF_SmHerp,1,143,"Default, no data",FALSE,,FALSE
+42399417,,BAF_SmMammals,1,143,"Default, no data",FALSE,,FALSE
+42399417,,BAF_SoilInvert,1,143,"Default, no data",FALSE,,FALSE
+42399417,,BAF_Worms,1,143,"Default, no data",FALSE,,FALSE
+51481619,,BAF_HerbVert,1,143,"Default, no data",FALSE,,FALSE
+51481619,,BAF_OmnVert,1,143,"Default, no data",FALSE,,FALSE
+51481619,,BAF_SmBirds,1,143,"Default, no data",FALSE,,FALSE
+7440508,57,BMD,6.1,264,test species: Pig,FALSE,test species: Pig,FALSE
+7440622,57,BMD,0.7,268,test species: Mouse,FALSE,test species: Mouse,FALSE
+7440666,57,BMD,35,257,test species: Rabbit,FALSE,test species: Rabbit,FALSE
+7783086,57,BMD,0.1,267,test species: Pig,FALSE,test species: Pig,FALSE
+14797558,57,BMD,250,122,test species: Guinea Pig,FALSE,test species: Guinea Pig,FALSE
+16065831,57,BMD,0.8,262,test species: Pig,FALSE,test species: Pig,FALSE
+16984488,57,BMD,14,122,test species: Mink,FALSE,test species: Mink,FALSE
+18540299,57,BMD,2.7,262,test species: Rat,FALSE,test species: Rat,FALSE
+79572,2,BMD,1500,258,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+103902,2,BMD,2100,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+117817,2,BMD,1.1,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+148798,2,BMD,2100,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+3380345,2,BMD,770,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+7429905,2,BMD,110,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+7439921,2,BMD,1.1,265,test species: Chicken,FALSE,test species: Chicken,FALSE
+51481619,,BAF_SmHerp,1,143,"Default, no data",FALSE,,FALSE
+51481619,,BAF_SmMammals,1,143,"Default, no data",FALSE,,FALSE
+51481619,,BAF_SoilInvert,1,143,"Default, no data",FALSE,,FALSE
+51481619,,BAF_Worms,1,143,"Default, no data",FALSE,,FALSE
+54910893,,BAF_HerbVert,1,143,"Default, no data",FALSE,,FALSE
+54910893,,BAF_OmnVert,1,143,"Default, no data",FALSE,,FALSE
+54910893,,BAF_SmBirds,1,143,"Default, no data",FALSE,,FALSE
+54910893,,BAF_SmHerp,1,143,"Default, no data",FALSE,,FALSE
+54910893,,BAF_SmMammals,1,143,"Default, no data",FALSE,,FALSE
+54910893,,BAF_SoilInvert,1,143,"Default, no data",FALSE,,FALSE
+54910893,,BAF_Worms,1,143,"Default, no data",FALSE,,FALSE
+70458967,,BAF_HerbVert,1,143,"Default, no data",FALSE,,FALSE
+70458967,,BAF_OmnVert,1,143,"Default, no data",FALSE,,FALSE
+70458967,,BAF_SmBirds,1,143,"Default, no data",FALSE,,FALSE
+70458967,,BAF_SmHerp,1,143,"Default, no data",FALSE,,FALSE
+70458967,,BAF_SmMammals,1,143,"Default, no data",FALSE,,FALSE
+70458967,,BAF_SoilInvert,1,143,"Default, no data",FALSE,,FALSE
+70458967,,BAF_Worms,1,143,"Default, no data",FALSE,,FALSE
+85721331,,BAF_HerbVert,1,143,"Default, no data",FALSE,,FALSE
+85721331,,BAF_OmnVert,1,143,"Default, no data",FALSE,,FALSE
+85721331,,BAF_SmBirds,1,143,"Default, no data",FALSE,,FALSE
+85721331,,BAF_SmHerp,1,143,"Default, no data",FALSE,,FALSE
+85721331,,BAF_SmMammals,1,143,"Default, no data",FALSE,,FALSE
+85721331,,BAF_SoilInvert,1,143,"Default, no data",FALSE,,FALSE
+85721331,,BAF_Worms,1,143,"Default, no data",FALSE,,FALSE
+14797650,,BAF_SmBirds,1,143,,FALSE,,FALSE
+14797650,,BAF_SmMammals,1,143,,FALSE,,FALSE
+14797650,,BAF_Worms,1,143,,FALSE,,FALSE
+14797650,,BAF_HerbVert,1,143,,FALSE,,FALSE
+7783008,,BAF_SmBirds,1,143,,FALSE,,FALSE
+7783008,,BAF_SmMammals,1,143,,FALSE,,FALSE
+7783008,,BAF_Worms,1,143,,FALSE,,FALSE
+7783008,,BAF_HerbVert,1,143,,FALSE,,FALSE
+50282,,BAF_SmBirds,1,143,,FALSE,,FALSE
+57625,,BAF_SmBirds,1,143,,FALSE,,FALSE
+57681,,BAF_SmBirds,1,143,,FALSE,,FALSE
+57830,,BAF_SmBirds,1,143,,FALSE,,FALSE
+58220,,BAF_SmBirds,1,143,,FALSE,,FALSE
+68359,,BAF_SmBirds,1,143,,FALSE,,FALSE
+72140,,BAF_SmBirds,1,143,,FALSE,,FALSE
+76573,,BAF_SmBirds,1,143,,FALSE,,FALSE
+154212,,BAF_SmBirds,1,143,,FALSE,,FALSE
+657249,,BAF_SmBirds,1,143,,FALSE,,FALSE
+738705,,BAF_SmBirds,1,143,,FALSE,,FALSE
+5436431,,BAF_SmBirds,1,143,,FALSE,,FALSE
+11006761,,BAF_SmBirds,1,143,,FALSE,,FALSE
+14698294,,BAF_SmBirds,1,143,,FALSE,,FALSE
+18559949,,BAF_SmBirds,1,143,,FALSE,,FALSE
+66357355,,BAF_SmBirds,1,143,,FALSE,,FALSE
+7439965,2,BMD,120,256,test species: Chicken,FALSE,test species: Chicken,FALSE
+1163195,,BCF_Bff,1400,18,BAF_T3W used as surrogate,FALSE,,FALSE
+5436431,,BCF_Bff,4.5E+05,18,BAF_T3W used as surrogate,FALSE,,FALSE
+60348609,,BCF_Bff,1.7E+06,18,BAF_T3W used as surrogate,FALSE,,FALSE
+50328,,BCF_Bff,980,18,BAF_T3W used as surrogate,FALSE,,FALSE
+117817,,BCF_Bff,6100,18,BAF_T3W used as surrogate,FALSE,,FALSE
+298464,,BCF_Bff,16,18,BAF_T3W used as surrogate,FALSE,,FALSE
+106478,,BCF_Bff,5.2,18,BAF_T3W used as surrogate,FALSE,,FALSE
+57625,,BCF_Bff,0.94,18,BAF_T3W used as surrogate,FALSE,,FALSE
+51481619,,BCF_Bff,1,18,BAF_T3W used as surrogate,FALSE,,FALSE
+85721331,,BCF_Bff,1,18,BAF_T3W used as surrogate,FALSE,,FALSE
+68631492,,BAF_SmBirds,1,143,,FALSE,,FALSE
+93106606,,BAF_SmBirds,1,143,,FALSE,,FALSE
+98105998,,BAF_SmBirds,1,143,,FALSE,,FALSE
+50282,,BAF_SmHerp,1,143,,FALSE,,FALSE
+57625,,BAF_SmHerp,1,143,,FALSE,,FALSE
+57681,,BAF_SmHerp,1,143,,FALSE,,FALSE
+57830,,BAF_SmHerp,1,143,,FALSE,,FALSE
+58220,,BAF_SmHerp,1,143,,FALSE,,FALSE
+68359,,BAF_SmHerp,1,143,,FALSE,,FALSE
+72140,,BAF_SmHerp,1,143,,FALSE,,FALSE
+76573,,BAF_SmHerp,1,143,,FALSE,,FALSE
+154212,,BAF_SmHerp,1,143,,FALSE,,FALSE
+657249,,BAF_SmHerp,1,143,,FALSE,,FALSE
+738705,,BAF_SmHerp,1,143,,FALSE,,FALSE
+5436431,,BAF_SmHerp,1,143,,FALSE,,FALSE
+7783008,,BAF_SmHerp,1,143,,FALSE,,FALSE
+11006761,,BAF_SmHerp,1,143,,FALSE,,FALSE
+14698294,,BAF_SmHerp,1,143,,FALSE,,FALSE
+14797650,,BAF_SmHerp,1,143,,FALSE,,FALSE
+18559949,,BAF_SmHerp,1,143,,FALSE,,FALSE
+66357355,,BAF_SmHerp,1,143,,FALSE,,FALSE
+68631492,,BAF_SmHerp,1,143,,FALSE,,FALSE
+93106606,,BAF_SmHerp,1,143,,FALSE,,FALSE
+98105998,,BAF_SmHerp,1,143,,FALSE,,FALSE
+50282,,BAF_SmMammals,1,143,,FALSE,,FALSE
+57625,,BAF_SmMammals,1,143,,FALSE,,FALSE
+57681,,BAF_SmMammals,1,143,,FALSE,,FALSE
+57830,,BAF_SmMammals,1,143,,FALSE,,FALSE
+58220,,BAF_SmMammals,1,143,,FALSE,,FALSE
+68359,,BAF_SmMammals,1,143,,FALSE,,FALSE
+72140,,BAF_SmMammals,1,143,,FALSE,,FALSE
+76573,,BAF_SmMammals,1,143,,FALSE,,FALSE
+154212,,BAF_SmMammals,1,143,,FALSE,,FALSE
+657249,,BAF_SmMammals,1,143,,FALSE,,FALSE
+738705,,BAF_SmMammals,1,143,,FALSE,,FALSE
+5436431,,BAF_SmMammals,1,143,,FALSE,,FALSE
+11006761,,BAF_SmMammals,1,143,,FALSE,,FALSE
+14698294,,BAF_SmMammals,1,143,,FALSE,,FALSE
+18559949,,BAF_SmMammals,1,143,,FALSE,,FALSE
+66357355,,BAF_SmMammals,1,143,,FALSE,,FALSE
+68631492,,BAF_SmMammals,1,143,,FALSE,,FALSE
+93106606,,BAF_SmMammals,1,143,,FALSE,,FALSE
+98105998,,BAF_SmMammals,1,143,,FALSE,,FALSE
+50282,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+57625,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+57681,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+57830,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+58220,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+68359,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+72140,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+76573,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+154212,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+657249,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+738705,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+5436431,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+7783008,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+11006761,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+14698294,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+14797650,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+18559949,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+66357355,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+68631492,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+93106606,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+98105998,,BAF_SoilInvert,1,143,,FALSE,,FALSE
+50282,,BAF_Worms,1,143,,FALSE,,FALSE
+57625,,BAF_Worms,1,143,,FALSE,,FALSE
+57681,,BAF_Worms,1,143,,FALSE,,FALSE
+57830,,BAF_Worms,1,143,,FALSE,,FALSE
+58220,,BAF_Worms,1,143,,FALSE,,FALSE
+68359,,BAF_Worms,1,143,,FALSE,,FALSE
+72140,,BAF_Worms,1,143,,FALSE,,FALSE
+76573,,BAF_Worms,1,143,,FALSE,,FALSE
+154212,,BAF_Worms,1,143,,FALSE,,FALSE
+657249,,BAF_Worms,1,143,,FALSE,,FALSE
+738705,,BAF_Worms,1,143,,FALSE,,FALSE
+5436431,,BAF_Worms,1,143,,FALSE,,FALSE
+11006761,,BAF_Worms,1,143,,FALSE,,FALSE
+14698294,,BAF_Worms,1,143,,FALSE,,FALSE
+18559949,,BAF_Worms,1,143,,FALSE,,FALSE
+66357355,,BAF_Worms,1,143,,FALSE,,FALSE
+68631492,,BAF_Worms,1,143,,FALSE,,FALSE
+93106606,,BAF_Worms,1,143,,FALSE,,FALSE
+98105998,,BAF_Worms,1,143,,FALSE,,FALSE
+50282,,BAF_HerbVert,1,143,,FALSE,,FALSE
+57625,,BAF_HerbVert,1,143,,FALSE,,FALSE
+57681,,BAF_HerbVert,1,143,,FALSE,,FALSE
+57830,,BAF_HerbVert,1,143,,FALSE,,FALSE
+58220,,BAF_HerbVert,1,143,,FALSE,,FALSE
+68359,,BAF_HerbVert,1,143,,FALSE,,FALSE
+72140,,BAF_HerbVert,1,143,,FALSE,,FALSE
+76573,,BAF_HerbVert,1,143,,FALSE,,FALSE
+154212,,BAF_HerbVert,1,143,,FALSE,,FALSE
+657249,,BAF_HerbVert,1,143,,FALSE,,FALSE
+738705,,BAF_HerbVert,1,143,,FALSE,,FALSE
+5436431,,BAF_HerbVert,1,143,,FALSE,,FALSE
+11006761,,BAF_HerbVert,1,143,,FALSE,,FALSE
+14698294,,BAF_HerbVert,1,143,,FALSE,,FALSE
+18559949,,BAF_HerbVert,1,143,,FALSE,,FALSE
+66357355,,BAF_HerbVert,1,143,,FALSE,,FALSE
+68631492,,BAF_HerbVert,1,143,,FALSE,,FALSE
+93106606,,BAF_HerbVert,1,143,,FALSE,,FALSE
+98105998,,BAF_HerbVert,1,143,,FALSE,,FALSE
+50282,,BAF_OmnVert,1,143,,FALSE,,FALSE
+57625,,BAF_OmnVert,1,143,,FALSE,,FALSE
+57681,,BAF_OmnVert,1,143,,FALSE,,FALSE
+57830,,BAF_OmnVert,1,143,,FALSE,,FALSE
+58220,,BAF_OmnVert,1,143,,FALSE,,FALSE
+68359,,BAF_OmnVert,1,143,,FALSE,,FALSE
+72140,,BAF_OmnVert,1,143,,FALSE,,FALSE
+76573,,BAF_OmnVert,1,143,,FALSE,,FALSE
+154212,,BAF_OmnVert,1,143,,FALSE,,FALSE
+657249,,BAF_OmnVert,1,143,,FALSE,,FALSE
+738705,,BAF_OmnVert,1,143,,FALSE,,FALSE
+5436431,,BAF_OmnVert,1,143,,FALSE,,FALSE
+7783008,,BAF_OmnVert,1,143,,FALSE,,FALSE
+11006761,,BAF_OmnVert,1,143,,FALSE,,FALSE
+14698294,,BAF_OmnVert,1,143,,FALSE,,FALSE
+14797650,,BAF_OmnVert,1,143,,FALSE,,FALSE
+18559949,,BAF_OmnVert,1,143,,FALSE,,FALSE
+66357355,,BAF_OmnVert,1,143,,FALSE,,FALSE
+68631492,,BAF_OmnVert,1,143,,FALSE,,FALSE
+93106606,,BAF_OmnVert,1,143,,FALSE,,FALSE
+98105998,,BAF_OmnVert,1,143,,FALSE,,FALSE
+7783086,33,BMD,0.3,267,test species: Chicken,FALSE,test species: Chicken,FALSE
+16065831,33,BMD,2.6,262,test species: Chicken,FALSE,test species: Chicken,FALSE
+16984488,33,BMD,21,122,test species: Screech owl,FALSE,test species: Screech owl,FALSE
+79572,39,BMD,1600,258,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+103902,39,BMD,2300,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+117817,39,BMD,1.1,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+148798,39,BMD,2300,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+3380345,39,BMD,830,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+7429905,39,BMD,110,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+7439921,39,BMD,1.2,265,test species: Chicken,FALSE,test species: Chicken,FALSE
+7439965,39,BMD,130,256,test species: Chicken,FALSE,test species: Chicken,FALSE
+7439987,39,BMD,26,122,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440020,39,BMD,4.8,266,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440224,39,BMD,1.7,255,test species: Turkey,FALSE,test species: Turkey,FALSE
+7440315,39,BMD,11,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7440382,39,BMD,1.6,252,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440393,39,BMD,32,122,test species: 1-day old chicks,FALSE,test species: 1-day old chicks,FALSE
+7440428,39,BMD,42,122,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+7440439,39,BMD,1.2,261,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440484,39,BMD,5.6,263,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440508,39,BMD,3,264,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440622,39,BMD,0.3,268,test species: Chicken,FALSE,test species: Chicken,FALSE
+7440666,39,BMD,49,257,test species: Chicken,FALSE,test species: Chicken,FALSE
+7487947,39,BMD,0.7,122,test species: Japanese quail,FALSE,test species: Japanese quail,FALSE
+7783086,39,BMD,0.2,267,test species: Chicken,FALSE,test species: Chicken,FALSE
+16065831,39,BMD,2,262,test species: Chicken,FALSE,test species: Chicken,FALSE
+16984488,39,BMD,16,122,test species: Screech owl,FALSE,test species: Screech owl,FALSE
+79572,48,BMD,2000,258,test species: Mallard duck,FALSE,test species: Mallard duck,FALSE
+103902,48,BMD,2900,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+117817,48,BMD,1.5,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+148798,48,BMD,2900,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+3380345,48,BMD,1100,258,test species: Bobwhite quail,FALSE,test species: Bobwhite quail,FALSE
+7429905,48,BMD,150,122,test species: Ringed dove,FALSE,test species: Ringed dove,FALSE
+7439921,48,BMD,1.5,265,test species: Chicken,FALSE,test species: Chicken,FALSE
+,54,BW,0.0425,73,,FALSE,,FALSE
+,54,CR_Food,0.0490,73,,FALSE,,FALSE
+,54,CR_Water,0.00711,73,,FALSE,,FALSE
+,54,CRfrac_Soil,0,73,,FALSE,,FALSE
+25812300,16,BMD,0,196,,FALSE,,FALSE
+42399417,16,BMD,0,196,,FALSE,,FALSE
+51481619,16,BMD,0,196,,FALSE,,FALSE
+54910893,16,BMD,0,196,,FALSE,,FALSE
+60348609,16,BMD,0,196,,FALSE,,FALSE
+66357355,16,BMD,0,196,,FALSE,,FALSE
+68631492,16,BMD,0,196,,FALSE,,FALSE
+70458967,16,BMD,0,196,,FALSE,,FALSE
+85721331,16,BMD,0,196,,FALSE,,FALSE
+93106606,16,BMD,0,196,,FALSE,,FALSE
+98105998,16,BMD,0,196,,FALSE,,FALSE
+50282,18,BMD,0,196,,FALSE,,FALSE
+57625,18,BMD,0,196,,FALSE,,FALSE
+57681,18,BMD,0,196,,FALSE,,FALSE
+57830,18,BMD,0,196,,FALSE,,FALSE
+58220,18,BMD,0,196,,FALSE,,FALSE
+68359,18,BMD,0,196,,FALSE,,FALSE
+72140,18,BMD,0,196,,FALSE,,FALSE
+76573,18,BMD,0,196,,FALSE,,FALSE
+79572,18,BMD,0,196,,FALSE,,FALSE
+91576,18,BMD,0,196,,FALSE,,FALSE
+103902,18,BMD,0,196,,FALSE,,FALSE
+106478,18,BMD,0,196,,FALSE,,FALSE
+114078,18,BMD,0,196,,FALSE,,FALSE
+129000,18,BMD,0,196,,FALSE,,FALSE
+148798,18,BMD,0,196,,FALSE,,FALSE
+154212,18,BMD,0,196,,FALSE,,FALSE
+206440,18,BMD,0,196,,FALSE,,FALSE
+298464,18,BMD,0,196,,FALSE,,FALSE
+335671,18,BMD,0,196,,FALSE,,FALSE
+564250,18,BMD,0,196,,FALSE,,FALSE
+657249,18,BMD,0,196,,FALSE,,FALSE
+723466,18,BMD,0,196,,FALSE,,FALSE
+738705,18,BMD,0,196,,FALSE,,FALSE
+1163195,18,BMD,0,196,,FALSE,,FALSE
+2795393,18,BMD,0,196,,FALSE,,FALSE
+3380345,18,BMD,0,196,,FALSE,,FALSE
+5436431,18,BMD,0,196,,FALSE,,FALSE
+7439896,18,BMD,0,196,,FALSE,,FALSE
+7439954,18,BMD,0,196,,FALSE,,FALSE
+7440235,18,BMD,0,196,,FALSE,,FALSE
+7440702,18,BMD,0,196,,FALSE,,FALSE
+7487947,18,BMD,0,196,,FALSE,,FALSE
+7783008,18,BMD,0,196,,FALSE,,FALSE
+11006761,18,BMD,0,196,,FALSE,,FALSE
+14698294,18,BMD,0,196,,FALSE,,FALSE
+14797650,18,BMD,0,196,,FALSE,,FALSE
+15687271,18,BMD,0,196,,FALSE,,FALSE
+18559949,18,BMD,0,196,,FALSE,,FALSE
+22204531,18,BMD,0,196,,FALSE,,FALSE
+25812300,18,BMD,0,196,,FALSE,,FALSE
+42399417,18,BMD,0,196,,FALSE,,FALSE
+51481619,18,BMD,0,196,,FALSE,,FALSE
+54910893,18,BMD,0,196,,FALSE,,FALSE
+60348609,18,BMD,0,196,,FALSE,,FALSE
+66357355,18,BMD,0,196,,FALSE,,FALSE
+68631492,18,BMD,0,196,,FALSE,,FALSE
+70458967,18,BMD,0,196,,FALSE,,FALSE
+85721331,18,BMD,0,196,,FALSE,,FALSE
+93106606,18,BMD,0,196,,FALSE,,FALSE
+98105998,18,BMD,0,196,,FALSE,,FALSE
+50282,23,BMD,0,196,,FALSE,,FALSE
+50328,23,BMD,0,196,,FALSE,,FALSE
+57625,23,BMD,0,196,,FALSE,,FALSE
+57681,23,BMD,0,196,,FALSE,,FALSE
+57830,23,BMD,0,196,,FALSE,,FALSE
+58220,23,BMD,0,196,,FALSE,,FALSE
+60548,23,BMD,0,196,,FALSE,,FALSE
+68359,23,BMD,0,196,,FALSE,,FALSE
+72140,23,BMD,0,196,,FALSE,,FALSE
+76573,23,BMD,0,196,,FALSE,,FALSE
+91576,23,BMD,0,196,,FALSE,,FALSE
+106478,23,BMD,0,196,,FALSE,,FALSE
+114078,23,BMD,0,196,,FALSE,,FALSE
+129000,23,BMD,0,196,,FALSE,,FALSE
+154212,23,BMD,0,196,,FALSE,,FALSE
+206440,23,BMD,0,196,,FALSE,,FALSE
+298464,23,BMD,0,196,,FALSE,,FALSE
+335671,23,BMD,0,196,,FALSE,,FALSE
+564250,23,BMD,0,196,,FALSE,,FALSE
+657249,23,BMD,0,196,,FALSE,,FALSE
+723466,23,BMD,0,196,,FALSE,,FALSE
+738705,23,BMD,0,196,,FALSE,,FALSE
+1163195,23,BMD,0,196,,FALSE,,FALSE
+2795393,23,BMD,0,196,,FALSE,,FALSE
+5436431,23,BMD,0,196,,FALSE,,FALSE
+7439896,23,BMD,0,196,,FALSE,,FALSE
+7439954,23,BMD,0,196,,FALSE,,FALSE
+7439976,23,BMD,0,196,,FALSE,,FALSE
+7440235,23,BMD,0,196,,FALSE,,FALSE
+7440280,23,BMD,0,196,,FALSE,,FALSE
+7440360,23,BMD,0,196,,FALSE,,FALSE
+7440417,23,BMD,0,196,,FALSE,,FALSE
+7440702,23,BMD,0,196,,FALSE,,FALSE
+7783008,23,BMD,0,196,,FALSE,,FALSE
+11006761,23,BMD,0,196,,FALSE,,FALSE
+14698294,23,BMD,0,196,,FALSE,,FALSE
+14797558,23,BMD,0,196,,FALSE,,FALSE
+14797650,23,BMD,0,196,,FALSE,,FALSE
+15687271,23,BMD,0,196,,FALSE,,FALSE
+18540299,23,BMD,0,196,,FALSE,,FALSE
+18559949,23,BMD,0,196,,FALSE,,FALSE
+22204531,23,BMD,0,196,,FALSE,,FALSE
+25812300,23,BMD,0,196,,FALSE,,FALSE
+42399417,23,BMD,0,196,,FALSE,,FALSE
+51481619,23,BMD,0,196,,FALSE,,FALSE
+54910893,23,BMD,0,196,,FALSE,,FALSE
+60348609,23,BMD,0,196,,FALSE,,FALSE
+66357355,23,BMD,0,196,,FALSE,,FALSE
+68631492,23,BMD,0,196,,FALSE,,FALSE
+70458967,23,BMD,0,196,,FALSE,,FALSE
+85721331,23,BMD,0,196,,FALSE,,FALSE
+93106606,23,BMD,0,196,,FALSE,,FALSE
+98105998,23,BMD,0,196,,FALSE,,FALSE
+50282,25,BMD,0,196,,FALSE,,FALSE
+50328,25,BMD,0,196,,FALSE,,FALSE
+57625,25,BMD,0,196,,FALSE,,FALSE
+57681,25,BMD,0,196,,FALSE,,FALSE
+57830,25,BMD,0,196,,FALSE,,FALSE
+58220,25,BMD,0,196,,FALSE,,FALSE
+60548,25,BMD,0,196,,FALSE,,FALSE
+68359,25,BMD,0,196,,FALSE,,FALSE
+72140,25,BMD,0,196,,FALSE,,FALSE
+76573,25,BMD,0,196,,FALSE,,FALSE
+91576,25,BMD,0,196,,FALSE,,FALSE
+106478,25,BMD,0,196,,FALSE,,FALSE
+114078,25,BMD,0,196,,FALSE,,FALSE
+129000,25,BMD,0,196,,FALSE,,FALSE
+154212,25,BMD,0,196,,FALSE,,FALSE
+206440,25,BMD,0,196,,FALSE,,FALSE
+298464,25,BMD,0,196,,FALSE,,FALSE
+335671,25,BMD,0,196,,FALSE,,FALSE
+564250,25,BMD,0,196,,FALSE,,FALSE
+657249,25,BMD,0,196,,FALSE,,FALSE
+723466,25,BMD,0,196,,FALSE,,FALSE
+738705,25,BMD,0,196,,FALSE,,FALSE
+1163195,25,BMD,0,196,,FALSE,,FALSE
+2795393,25,BMD,0,196,,FALSE,,FALSE
+5436431,25,BMD,0,196,,FALSE,,FALSE
+7439896,25,BMD,0,196,,FALSE,,FALSE
+7439954,25,BMD,0,196,,FALSE,,FALSE
+7439976,25,BMD,0,196,,FALSE,,FALSE
+7440235,25,BMD,0,196,,FALSE,,FALSE
+7440280,25,BMD,0,196,,FALSE,,FALSE
+7440360,25,BMD,0,196,,FALSE,,FALSE
+7440417,25,BMD,0,196,,FALSE,,FALSE
+7440702,25,BMD,0,196,,FALSE,,FALSE
+7783008,25,BMD,0,196,,FALSE,,FALSE
+11006761,25,BMD,0,196,,FALSE,,FALSE
+14698294,25,BMD,0,196,,FALSE,,FALSE
+14797558,25,BMD,0,196,,FALSE,,FALSE
+14797650,25,BMD,0,196,,FALSE,,FALSE
+15687271,25,BMD,0,196,,FALSE,,FALSE
+18540299,25,BMD,0,196,,FALSE,,FALSE
+18559949,25,BMD,0,196,,FALSE,,FALSE
+22204531,25,BMD,0,196,,FALSE,,FALSE
+25812300,25,BMD,0,196,,FALSE,,FALSE
+42399417,25,BMD,0,196,,FALSE,,FALSE
+51481619,25,BMD,0,196,,FALSE,,FALSE
+54910893,25,BMD,0,196,,FALSE,,FALSE
+60348609,25,BMD,0,196,,FALSE,,FALSE
+66357355,25,BMD,0,196,,FALSE,,FALSE
+68631492,25,BMD,0,196,,FALSE,,FALSE
+70458967,25,BMD,0,196,,FALSE,,FALSE
+85721331,25,BMD,0,196,,FALSE,,FALSE
+93106606,25,BMD,0,196,,FALSE,,FALSE
+98105998,25,BMD,0,196,,FALSE,,FALSE
+50282,28,BMD,0,196,,FALSE,,FALSE
+57625,28,BMD,0,196,,FALSE,,FALSE
+57681,28,BMD,0,196,,FALSE,,FALSE
+57830,28,BMD,0,196,,FALSE,,FALSE
+58220,28,BMD,0,196,,FALSE,,FALSE
+68359,28,BMD,0,196,,FALSE,,FALSE
+72140,28,BMD,0,196,,FALSE,,FALSE
+76573,28,BMD,0,196,,FALSE,,FALSE
+79572,28,BMD,0,196,,FALSE,,FALSE
+91576,28,BMD,0,196,,FALSE,,FALSE
+103902,28,BMD,0,196,,FALSE,,FALSE
+106478,28,BMD,0,196,,FALSE,,FALSE
+114078,28,BMD,0,196,,FALSE,,FALSE
+129000,28,BMD,0,196,,FALSE,,FALSE
+148798,28,BMD,0,196,,FALSE,,FALSE
+154212,28,BMD,0,196,,FALSE,,FALSE
+206440,28,BMD,0,196,,FALSE,,FALSE
+298464,28,BMD,0,196,,FALSE,,FALSE
+335671,28,BMD,0,196,,FALSE,,FALSE
+564250,28,BMD,0,196,,FALSE,,FALSE
+657249,28,BMD,0,196,,FALSE,,FALSE
+723466,28,BMD,0,196,,FALSE,,FALSE
+738705,28,BMD,0,196,,FALSE,,FALSE
+1163195,28,BMD,0,196,,FALSE,,FALSE
+2795393,28,BMD,0,196,,FALSE,,FALSE
+3380345,28,BMD,0,196,,FALSE,,FALSE
+5436431,28,BMD,0,196,,FALSE,,FALSE
+7439896,28,BMD,0,196,,FALSE,,FALSE
+7439954,28,BMD,0,196,,FALSE,,FALSE
+7440235,28,BMD,0,196,,FALSE,,FALSE
+7440702,28,BMD,0,196,,FALSE,,FALSE
+7487947,28,BMD,0,196,,FALSE,,FALSE
+7783008,28,BMD,0,196,,FALSE,,FALSE
+11006761,28,BMD,0,196,,FALSE,,FALSE
+14698294,28,BMD,0,196,,FALSE,,FALSE
+14797650,28,BMD,0,196,,FALSE,,FALSE
+15687271,28,BMD,0,196,,FALSE,,FALSE
+18559949,28,BMD,0,196,,FALSE,,FALSE
+22204531,28,BMD,0,196,,FALSE,,FALSE
+25812300,28,BMD,0,196,,FALSE,,FALSE
+42399417,28,BMD,0,196,,FALSE,,FALSE
+51481619,28,BMD,0,196,,FALSE,,FALSE
+54910893,28,BMD,0,196,,FALSE,,FALSE
+60348609,28,BMD,0,196,,FALSE,,FALSE
+66357355,28,BMD,0,196,,FALSE,,FALSE
+68631492,28,BMD,0,196,,FALSE,,FALSE
+70458967,28,BMD,0,196,,FALSE,,FALSE
+85721331,28,BMD,0,196,,FALSE,,FALSE
+93106606,28,BMD,0,196,,FALSE,,FALSE
+98105998,28,BMD,0,196,,FALSE,,FALSE
+50282,30,BMD,0,196,,FALSE,,FALSE
+57625,30,BMD,0,196,,FALSE,,FALSE
+57681,30,BMD,0,196,,FALSE,,FALSE
+57830,30,BMD,0,196,,FALSE,,FALSE
+58220,30,BMD,0,196,,FALSE,,FALSE
+68359,30,BMD,0,196,,FALSE,,FALSE
+72140,30,BMD,0,196,,FALSE,,FALSE
+76573,30,BMD,0,196,,FALSE,,FALSE
+79572,30,BMD,0,196,,FALSE,,FALSE
+91576,30,BMD,0,196,,FALSE,,FALSE
+103902,30,BMD,0,196,,FALSE,,FALSE
+106478,30,BMD,0,196,,FALSE,,FALSE
+114078,30,BMD,0,196,,FALSE,,FALSE
+129000,30,BMD,0,196,,FALSE,,FALSE
+148798,30,BMD,0,196,,FALSE,,FALSE
+154212,30,BMD,0,196,,FALSE,,FALSE
+206440,30,BMD,0,196,,FALSE,,FALSE
+298464,30,BMD,0,196,,FALSE,,FALSE
+335671,30,BMD,0,196,,FALSE,,FALSE
+564250,30,BMD,0,196,,FALSE,,FALSE
+657249,30,BMD,0,196,,FALSE,,FALSE
+723466,30,BMD,0,196,,FALSE,,FALSE
+738705,30,BMD,0,196,,FALSE,,FALSE
+1163195,30,BMD,0,196,,FALSE,,FALSE
+2795393,30,BMD,0,196,,FALSE,,FALSE
+3380345,30,BMD,0,196,,FALSE,,FALSE
+5436431,30,BMD,0,196,,FALSE,,FALSE
+7439896,30,BMD,0,196,,FALSE,,FALSE
+7439954,30,BMD,0,196,,FALSE,,FALSE
+7440235,30,BMD,0,196,,FALSE,,FALSE
+7440702,30,BMD,0,196,,FALSE,,FALSE
+7487947,30,BMD,0,196,,FALSE,,FALSE
+7783008,30,BMD,0,196,,FALSE,,FALSE
+11006761,30,BMD,0,196,,FALSE,,FALSE
+14698294,30,BMD,0,196,,FALSE,,FALSE
+14797650,30,BMD,0,196,,FALSE,,FALSE
+15687271,30,BMD,0,196,,FALSE,,FALSE
+18559949,30,BMD,0,196,,FALSE,,FALSE
+22204531,30,BMD,0,196,,FALSE,,FALSE
+25812300,30,BMD,0,196,,FALSE,,FALSE
+42399417,30,BMD,0,196,,FALSE,,FALSE
+51481619,30,BMD,0,196,,FALSE,,FALSE
+54910893,30,BMD,0,196,,FALSE,,FALSE
+60348609,30,BMD,0,196,,FALSE,,FALSE
+66357355,30,BMD,0,196,,FALSE,,FALSE
+68631492,30,BMD,0,196,,FALSE,,FALSE
+70458967,30,BMD,0,196,,FALSE,,FALSE
+85721331,30,BMD,0,196,,FALSE,,FALSE
+93106606,30,BMD,0,196,,FALSE,,FALSE
+98105998,30,BMD,0,196,,FALSE,,FALSE
+50282,32,BMD,0,196,,FALSE,,FALSE
+57625,32,BMD,0,196,,FALSE,,FALSE
+57681,32,BMD,0,196,,FALSE,,FALSE
+57830,32,BMD,0,196,,FALSE,,FALSE
+58220,32,BMD,0,196,,FALSE,,FALSE
+68359,32,BMD,0,196,,FALSE,,FALSE
+72140,32,BMD,0,196,,FALSE,,FALSE
+76573,32,BMD,0,196,,FALSE,,FALSE
+79572,32,BMD,0,196,,FALSE,,FALSE
+91576,32,BMD,0,196,,FALSE,,FALSE
+103902,32,BMD,0,196,,FALSE,,FALSE
+106478,32,BMD,0,196,,FALSE,,FALSE
+114078,32,BMD,0,196,,FALSE,,FALSE
+129000,32,BMD,0,196,,FALSE,,FALSE
+148798,32,BMD,0,196,,FALSE,,FALSE
+154212,32,BMD,0,196,,FALSE,,FALSE
+206440,32,BMD,0,196,,FALSE,,FALSE
+298464,32,BMD,0,196,,FALSE,,FALSE
+335671,32,BMD,0,196,,FALSE,,FALSE
+564250,32,BMD,0,196,,FALSE,,FALSE
+657249,32,BMD,0,196,,FALSE,,FALSE
+723466,32,BMD,0,196,,FALSE,,FALSE
+738705,32,BMD,0,196,,FALSE,,FALSE
+1163195,32,BMD,0,196,,FALSE,,FALSE
+2795393,32,BMD,0,196,,FALSE,,FALSE
+3380345,32,BMD,0,196,,FALSE,,FALSE
+5436431,32,BMD,0,196,,FALSE,,FALSE
+7439896,32,BMD,0,196,,FALSE,,FALSE
+7439954,32,BMD,0,196,,FALSE,,FALSE
+7440235,32,BMD,0,196,,FALSE,,FALSE
+7440702,32,BMD,0,196,,FALSE,,FALSE
+7487947,32,BMD,0,196,,FALSE,,FALSE
+7783008,32,BMD,0,196,,FALSE,,FALSE
+11006761,32,BMD,0,196,,FALSE,,FALSE
+14698294,32,BMD,0,196,,FALSE,,FALSE
+14797650,32,BMD,0,196,,FALSE,,FALSE
+15687271,32,BMD,0,196,,FALSE,,FALSE
+18559949,32,BMD,0,196,,FALSE,,FALSE
+22204531,32,BMD,0,196,,FALSE,,FALSE
+25812300,32,BMD,0,196,,FALSE,,FALSE
+42399417,32,BMD,0,196,,FALSE,,FALSE
+51481619,32,BMD,0,196,,FALSE,,FALSE
+54910893,32,BMD,0,196,,FALSE,,FALSE
+60348609,32,BMD,0,196,,FALSE,,FALSE
+66357355,32,BMD,0,196,,FALSE,,FALSE
+68631492,32,BMD,0,196,,FALSE,,FALSE
+70458967,32,BMD,0,196,,FALSE,,FALSE
+85721331,32,BMD,0,196,,FALSE,,FALSE
+93106606,32,BMD,0,196,,FALSE,,FALSE
+98105998,32,BMD,0,196,,FALSE,,FALSE
+50282,33,BMD,0,196,,FALSE,,FALSE
+50328,33,BMD,0,196,,FALSE,,FALSE
+57625,33,BMD,0,196,,FALSE,,FALSE
+57681,33,BMD,0,196,,FALSE,,FALSE
+57830,33,BMD,0,196,,FALSE,,FALSE
+58220,33,BMD,0,196,,FALSE,,FALSE
+60548,33,BMD,0,196,,FALSE,,FALSE
+68359,33,BMD,0,196,,FALSE,,FALSE
+72140,33,BMD,0,196,,FALSE,,FALSE
+76573,33,BMD,0,196,,FALSE,,FALSE
+91576,33,BMD,0,196,,FALSE,,FALSE
+106478,33,BMD,0,196,,FALSE,,FALSE
+114078,33,BMD,0,196,,FALSE,,FALSE
+129000,33,BMD,0,196,,FALSE,,FALSE
+154212,33,BMD,0,196,,FALSE,,FALSE
+206440,33,BMD,0,196,,FALSE,,FALSE
+298464,33,BMD,0,196,,FALSE,,FALSE
+335671,33,BMD,0,196,,FALSE,,FALSE
+564250,33,BMD,0,196,,FALSE,,FALSE
+657249,33,BMD,0,196,,FALSE,,FALSE
+723466,33,BMD,0,196,,FALSE,,FALSE
+738705,33,BMD,0,196,,FALSE,,FALSE
+1163195,33,BMD,0,196,,FALSE,,FALSE
+2795393,33,BMD,0,196,,FALSE,,FALSE
+5436431,33,BMD,0,196,,FALSE,,FALSE
+7439896,33,BMD,0,196,,FALSE,,FALSE
+7439954,33,BMD,0,196,,FALSE,,FALSE
+7439976,33,BMD,0,196,,FALSE,,FALSE
+7440235,33,BMD,0,196,,FALSE,,FALSE
+7440280,33,BMD,0,196,,FALSE,,FALSE
+7440360,33,BMD,0,196,,FALSE,,FALSE
+7440417,33,BMD,0,196,,FALSE,,FALSE
+7440702,33,BMD,0,196,,FALSE,,FALSE
+7783008,33,BMD,0,196,,FALSE,,FALSE
+11006761,33,BMD,0,196,,FALSE,,FALSE
+14698294,33,BMD,0,196,,FALSE,,FALSE
+14797558,33,BMD,0,196,,FALSE,,FALSE
+14797650,33,BMD,0,196,,FALSE,,FALSE
+15687271,33,BMD,0,196,,FALSE,,FALSE
+18540299,33,BMD,0,196,,FALSE,,FALSE
+18559949,33,BMD,0,196,,FALSE,,FALSE
+22204531,33,BMD,0,196,,FALSE,,FALSE
+25812300,33,BMD,0,196,,FALSE,,FALSE
+42399417,33,BMD,0,196,,FALSE,,FALSE
+51481619,33,BMD,0,196,,FALSE,,FALSE
+54910893,33,BMD,0,196,,FALSE,,FALSE
+60348609,33,BMD,0,196,,FALSE,,FALSE
+66357355,33,BMD,0,196,,FALSE,,FALSE
+68631492,33,BMD,0,196,,FALSE,,FALSE
+70458967,33,BMD,0,196,,FALSE,,FALSE
+85721331,33,BMD,0,196,,FALSE,,FALSE
+93106606,33,BMD,0,196,,FALSE,,FALSE
+98105998,33,BMD,0,196,,FALSE,,FALSE
+50282,35,BMD,0,196,,FALSE,,FALSE
+57625,35,BMD,0,196,,FALSE,,FALSE
+57681,35,BMD,0,196,,FALSE,,FALSE
+57830,35,BMD,0,196,,FALSE,,FALSE
+58220,35,BMD,0,196,,FALSE,,FALSE
+68359,35,BMD,0,196,,FALSE,,FALSE
+72140,35,BMD,0,196,,FALSE,,FALSE
+76573,35,BMD,0,196,,FALSE,,FALSE
+79572,35,BMD,0,196,,FALSE,,FALSE
+91576,35,BMD,0,196,,FALSE,,FALSE
+103902,35,BMD,0,196,,FALSE,,FALSE
+106478,35,BMD,0,196,,FALSE,,FALSE
+114078,35,BMD,0,196,,FALSE,,FALSE
+129000,35,BMD,0,196,,FALSE,,FALSE
+148798,35,BMD,0,196,,FALSE,,FALSE
+154212,35,BMD,0,196,,FALSE,,FALSE
+206440,35,BMD,0,196,,FALSE,,FALSE
+298464,35,BMD,0,196,,FALSE,,FALSE
+335671,35,BMD,0,196,,FALSE,,FALSE
+564250,35,BMD,0,196,,FALSE,,FALSE
+657249,35,BMD,0,196,,FALSE,,FALSE
+723466,35,BMD,0,196,,FALSE,,FALSE
+738705,35,BMD,0,196,,FALSE,,FALSE
+1163195,35,BMD,0,196,,FALSE,,FALSE
+2795393,35,BMD,0,196,,FALSE,,FALSE
+3380345,35,BMD,0,196,,FALSE,,FALSE
+5436431,35,BMD,0,196,,FALSE,,FALSE
+7439896,35,BMD,0,196,,FALSE,,FALSE
+7439954,35,BMD,0,196,,FALSE,,FALSE
+7440235,35,BMD,0,196,,FALSE,,FALSE
+7440702,35,BMD,0,196,,FALSE,,FALSE
+7487947,35,BMD,0,196,,FALSE,,FALSE
+7783008,35,BMD,0,196,,FALSE,,FALSE
+11006761,35,BMD,0,196,,FALSE,,FALSE
+14698294,35,BMD,0,196,,FALSE,,FALSE
+14797650,35,BMD,0,196,,FALSE,,FALSE
+15687271,35,BMD,0,196,,FALSE,,FALSE
+18559949,35,BMD,0,196,,FALSE,,FALSE
+22204531,35,BMD,0,196,,FALSE,,FALSE
+25812300,35,BMD,0,196,,FALSE,,FALSE
+42399417,35,BMD,0,196,,FALSE,,FALSE
+51481619,35,BMD,0,196,,FALSE,,FALSE
+54910893,35,BMD,0,196,,FALSE,,FALSE
+60348609,35,BMD,0,196,,FALSE,,FALSE
+66357355,35,BMD,0,196,,FALSE,,FALSE
+68631492,35,BMD,0,196,,FALSE,,FALSE
+70458967,35,BMD,0,196,,FALSE,,FALSE
+85721331,35,BMD,0,196,,FALSE,,FALSE
+93106606,35,BMD,0,196,,FALSE,,FALSE
+98105998,35,BMD,0,196,,FALSE,,FALSE
+50282,36,BMD,0,196,,FALSE,,FALSE
+57625,36,BMD,0,196,,FALSE,,FALSE
+57681,36,BMD,0,196,,FALSE,,FALSE
+57830,36,BMD,0,196,,FALSE,,FALSE
+58220,36,BMD,0,196,,FALSE,,FALSE
+68359,36,BMD,0,196,,FALSE,,FALSE
+72140,36,BMD,0,196,,FALSE,,FALSE
+76573,36,BMD,0,196,,FALSE,,FALSE
+79572,36,BMD,0,196,,FALSE,,FALSE
+91576,36,BMD,0,196,,FALSE,,FALSE
+103902,36,BMD,0,196,,FALSE,,FALSE
+106478,36,BMD,0,196,,FALSE,,FALSE
+114078,36,BMD,0,196,,FALSE,,FALSE
+129000,36,BMD,0,196,,FALSE,,FALSE
+148798,36,BMD,0,196,,FALSE,,FALSE
+154212,36,BMD,0,196,,FALSE,,FALSE
+206440,36,BMD,0,196,,FALSE,,FALSE
+298464,36,BMD,0,196,,FALSE,,FALSE
+335671,36,BMD,0,196,,FALSE,,FALSE
+564250,36,BMD,0,196,,FALSE,,FALSE
+657249,36,BMD,0,196,,FALSE,,FALSE
+723466,36,BMD,0,196,,FALSE,,FALSE
+738705,36,BMD,0,196,,FALSE,,FALSE
+1163195,36,BMD,0,196,,FALSE,,FALSE
+2795393,36,BMD,0,196,,FALSE,,FALSE
+3380345,36,BMD,0,196,,FALSE,,FALSE
+5436431,36,BMD,0,196,,FALSE,,FALSE
+7439896,36,BMD,0,196,,FALSE,,FALSE
+7439954,36,BMD,0,196,,FALSE,,FALSE
+7440235,36,BMD,0,196,,FALSE,,FALSE
+7440702,36,BMD,0,196,,FALSE,,FALSE
+7487947,36,BMD,0,196,,FALSE,,FALSE
+7783008,36,BMD,0,196,,FALSE,,FALSE
+11006761,36,BMD,0,196,,FALSE,,FALSE
+14698294,36,BMD,0,196,,FALSE,,FALSE
+14797650,36,BMD,0,196,,FALSE,,FALSE
+15687271,36,BMD,0,196,,FALSE,,FALSE
+18559949,36,BMD,0,196,,FALSE,,FALSE
+22204531,36,BMD,0,196,,FALSE,,FALSE
+25812300,36,BMD,0,196,,FALSE,,FALSE
+42399417,36,BMD,0,196,,FALSE,,FALSE
+51481619,36,BMD,0,196,,FALSE,,FALSE
+54910893,36,BMD,0,196,,FALSE,,FALSE
+60348609,36,BMD,0,196,,FALSE,,FALSE
+66357355,36,BMD,0,196,,FALSE,,FALSE
+68631492,36,BMD,0,196,,FALSE,,FALSE
+70458967,36,BMD,0,196,,FALSE,,FALSE
+85721331,36,BMD,0,196,,FALSE,,FALSE
+93106606,36,BMD,0,196,,FALSE,,FALSE
+98105998,36,BMD,0,196,,FALSE,,FALSE
+50282,38,BMD,0,196,,FALSE,,FALSE
+57625,38,BMD,0,196,,FALSE,,FALSE
+57681,38,BMD,0,196,,FALSE,,FALSE
+57830,38,BMD,0,196,,FALSE,,FALSE
+58220,38,BMD,0,196,,FALSE,,FALSE
+68359,38,BMD,0,196,,FALSE,,FALSE
+72140,38,BMD,0,196,,FALSE,,FALSE
+76573,38,BMD,0,196,,FALSE,,FALSE
+79572,38,BMD,0,196,,FALSE,,FALSE
+91576,38,BMD,0,196,,FALSE,,FALSE
+103902,38,BMD,0,196,,FALSE,,FALSE
+106478,38,BMD,0,196,,FALSE,,FALSE
+114078,38,BMD,0,196,,FALSE,,FALSE
+129000,38,BMD,0,196,,FALSE,,FALSE
+148798,38,BMD,0,196,,FALSE,,FALSE
+154212,38,BMD,0,196,,FALSE,,FALSE
+206440,38,BMD,0,196,,FALSE,,FALSE
+298464,38,BMD,0,196,,FALSE,,FALSE
+335671,38,BMD,0,196,,FALSE,,FALSE
+564250,38,BMD,0,196,,FALSE,,FALSE
+657249,38,BMD,0,196,,FALSE,,FALSE
+723466,38,BMD,0,196,,FALSE,,FALSE
+738705,38,BMD,0,196,,FALSE,,FALSE
+1163195,38,BMD,0,196,,FALSE,,FALSE
+2795393,38,BMD,0,196,,FALSE,,FALSE
+3380345,38,BMD,0,196,,FALSE,,FALSE
+5436431,38,BMD,0,196,,FALSE,,FALSE
+7439896,38,BMD,0,196,,FALSE,,FALSE
+7439954,38,BMD,0,196,,FALSE,,FALSE
+7440235,38,BMD,0,196,,FALSE,,FALSE
+7440702,38,BMD,0,196,,FALSE,,FALSE
+7487947,38,BMD,0,196,,FALSE,,FALSE
+7783008,38,BMD,0,196,,FALSE,,FALSE
+11006761,38,BMD,0,196,,FALSE,,FALSE
+14698294,38,BMD,0,196,,FALSE,,FALSE
+14797650,38,BMD,0,196,,FALSE,,FALSE
+15687271,38,BMD,0,196,,FALSE,,FALSE
+18559949,38,BMD,0,196,,FALSE,,FALSE
+22204531,38,BMD,0,196,,FALSE,,FALSE
+25812300,38,BMD,0,196,,FALSE,,FALSE
+42399417,38,BMD,0,196,,FALSE,,FALSE
+51481619,38,BMD,0,196,,FALSE,,FALSE
+54910893,38,BMD,0,196,,FALSE,,FALSE
+60348609,38,BMD,0,196,,FALSE,,FALSE
+66357355,38,BMD,0,196,,FALSE,,FALSE
+68631492,38,BMD,0,196,,FALSE,,FALSE
+70458967,38,BMD,0,196,,FALSE,,FALSE
+85721331,38,BMD,0,196,,FALSE,,FALSE
+93106606,38,BMD,0,196,,FALSE,,FALSE
+98105998,38,BMD,0,196,,FALSE,,FALSE
+50282,39,BMD,0,196,,FALSE,,FALSE
+50328,39,BMD,0,196,,FALSE,,FALSE
+57625,39,BMD,0,196,,FALSE,,FALSE
+57681,39,BMD,0,196,,FALSE,,FALSE
+57830,39,BMD,0,196,,FALSE,,FALSE
+58220,39,BMD,0,196,,FALSE,,FALSE
+60548,39,BMD,0,196,,FALSE,,FALSE
+68359,39,BMD,0,196,,FALSE,,FALSE
+72140,39,BMD,0,196,,FALSE,,FALSE
+76573,39,BMD,0,196,,FALSE,,FALSE
+91576,39,BMD,0,196,,FALSE,,FALSE
+106478,39,BMD,0,196,,FALSE,,FALSE
+114078,39,BMD,0,196,,FALSE,,FALSE
+129000,39,BMD,0,196,,FALSE,,FALSE
+154212,39,BMD,0,196,,FALSE,,FALSE
+206440,39,BMD,0,196,,FALSE,,FALSE
+298464,39,BMD,0,196,,FALSE,,FALSE
+335671,39,BMD,0,196,,FALSE,,FALSE
+564250,39,BMD,0,196,,FALSE,,FALSE
+657249,39,BMD,0,196,,FALSE,,FALSE
+723466,39,BMD,0,196,,FALSE,,FALSE
+738705,39,BMD,0,196,,FALSE,,FALSE
+1163195,39,BMD,0,196,,FALSE,,FALSE
+2795393,39,BMD,0,196,,FALSE,,FALSE
+5436431,39,BMD,0,196,,FALSE,,FALSE
+7439896,39,BMD,0,196,,FALSE,,FALSE
+7439954,39,BMD,0,196,,FALSE,,FALSE
+7439976,39,BMD,0,196,,FALSE,,FALSE
+7440235,39,BMD,0,196,,FALSE,,FALSE
+7440280,39,BMD,0,196,,FALSE,,FALSE
+7440360,39,BMD,0,196,,FALSE,,FALSE
+7440417,39,BMD,0,196,,FALSE,,FALSE
+7440702,39,BMD,0,196,,FALSE,,FALSE
+7783008,39,BMD,0,196,,FALSE,,FALSE
+11006761,39,BMD,0,196,,FALSE,,FALSE
+14698294,39,BMD,0,196,,FALSE,,FALSE
+14797558,39,BMD,0,196,,FALSE,,FALSE
+14797650,39,BMD,0,196,,FALSE,,FALSE
+15687271,39,BMD,0,196,,FALSE,,FALSE
+18540299,39,BMD,0,196,,FALSE,,FALSE
+18559949,39,BMD,0,196,,FALSE,,FALSE
+22204531,39,BMD,0,196,,FALSE,,FALSE
+25812300,39,BMD,0,196,,FALSE,,FALSE
+42399417,39,BMD,0,196,,FALSE,,FALSE
+51481619,39,BMD,0,196,,FALSE,,FALSE
+54910893,39,BMD,0,196,,FALSE,,FALSE
+60348609,39,BMD,0,196,,FALSE,,FALSE
+66357355,39,BMD,0,196,,FALSE,,FALSE
+68631492,39,BMD,0,196,,FALSE,,FALSE
+70458967,39,BMD,0,196,,FALSE,,FALSE
+85721331,39,BMD,0,196,,FALSE,,FALSE
+93106606,39,BMD,0,196,,FALSE,,FALSE
+98105998,39,BMD,0,196,,FALSE,,FALSE
+50282,44,BMD,0,196,,FALSE,,FALSE
+57625,44,BMD,0,196,,FALSE,,FALSE
+57681,44,BMD,0,196,,FALSE,,FALSE
+57830,44,BMD,0,196,,FALSE,,FALSE
+58220,44,BMD,0,196,,FALSE,,FALSE
+68359,44,BMD,0,196,,FALSE,,FALSE
+72140,44,BMD,0,196,,FALSE,,FALSE
+76573,44,BMD,0,196,,FALSE,,FALSE
+79572,44,BMD,0,196,,FALSE,,FALSE
+91576,44,BMD,0,196,,FALSE,,FALSE
+103902,44,BMD,0,196,,FALSE,,FALSE
+106478,44,BMD,0,196,,FALSE,,FALSE
+114078,44,BMD,0,196,,FALSE,,FALSE
+129000,44,BMD,0,196,,FALSE,,FALSE
+148798,44,BMD,0,196,,FALSE,,FALSE
+154212,44,BMD,0,196,,FALSE,,FALSE
+206440,44,BMD,0,196,,FALSE,,FALSE
+298464,44,BMD,0,196,,FALSE,,FALSE
+335671,44,BMD,0,196,,FALSE,,FALSE
+564250,44,BMD,0,196,,FALSE,,FALSE
+657249,44,BMD,0,196,,FALSE,,FALSE
+723466,44,BMD,0,196,,FALSE,,FALSE
+738705,44,BMD,0,196,,FALSE,,FALSE
+1163195,44,BMD,0,196,,FALSE,,FALSE
+2795393,44,BMD,0,196,,FALSE,,FALSE
+3380345,44,BMD,0,196,,FALSE,,FALSE
+5436431,44,BMD,0,196,,FALSE,,FALSE
+7439896,44,BMD,0,196,,FALSE,,FALSE
+7439954,44,BMD,0,196,,FALSE,,FALSE
+7440235,44,BMD,0,196,,FALSE,,FALSE
+7440702,44,BMD,0,196,,FALSE,,FALSE
+7487947,44,BMD,0,196,,FALSE,,FALSE
+7783008,44,BMD,0,196,,FALSE,,FALSE
+11006761,44,BMD,0,196,,FALSE,,FALSE
+14698294,44,BMD,0,196,,FALSE,,FALSE
+14797650,44,BMD,0,196,,FALSE,,FALSE
+15687271,44,BMD,0,196,,FALSE,,FALSE
+18559949,44,BMD,0,196,,FALSE,,FALSE
+22204531,44,BMD,0,196,,FALSE,,FALSE
+25812300,44,BMD,0,196,,FALSE,,FALSE
+42399417,44,BMD,0,196,,FALSE,,FALSE
+51481619,44,BMD,0,196,,FALSE,,FALSE
+54910893,44,BMD,0,196,,FALSE,,FALSE
+60348609,44,BMD,0,196,,FALSE,,FALSE
+66357355,44,BMD,0,196,,FALSE,,FALSE
+68631492,44,BMD,0,196,,FALSE,,FALSE
+70458967,44,BMD,0,196,,FALSE,,FALSE
+85721331,44,BMD,0,196,,FALSE,,FALSE
+93106606,44,BMD,0,196,,FALSE,,FALSE
+98105998,44,BMD,0,196,,FALSE,,FALSE
+50282,45,BMD,0,196,,FALSE,,FALSE
+57625,45,BMD,0,196,,FALSE,,FALSE
+57681,45,BMD,0,196,,FALSE,,FALSE
+57830,45,BMD,0,196,,FALSE,,FALSE
+58220,45,BMD,0,196,,FALSE,,FALSE
+68359,45,BMD,0,196,,FALSE,,FALSE
+72140,45,BMD,0,196,,FALSE,,FALSE
+76573,45,BMD,0,196,,FALSE,,FALSE
+79572,45,BMD,0,196,,FALSE,,FALSE
+91576,45,BMD,0,196,,FALSE,,FALSE
+103902,45,BMD,0,196,,FALSE,,FALSE
+106478,45,BMD,0,196,,FALSE,,FALSE
+114078,45,BMD,0,196,,FALSE,,FALSE
+129000,45,BMD,0,196,,FALSE,,FALSE
+148798,45,BMD,0,196,,FALSE,,FALSE
+154212,45,BMD,0,196,,FALSE,,FALSE
+206440,45,BMD,0,196,,FALSE,,FALSE
+298464,45,BMD,0,196,,FALSE,,FALSE
+335671,45,BMD,0,196,,FALSE,,FALSE
+564250,45,BMD,0,196,,FALSE,,FALSE
+657249,45,BMD,0,196,,FALSE,,FALSE
+723466,45,BMD,0,196,,FALSE,,FALSE
+738705,45,BMD,0,196,,FALSE,,FALSE
+1163195,45,BMD,0,196,,FALSE,,FALSE
+2795393,45,BMD,0,196,,FALSE,,FALSE
+3380345,45,BMD,0,196,,FALSE,,FALSE
+5436431,45,BMD,0,196,,FALSE,,FALSE
+7439896,45,BMD,0,196,,FALSE,,FALSE
+7439954,45,BMD,0,196,,FALSE,,FALSE
+7440235,45,BMD,0,196,,FALSE,,FALSE
+7440702,45,BMD,0,196,,FALSE,,FALSE
+7487947,45,BMD,0,196,,FALSE,,FALSE
+7783008,45,BMD,0,196,,FALSE,,FALSE
+11006761,45,BMD,0,196,,FALSE,,FALSE
+14698294,45,BMD,0,196,,FALSE,,FALSE
+14797650,45,BMD,0,196,,FALSE,,FALSE
+15687271,45,BMD,0,196,,FALSE,,FALSE
+18559949,45,BMD,0,196,,FALSE,,FALSE
+22204531,45,BMD,0,196,,FALSE,,FALSE
+25812300,45,BMD,0,196,,FALSE,,FALSE
+42399417,45,BMD,0,196,,FALSE,,FALSE
+51481619,45,BMD,0,196,,FALSE,,FALSE
+54910893,45,BMD,0,196,,FALSE,,FALSE
+60348609,45,BMD,0,196,,FALSE,,FALSE
+66357355,45,BMD,0,196,,FALSE,,FALSE
+68631492,45,BMD,0,196,,FALSE,,FALSE
+70458967,45,BMD,0,196,,FALSE,,FALSE
+85721331,45,BMD,0,196,,FALSE,,FALSE
+93106606,45,BMD,0,196,,FALSE,,FALSE
+98105998,45,BMD,0,196,,FALSE,,FALSE
+50282,47,BMD,0,196,,FALSE,,FALSE
+57625,47,BMD,0,196,,FALSE,,FALSE
+57681,47,BMD,0,196,,FALSE,,FALSE
+57830,47,BMD,0,196,,FALSE,,FALSE
+58220,47,BMD,0,196,,FALSE,,FALSE
+68359,47,BMD,0,196,,FALSE,,FALSE
+72140,47,BMD,0,196,,FALSE,,FALSE
+76573,47,BMD,0,196,,FALSE,,FALSE
+79572,47,BMD,0,196,,FALSE,,FALSE
+91576,47,BMD,0,196,,FALSE,,FALSE
+103902,47,BMD,0,196,,FALSE,,FALSE
+106478,47,BMD,0,196,,FALSE,,FALSE
+114078,47,BMD,0,196,,FALSE,,FALSE
+129000,47,BMD,0,196,,FALSE,,FALSE
+148798,47,BMD,0,196,,FALSE,,FALSE
+154212,47,BMD,0,196,,FALSE,,FALSE
+206440,47,BMD,0,196,,FALSE,,FALSE
+298464,47,BMD,0,196,,FALSE,,FALSE
+335671,47,BMD,0,196,,FALSE,,FALSE
+564250,47,BMD,0,196,,FALSE,,FALSE
+657249,47,BMD,0,196,,FALSE,,FALSE
+723466,47,BMD,0,196,,FALSE,,FALSE
+738705,47,BMD,0,196,,FALSE,,FALSE
+1163195,47,BMD,0,196,,FALSE,,FALSE
+2795393,47,BMD,0,196,,FALSE,,FALSE
+3380345,47,BMD,0,196,,FALSE,,FALSE
+5436431,47,BMD,0,196,,FALSE,,FALSE
+7439896,47,BMD,0,196,,FALSE,,FALSE
+7439954,47,BMD,0,196,,FALSE,,FALSE
+7440235,47,BMD,0,196,,FALSE,,FALSE
+7440702,47,BMD,0,196,,FALSE,,FALSE
+7487947,47,BMD,0,196,,FALSE,,FALSE
+7783008,47,BMD,0,196,,FALSE,,FALSE
+11006761,47,BMD,0,196,,FALSE,,FALSE
+14698294,47,BMD,0,196,,FALSE,,FALSE
+14797650,47,BMD,0,196,,FALSE,,FALSE
+15687271,47,BMD,0,196,,FALSE,,FALSE
+18559949,47,BMD,0,196,,FALSE,,FALSE
+22204531,47,BMD,0,196,,FALSE,,FALSE
+25812300,47,BMD,0,196,,FALSE,,FALSE
+42399417,47,BMD,0,196,,FALSE,,FALSE
+51481619,47,BMD,0,196,,FALSE,,FALSE
+54910893,47,BMD,0,196,,FALSE,,FALSE
+60348609,47,BMD,0,196,,FALSE,,FALSE
+66357355,47,BMD,0,196,,FALSE,,FALSE
+68631492,47,BMD,0,196,,FALSE,,FALSE
+70458967,47,BMD,0,196,,FALSE,,FALSE
+85721331,47,BMD,0,196,,FALSE,,FALSE
+93106606,47,BMD,0,196,,FALSE,,FALSE
+98105998,47,BMD,0,196,,FALSE,,FALSE
+50282,48,BMD,0,196,,FALSE,,FALSE
+50328,48,BMD,0,196,,FALSE,,FALSE
+57625,48,BMD,0,196,,FALSE,,FALSE
+57681,48,BMD,0,196,,FALSE,,FALSE
+57830,48,BMD,0,196,,FALSE,,FALSE
+58220,48,BMD,0,196,,FALSE,,FALSE
+60548,48,BMD,0,196,,FALSE,,FALSE
+68359,48,BMD,0,196,,FALSE,,FALSE
+72140,48,BMD,0,196,,FALSE,,FALSE
+76573,48,BMD,0,196,,FALSE,,FALSE
+91576,48,BMD,0,196,,FALSE,,FALSE
+106478,48,BMD,0,196,,FALSE,,FALSE
+114078,48,BMD,0,196,,FALSE,,FALSE
+129000,48,BMD,0,196,,FALSE,,FALSE
+154212,48,BMD,0,196,,FALSE,,FALSE
+206440,48,BMD,0,196,,FALSE,,FALSE
+298464,48,BMD,0,196,,FALSE,,FALSE
+335671,48,BMD,0,196,,FALSE,,FALSE
+564250,48,BMD,0,196,,FALSE,,FALSE
+657249,48,BMD,0,196,,FALSE,,FALSE
+723466,48,BMD,0,196,,FALSE,,FALSE
+738705,48,BMD,0,196,,FALSE,,FALSE
+1163195,48,BMD,0,196,,FALSE,,FALSE
+2795393,48,BMD,0,196,,FALSE,,FALSE
+5436431,48,BMD,0,196,,FALSE,,FALSE
+7439896,48,BMD,0,196,,FALSE,,FALSE
+7439954,48,BMD,0,196,,FALSE,,FALSE
+7439976,48,BMD,0,196,,FALSE,,FALSE
+7440235,48,BMD,0,196,,FALSE,,FALSE
+7440280,48,BMD,0,196,,FALSE,,FALSE
+7440360,48,BMD,0,196,,FALSE,,FALSE
+7440417,48,BMD,0,196,,FALSE,,FALSE
+7440702,48,BMD,0,196,,FALSE,,FALSE
+7783008,48,BMD,0,196,,FALSE,,FALSE
+11006761,48,BMD,0,196,,FALSE,,FALSE
+14698294,48,BMD,0,196,,FALSE,,FALSE
+14797558,48,BMD,0,196,,FALSE,,FALSE
+14797650,48,BMD,0,196,,FALSE,,FALSE
+15687271,48,BMD,0,196,,FALSE,,FALSE
+18540299,48,BMD,0,196,,FALSE,,FALSE
+18559949,48,BMD,0,196,,FALSE,,FALSE
+22204531,48,BMD,0,196,,FALSE,,FALSE
+25812300,48,BMD,0,196,,FALSE,,FALSE
+42399417,48,BMD,0,196,,FALSE,,FALSE
+51481619,48,BMD,0,196,,FALSE,,FALSE
+54910893,48,BMD,0,196,,FALSE,,FALSE
+60348609,48,BMD,0,196,,FALSE,,FALSE
+66357355,48,BMD,0,196,,FALSE,,FALSE
+68631492,48,BMD,0,196,,FALSE,,FALSE
+70458967,48,BMD,0,196,,FALSE,,FALSE
+85721331,48,BMD,0,196,,FALSE,,FALSE
+93106606,48,BMD,0,196,,FALSE,,FALSE
+98105998,48,BMD,0,196,,FALSE,,FALSE
+50282,50,BMD,0,196,,FALSE,,FALSE
+57625,50,BMD,0,196,,FALSE,,FALSE
+57681,50,BMD,0,196,,FALSE,,FALSE
+57830,50,BMD,0,196,,FALSE,,FALSE
+58220,50,BMD,0,196,,FALSE,,FALSE
+68359,50,BMD,0,196,,FALSE,,FALSE
+72140,50,BMD,0,196,,FALSE,,FALSE
+76573,50,BMD,0,196,,FALSE,,FALSE
+79572,50,BMD,0,196,,FALSE,,FALSE
+91576,50,BMD,0,196,,FALSE,,FALSE
+103902,50,BMD,0,196,,FALSE,,FALSE
+106478,50,BMD,0,196,,FALSE,,FALSE
+114078,50,BMD,0,196,,FALSE,,FALSE
+129000,50,BMD,0,196,,FALSE,,FALSE
+148798,50,BMD,0,196,,FALSE,,FALSE
+154212,50,BMD,0,196,,FALSE,,FALSE
+206440,50,BMD,0,196,,FALSE,,FALSE
+298464,50,BMD,0,196,,FALSE,,FALSE
+335671,50,BMD,0,196,,FALSE,,FALSE
+564250,50,BMD,0,196,,FALSE,,FALSE
+657249,50,BMD,0,196,,FALSE,,FALSE
+723466,50,BMD,0,196,,FALSE,,FALSE
+738705,50,BMD,0,196,,FALSE,,FALSE
+1163195,50,BMD,0,196,,FALSE,,FALSE
+2795393,50,BMD,0,196,,FALSE,,FALSE
+3380345,50,BMD,0,196,,FALSE,,FALSE
+5436431,50,BMD,0,196,,FALSE,,FALSE
+7439896,50,BMD,0,196,,FALSE,,FALSE
+7439954,50,BMD,0,196,,FALSE,,FALSE
+7440235,50,BMD,0,196,,FALSE,,FALSE
+7440702,50,BMD,0,196,,FALSE,,FALSE
+7487947,50,BMD,0,196,,FALSE,,FALSE
+7783008,50,BMD,0,196,,FALSE,,FALSE
+11006761,50,BMD,0,196,,FALSE,,FALSE
+14698294,50,BMD,0,196,,FALSE,,FALSE
+14797650,50,BMD,0,196,,FALSE,,FALSE
+15687271,50,BMD,0,196,,FALSE,,FALSE
+18559949,50,BMD,0,196,,FALSE,,FALSE
+22204531,50,BMD,0,196,,FALSE,,FALSE
+25812300,50,BMD,0,196,,FALSE,,FALSE
+42399417,50,BMD,0,196,,FALSE,,FALSE
+51481619,50,BMD,0,196,,FALSE,,FALSE
+54910893,50,BMD,0,196,,FALSE,,FALSE
+60348609,50,BMD,0,196,,FALSE,,FALSE
+66357355,50,BMD,0,196,,FALSE,,FALSE
+68631492,50,BMD,0,196,,FALSE,,FALSE
+70458967,50,BMD,0,196,,FALSE,,FALSE
+85721331,50,BMD,0,196,,FALSE,,FALSE
+93106606,50,BMD,0,196,,FALSE,,FALSE
+98105998,50,BMD,0,196,,FALSE,,FALSE
+50282,51,BMD,0,196,,FALSE,,FALSE
+57625,51,BMD,0,196,,FALSE,,FALSE
+57681,51,BMD,0,196,,FALSE,,FALSE
+57830,51,BMD,0,196,,FALSE,,FALSE
+58220,51,BMD,0,196,,FALSE,,FALSE
+68359,51,BMD,0,196,,FALSE,,FALSE
+72140,51,BMD,0,196,,FALSE,,FALSE
+76573,51,BMD,0,196,,FALSE,,FALSE
+79572,51,BMD,0,196,,FALSE,,FALSE
+91576,51,BMD,0,196,,FALSE,,FALSE
+103902,51,BMD,0,196,,FALSE,,FALSE
+106478,51,BMD,0,196,,FALSE,,FALSE
+114078,51,BMD,0,196,,FALSE,,FALSE
+129000,51,BMD,0,196,,FALSE,,FALSE
+148798,51,BMD,0,196,,FALSE,,FALSE
+154212,51,BMD,0,196,,FALSE,,FALSE
+206440,51,BMD,0,196,,FALSE,,FALSE
+298464,51,BMD,0,196,,FALSE,,FALSE
+335671,51,BMD,0,196,,FALSE,,FALSE
+564250,51,BMD,0,196,,FALSE,,FALSE
+657249,51,BMD,0,196,,FALSE,,FALSE
+723466,51,BMD,0,196,,FALSE,,FALSE
+738705,51,BMD,0,196,,FALSE,,FALSE
+1163195,51,BMD,0,196,,FALSE,,FALSE
+2795393,51,BMD,0,196,,FALSE,,FALSE
+3380345,51,BMD,0,196,,FALSE,,FALSE
+5436431,51,BMD,0,196,,FALSE,,FALSE
+7439896,51,BMD,0,196,,FALSE,,FALSE
+7439954,51,BMD,0,196,,FALSE,,FALSE
+7440235,51,BMD,0,196,,FALSE,,FALSE
+7440702,51,BMD,0,196,,FALSE,,FALSE
+7487947,51,BMD,0,196,,FALSE,,FALSE
+7783008,51,BMD,0,196,,FALSE,,FALSE
+11006761,51,BMD,0,196,,FALSE,,FALSE
+14698294,51,BMD,0,196,,FALSE,,FALSE
+14797650,51,BMD,0,196,,FALSE,,FALSE
+15687271,51,BMD,0,196,,FALSE,,FALSE
+18559949,51,BMD,0,196,,FALSE,,FALSE
+22204531,51,BMD,0,196,,FALSE,,FALSE
+25812300,51,BMD,0,196,,FALSE,,FALSE
+42399417,51,BMD,0,196,,FALSE,,FALSE
+51481619,51,BMD,0,196,,FALSE,,FALSE
+54910893,51,BMD,0,196,,FALSE,,FALSE
+60348609,51,BMD,0,196,,FALSE,,FALSE
+66357355,51,BMD,0,196,,FALSE,,FALSE
+68631492,51,BMD,0,196,,FALSE,,FALSE
+70458967,51,BMD,0,196,,FALSE,,FALSE
+85721331,51,BMD,0,196,,FALSE,,FALSE
+93106606,51,BMD,0,196,,FALSE,,FALSE
+98105998,51,BMD,0,196,,FALSE,,FALSE
+50282,54,BMD,0,196,,FALSE,,FALSE
+50328,54,BMD,0,196,,FALSE,,FALSE
+57625,54,BMD,0,196,,FALSE,,FALSE
+57681,54,BMD,0,196,,FALSE,,FALSE
+57830,54,BMD,0,196,,FALSE,,FALSE
+58220,54,BMD,0,196,,FALSE,,FALSE
+60548,54,BMD,0,196,,FALSE,,FALSE
+68359,54,BMD,0,196,,FALSE,,FALSE
+72140,54,BMD,0,196,,FALSE,,FALSE
+76573,54,BMD,0,196,,FALSE,,FALSE
+91576,54,BMD,0,196,,FALSE,,FALSE
+106478,54,BMD,0,196,,FALSE,,FALSE
+114078,54,BMD,0,196,,FALSE,,FALSE
+129000,54,BMD,0,196,,FALSE,,FALSE
+154212,54,BMD,0,196,,FALSE,,FALSE
+206440,54,BMD,0,196,,FALSE,,FALSE
+298464,54,BMD,0,196,,FALSE,,FALSE
+335671,54,BMD,0,196,,FALSE,,FALSE
+564250,54,BMD,0,196,,FALSE,,FALSE
+657249,54,BMD,0,196,,FALSE,,FALSE
+723466,54,BMD,0,196,,FALSE,,FALSE
+738705,54,BMD,0,196,,FALSE,,FALSE
+1163195,54,BMD,0,196,,FALSE,,FALSE
+2795393,54,BMD,0,196,,FALSE,,FALSE
+5436431,54,BMD,0,196,,FALSE,,FALSE
+7439896,54,BMD,0,196,,FALSE,,FALSE
+7439954,54,BMD,0,196,,FALSE,,FALSE
+7439976,54,BMD,0,196,,FALSE,,FALSE
+7440235,54,BMD,0,196,,FALSE,,FALSE
+7440280,54,BMD,0,196,,FALSE,,FALSE
+7440360,54,BMD,0,196,,FALSE,,FALSE
+7440417,54,BMD,0,196,,FALSE,,FALSE
+7440702,54,BMD,0,196,,FALSE,,FALSE
+7783008,54,BMD,0,196,,FALSE,,FALSE
+11006761,54,BMD,0,196,,FALSE,,FALSE
+14698294,54,BMD,0,196,,FALSE,,FALSE
+14797558,54,BMD,0,196,,FALSE,,FALSE
+14797650,54,BMD,0,196,,FALSE,,FALSE
+15687271,54,BMD,0,196,,FALSE,,FALSE
+18540299,54,BMD,0,196,,FALSE,,FALSE
+18559949,54,BMD,0,196,,FALSE,,FALSE
+22204531,54,BMD,0,196,,FALSE,,FALSE
+25812300,54,BMD,0,196,,FALSE,,FALSE
+42399417,54,BMD,0,196,,FALSE,,FALSE
+51481619,54,BMD,0,196,,FALSE,,FALSE
+54910893,54,BMD,0,196,,FALSE,,FALSE
+60348609,54,BMD,0,196,,FALSE,,FALSE
+66357355,54,BMD,0,196,,FALSE,,FALSE
+68631492,54,BMD,0,196,,FALSE,,FALSE
+70458967,54,BMD,0,196,,FALSE,,FALSE
+85721331,54,BMD,0,196,,FALSE,,FALSE
+93106606,54,BMD,0,196,,FALSE,,FALSE
+98105998,54,BMD,0,196,,FALSE,,FALSE
+50282,55,BMD,0,196,,FALSE,,FALSE
+50328,55,BMD,0,196,,FALSE,,FALSE
+57625,55,BMD,0,196,,FALSE,,FALSE
+57681,55,BMD,0,196,,FALSE,,FALSE
+57830,55,BMD,0,196,,FALSE,,FALSE
+58220,55,BMD,0,196,,FALSE,,FALSE
+60548,55,BMD,0,196,,FALSE,,FALSE
+68359,55,BMD,0,196,,FALSE,,FALSE
+72140,55,BMD,0,196,,FALSE,,FALSE
+76573,55,BMD,0,196,,FALSE,,FALSE
+91576,55,BMD,0,196,,FALSE,,FALSE
+106478,55,BMD,0,196,,FALSE,,FALSE
+114078,55,BMD,0,196,,FALSE,,FALSE
+129000,55,BMD,0,196,,FALSE,,FALSE
+154212,55,BMD,0,196,,FALSE,,FALSE
+206440,55,BMD,0,196,,FALSE,,FALSE
+298464,55,BMD,0,196,,FALSE,,FALSE
+335671,55,BMD,0,196,,FALSE,,FALSE
+564250,55,BMD,0,196,,FALSE,,FALSE
+657249,55,BMD,0,196,,FALSE,,FALSE
+723466,55,BMD,0,196,,FALSE,,FALSE
+738705,55,BMD,0,196,,FALSE,,FALSE
+1163195,55,BMD,0,196,,FALSE,,FALSE
+2795393,55,BMD,0,196,,FALSE,,FALSE
+5436431,55,BMD,0,196,,FALSE,,FALSE
+7439896,55,BMD,0,196,,FALSE,,FALSE
+7439954,55,BMD,0,196,,FALSE,,FALSE
+7439976,55,BMD,0,196,,FALSE,,FALSE
+7440235,55,BMD,0,196,,FALSE,,FALSE
+7440280,55,BMD,0,196,,FALSE,,FALSE
+7440360,55,BMD,0,196,,FALSE,,FALSE
+7440417,55,BMD,0,196,,FALSE,,FALSE
+7440702,55,BMD,0,196,,FALSE,,FALSE
+7783008,55,BMD,0,196,,FALSE,,FALSE
+11006761,55,BMD,0,196,,FALSE,,FALSE
+14698294,55,BMD,0,196,,FALSE,,FALSE
+14797558,55,BMD,0,196,,FALSE,,FALSE
+14797650,55,BMD,0,196,,FALSE,,FALSE
+15687271,55,BMD,0,196,,FALSE,,FALSE
+18540299,55,BMD,0,196,,FALSE,,FALSE
+18559949,55,BMD,0,196,,FALSE,,FALSE
+22204531,55,BMD,0,196,,FALSE,,FALSE
+25812300,55,BMD,0,196,,FALSE,,FALSE
+42399417,55,BMD,0,196,,FALSE,,FALSE
+51481619,55,BMD,0,196,,FALSE,,FALSE
+54910893,55,BMD,0,196,,FALSE,,FALSE
+60348609,55,BMD,0,196,,FALSE,,FALSE
+66357355,55,BMD,0,196,,FALSE,,FALSE
+68631492,55,BMD,0,196,,FALSE,,FALSE
+70458967,55,BMD,0,196,,FALSE,,FALSE
+85721331,55,BMD,0,196,,FALSE,,FALSE
+93106606,55,BMD,0,196,,FALSE,,FALSE
+98105998,55,BMD,0,196,,FALSE,,FALSE
+50282,56,BMD,0,196,,FALSE,,FALSE
+50328,56,BMD,0,196,,FALSE,,FALSE
+57625,56,BMD,0,196,,FALSE,,FALSE
+57681,56,BMD,0,196,,FALSE,,FALSE
+57830,56,BMD,0,196,,FALSE,,FALSE
+58220,56,BMD,0,196,,FALSE,,FALSE
+60548,56,BMD,0,196,,FALSE,,FALSE
+68359,56,BMD,0,196,,FALSE,,FALSE
+72140,56,BMD,0,196,,FALSE,,FALSE
+76573,56,BMD,0,196,,FALSE,,FALSE
+91576,56,BMD,0,196,,FALSE,,FALSE
+106478,56,BMD,0,196,,FALSE,,FALSE
+114078,56,BMD,0,196,,FALSE,,FALSE
+129000,56,BMD,0,196,,FALSE,,FALSE
+154212,56,BMD,0,196,,FALSE,,FALSE
+206440,56,BMD,0,196,,FALSE,,FALSE
+298464,56,BMD,0,196,,FALSE,,FALSE
+335671,56,BMD,0,196,,FALSE,,FALSE
+564250,56,BMD,0,196,,FALSE,,FALSE
+657249,56,BMD,0,196,,FALSE,,FALSE
+723466,56,BMD,0,196,,FALSE,,FALSE
+738705,56,BMD,0,196,,FALSE,,FALSE
+1163195,56,BMD,0,196,,FALSE,,FALSE
+2795393,56,BMD,0,196,,FALSE,,FALSE
+5436431,56,BMD,0,196,,FALSE,,FALSE
+7439896,56,BMD,0,196,,FALSE,,FALSE
+7439954,56,BMD,0,196,,FALSE,,FALSE
+7439976,56,BMD,0,196,,FALSE,,FALSE
+7440235,56,BMD,0,196,,FALSE,,FALSE
+7440280,56,BMD,0,196,,FALSE,,FALSE
+7440360,56,BMD,0,196,,FALSE,,FALSE
+7440417,56,BMD,0,196,,FALSE,,FALSE
+7440702,56,BMD,0,196,,FALSE,,FALSE
+7783008,56,BMD,0,196,,FALSE,,FALSE
+11006761,56,BMD,0,196,,FALSE,,FALSE
+14698294,56,BMD,0,196,,FALSE,,FALSE
+14797558,56,BMD,0,196,,FALSE,,FALSE
+14797650,56,BMD,0,196,,FALSE,,FALSE
+15687271,56,BMD,0,196,,FALSE,,FALSE
+18540299,56,BMD,0,196,,FALSE,,FALSE
+18559949,56,BMD,0,196,,FALSE,,FALSE
+22204531,56,BMD,0,196,,FALSE,,FALSE
+25812300,56,BMD,0,196,,FALSE,,FALSE
+42399417,56,BMD,0,196,,FALSE,,FALSE
+51481619,56,BMD,0,196,,FALSE,,FALSE
+54910893,56,BMD,0,196,,FALSE,,FALSE
+60348609,56,BMD,0,196,,FALSE,,FALSE
+66357355,56,BMD,0,196,,FALSE,,FALSE
+68631492,56,BMD,0,196,,FALSE,,FALSE
+70458967,56,BMD,0,196,,FALSE,,FALSE
+85721331,56,BMD,0,196,,FALSE,,FALSE
+93106606,56,BMD,0,196,,FALSE,,FALSE
+98105998,56,BMD,0,196,,FALSE,,FALSE
+50282,57,BMD,0,196,,FALSE,,FALSE
+57625,57,BMD,0,196,,FALSE,,FALSE
+57681,57,BMD,0,196,,FALSE,,FALSE
+57830,57,BMD,0,196,,FALSE,,FALSE
+58220,57,BMD,0,196,,FALSE,,FALSE
+68359,57,BMD,0,196,,FALSE,,FALSE
+72140,57,BMD,0,196,,FALSE,,FALSE
+76573,57,BMD,0,196,,FALSE,,FALSE
+79572,57,BMD,0,196,,FALSE,,FALSE
+91576,57,BMD,0,196,,FALSE,,FALSE
+103902,57,BMD,0,196,,FALSE,,FALSE
+106478,57,BMD,0,196,,FALSE,,FALSE
+114078,57,BMD,0,196,,FALSE,,FALSE
+129000,57,BMD,0,196,,FALSE,,FALSE
+148798,57,BMD,0,196,,FALSE,,FALSE
+154212,57,BMD,0,196,,FALSE,,FALSE
+206440,57,BMD,0,196,,FALSE,,FALSE
+298464,57,BMD,0,196,,FALSE,,FALSE
+335671,57,BMD,0,196,,FALSE,,FALSE
+564250,57,BMD,0,196,,FALSE,,FALSE
+657249,57,BMD,0,196,,FALSE,,FALSE
+723466,57,BMD,0,196,,FALSE,,FALSE
+738705,57,BMD,0,196,,FALSE,,FALSE
+1163195,57,BMD,0,196,,FALSE,,FALSE
+2795393,57,BMD,0,196,,FALSE,,FALSE
+3380345,57,BMD,0,196,,FALSE,,FALSE
+5436431,57,BMD,0,196,,FALSE,,FALSE
+7439896,57,BMD,0,196,,FALSE,,FALSE
+7439954,57,BMD,0,196,,FALSE,,FALSE
+7440235,57,BMD,0,196,,FALSE,,FALSE
+7440702,57,BMD,0,196,,FALSE,,FALSE
+7487947,57,BMD,0,196,,FALSE,,FALSE
+7783008,57,BMD,0,196,,FALSE,,FALSE
+11006761,57,BMD,0,196,,FALSE,,FALSE
+14698294,57,BMD,0,196,,FALSE,,FALSE
+14797650,57,BMD,0,196,,FALSE,,FALSE
+15687271,57,BMD,0,196,,FALSE,,FALSE
+18559949,57,BMD,0,196,,FALSE,,FALSE
+22204531,57,BMD,0,196,,FALSE,,FALSE
+25812300,57,BMD,0,196,,FALSE,,FALSE
+42399417,57,BMD,0,196,,FALSE,,FALSE
+51481619,57,BMD,0,196,,FALSE,,FALSE
+54910893,57,BMD,0,196,,FALSE,,FALSE
+60348609,57,BMD,0,196,,FALSE,,FALSE
+66357355,57,BMD,0,196,,FALSE,,FALSE
+68631492,57,BMD,0,196,,FALSE,,FALSE
+70458967,57,BMD,0,196,,FALSE,,FALSE
+85721331,57,BMD,0,196,,FALSE,,FALSE
+93106606,57,BMD,0,196,,FALSE,,FALSE
+98105998,57,BMD,0,196,,FALSE,,FALSE
+76573,,BCF_Bff,1.6,18,BAF_T3W used as surrogate,FALSE,,FALSE
+42399417,,BCF_Bff,9.6,18,BAF_T3W used as surrogate,FALSE,,FALSE
+564250,,BCF_Bff,0.95,18,BAF_T3W used as surrogate,FALSE,,FALSE
+93106606,,BCF_Bff,28,18,BAF_T3W used as surrogate,FALSE,,FALSE
+114078,,BCF_Bff,12,18,BAF_T3W used as surrogate,FALSE,,FALSE
+50282,,BCF_Bff,46,18,BAF_T3W used as surrogate,FALSE,,FALSE
+206440,,BCF_Bff,540,18,BAF_T3W used as surrogate,FALSE,,FALSE
+54910893,,BCF_Bff,610,18,BAF_T3W used as surrogate,FALSE,,FALSE
+25812300,,BCF_Bff,1200,18,BAF_T3W used as surrogate,FALSE,,FALSE
+15687271,,BCF_Bff,400,18,BAF_T3W used as surrogate,FALSE,,FALSE
+154212,,BCF_Bff,0.97,18,BAF_T3W used as surrogate,FALSE,,FALSE
+657249,,BCF_Bff,0.93,18,BAF_T3W used as surrogate,FALSE,,FALSE
+91576,,BCF_Bff,480,18,BAF_T3W used as surrogate,FALSE,,FALSE
+22204531,,BCF_Bff,94,18,BAF_T3W used as surrogate,FALSE,,FALSE
+70458967,,BCF_Bff,0.93,18,BAF_T3W used as surrogate,FALSE,,FALSE
+14698294,,BCF_Bff,1.3,18,BAF_T3W used as surrogate,FALSE,,FALSE
+79572,,BCF_Bff,0.93,18,BAF_T3W used as surrogate,FALSE,,FALSE
+335671,,BCf_Bff,140,251,BAF_T3W used as surrogate,FALSE,,FALSE
+2795393,,BCF_Bff,3500,251,BAF_T3W used as surrogate,FALSE,,FALSE
+57830,,BCF_Bff,380,18,BAF_T3W used as surrogate,FALSE,,FALSE
+129000,,BCF_Bff,1100,18,BAF_T3W used as surrogate,FALSE,,FALSE
+66357355,,BCF_Bff,1,18,BAF_T3W used as surrogate,FALSE,,FALSE
+98105998,,BCF_Bff,1.7,18,BAF_T3W used as surrogate,FALSE,,FALSE
+68359,,BCF_Bff,0.98,18,BAF_T3W used as surrogate,FALSE,,FALSE
+57681,,BCF_Bff,1,18,BAF_T3W used as surrogate,FALSE,,FALSE
+723466,,BCF_Bff,1.4,18,BAF_T3W used as surrogate,FALSE,,FALSE
+72140,,BCF_Bff,0.98,18,BAF_T3W used as surrogate,FALSE,,FALSE
+58220,,BCF_Bff,120,18,BAF_T3W used as surrogate,FALSE,,FALSE
+60548,,BCF_Bff,0.9,18,BAF_T3W used as surrogate,FALSE,,FALSE
+148798,,BCF_Bff,17,18,BAF_T3W used as surrogate,FALSE,,FALSE
+3380345,,BCF_Bff,210,18,BAF_T3W used as surrogate,FALSE,,FALSE
+738705,,BCF_Bff,1.2,18,BAF_T3W used as surrogate,FALSE,,FALSE
+11006761,,BCF_Bff,1.9,18,BAF_T3W used as surrogate,FALSE,,FALSE
+7487947,,BCF_WaterVeg,1600000,38,BAF_T3W used as surrogate,FALSE,,FALSE
+7439976,,BCF_WaterVeg,0,25,BAF_T3W used as surrogate,FALSE,,FALSE
+7429905,,BCF_WaterVeg,36,17,BAF_T3W used as surrogate,FALSE,,FALSE
+7440360,,BCF_WaterVeg,0,55,BAF_T3W used as surrogate,FALSE,,FALSE
+7440382,,BCF_WaterVeg,4,55,BAF_T3W used as surrogate,FALSE,,FALSE
+7440393,,BCF_WaterVeg,130,212,BAF_T3W used as surrogate,FALSE,,FALSE
+7440417,,BCF_WaterVeg,19,55,BAF_T3W used as surrogate,FALSE,,FALSE
+7440428,,BCF_WaterVeg,0,196,BAF_T3W used as surrogate,FALSE,,FALSE
+7440439,,BCF_WaterVeg,907,25,BAF_T3W used as surrogate,FALSE,,FALSE
+7440702,,BCF_WaterVeg,0,196,BAF_T3W used as surrogate,FALSE,,FALSE
+16065831,,BCF_WaterVeg,0.6,55,BAF_T3W used as surrogate,FALSE,,FALSE
+18540299,,BCF_WaterVeg,0.6,55,BAF_T3W used as surrogate,FALSE,,FALSE
+7440484,,BCF_WaterVeg,0,196,BAF_T3W used as surrogate,FALSE,,FALSE
+7440508,,BCF_WaterVeg,0,55,BAF_T3W used as surrogate,FALSE,,FALSE
+16984488,,BCF_WaterVeg,2.3,214,BAF_T3W used as surrogate,FALSE,,FALSE
+7439896,,BCF_WaterVeg,19,210,BAF_T3W used as surrogate,FALSE,,FALSE
+7439921,,BCF_WaterVeg,46,55,BAF_T3W used as surrogate,FALSE,,FALSE
+7439954,,BCF_WaterVeg,0,196,BAF_T3W used as surrogate,FALSE,,FALSE
+7439965,,BCF_WaterVeg,0.4,213,BAF_T3W used as surrogate,FALSE,,FALSE
+7439987,,BCF_WaterVeg,0,196,BAF_T3W used as surrogate,FALSE,,FALSE
+7440020,,BCF_WaterVeg,0.8,55,BAF_T3W used as surrogate,FALSE,,FALSE
+14797558,,BCF_WaterVeg,0,196,BAF_T3W used as surrogate,FALSE,,FALSE
+14797650,,BCF_WaterVeg,0,196,BAF_T3W used as surrogate,FALSE,,FALSE
+7783086,,BCF_WaterVeg,490,34,BAF_T3W used as surrogate,FALSE,,FALSE
+7783008,,BCF_WaterVeg,490,34,BAF_T3W used as surrogate,FALSE,,FALSE
+7440224,,BCF_WaterVeg,0,196,BAF_T3W used as surrogate,FALSE,,FALSE
+7440235,,BCF_WaterVeg,0,196,BAF_T3W used as surrogate,FALSE,,FALSE
+7440280,,BCF_WaterVeg,34,55,BAF_T3W used as surrogate,FALSE,,FALSE
+7440315,,BCF_WaterVeg,0,196,BAF_T3W used as surrogate,FALSE,,FALSE
+7440622,,BCF_WaterVeg,32,208,BAF_T3W used as surrogate,FALSE,,FALSE
+7440666,,BCF_WaterVeg,2060,25,BAF_T3W used as surrogate,FALSE,,FALSE
+103902,,BCF_WaterVeg,1,18,BAF_T3W used as surrogate,FALSE,,FALSE
+18559949,,BCF_WaterVeg,1,18,BAF_T3W used as surrogate,FALSE,,FALSE
+68631492,,BCF_WaterVeg,1.8E+06,18,BAF_T3W used as surrogate,FALSE,,FALSE
+1163195,,BCF_WaterVeg,1400,18,BAF_T3W used as surrogate,FALSE,,FALSE
+5436431,,BCF_WaterVeg,4.5E+05,18,BAF_T3W used as surrogate,FALSE,,FALSE
+60348609,,BCF_WaterVeg,1.7E+06,18,BAF_T3W used as surrogate,FALSE,,FALSE
+50328,,BCF_WaterVeg,980,18,BAF_T3W used as surrogate,FALSE,,FALSE
+117817,,BCF_WaterVeg,6100,18,BAF_T3W used as surrogate,FALSE,,FALSE
+298464,,BCF_WaterVeg,16,18,BAF_T3W used as surrogate,FALSE,,FALSE
+106478,,BCF_WaterVeg,5.2,18,BAF_T3W used as surrogate,FALSE,,FALSE
+57625,,BCF_WaterVeg,0.94,18,BAF_T3W used as surrogate,FALSE,,FALSE
+51481619,,BCF_WaterVeg,1,18,BAF_T3W used as surrogate,FALSE,,FALSE
+85721331,,BCF_WaterVeg,1,18,BAF_T3W used as surrogate,FALSE,,FALSE
+76573,,BCF_WaterVeg,1.6,18,BAF_T3W used as surrogate,FALSE,,FALSE
+42399417,,BCF_WaterVeg,9.6,18,BAF_T3W used as surrogate,FALSE,,FALSE

@@ -1,0 +1,41 @@
+EcoRecID,Receptor_Name,Run,EcoRecCat,Comment,Benchmark_Type,Pathway,ED_Needed,ScalingFactor
+1,Terrestrial Plants,TRUE,Plant,EcoSSL,BMC_soil,"Direct Contact, soil (conc-based)",FALSE,
+2,American Kestrel,TRUE,Bird,Jim's list,BMD,"Ingestion, carnivore (dose-based)",FALSE,1.15
+3,American Robin,TRUE,Bird,EPA short list,BMD,"Ingestion, omnivore (dose-based)",FALSE,1.15
+4,American Woodcock,TRUE,Bird,EPA short list,BMD,"Ingestion, omnivore (dose-based)",FALSE,1.15
+7,Belted Kingfisher,TRUE,Bird,Jim's list,BMD,"Ingestion, carnivore (dose-based)",FALSE,1.15
+8,Black Bear,TRUE,Mammal,,BMD,"Ingestion, omnivore (dose-based)",FALSE,0.75
+12,Canada Goose,TRUE,Bird,EPA short list,BMD,"Ingestion, herbivore (dose-based)",FALSE,1.15
+14,Coopers Hawk,TRUE,Bird,EPA short list,BMD,"Ingestion, carnivore (dose-based)",FALSE,1.15
+15,Coyote,TRUE,Mammal,Jim's list,BMD,"Ingestion, omnivore (dose-based)",FALSE,0.75
+16,Deer Mouse,TRUE,Mammal,,BMD,"Ingestion, omnivore (dose-based)",FALSE,0.75
+18,Eastern Cottontail,TRUE,Mammal,,BMD,"Ingestion, herbivore (dose-based)",FALSE,0.75
+23,Great Blue Heron,TRUE,Bird,,BMD,"Ingestion, carnivore (dose-based)",FALSE,1.15
+25,Green Heron,TRUE,Bird,Jim's list,BMD,"Ingestion, omnivore (dose-based)",FALSE,1.15
+28,Least Weasel,TRUE,Mammal,,BMD,"Ingestion, carnivore (dose-based)",FALSE,0.75
+30,Little Brown Bat,TRUE,Mammal,EPA short list,BMD,"Ingestion, carnivore (dose-based)",FALSE,0.75
+32,Long Tailed Weasel,TRUE,Mammal,,BMD,"Ingestion, carnivore (dose-based)",FALSE,0.75
+33,Mallard Duck,TRUE,Bird,EPA short list,BMD,"Ingestion, omnivore (dose-based)",FALSE,1.15
+35,Meadow Vole,TRUE,Mammal,EPA short list,BMD,"Ingestion, herbivore (dose-based)",FALSE,0.75
+36,Mink,TRUE,Mammal,Jim's list,BMD,"Ingestion, carnivore (dose-based)",FALSE,0.75
+38,Muskrat,TRUE,Mammal,,BMD,"Ingestion, omnivore (dose-based)",FALSE,0.75
+39,Northern Bobwhite,TRUE,Bird,EPA short list,BMD,"Ingestion, omnivore (dose-based)",FALSE,1.15
+44,Prairie Vole,TRUE,Mammal,,BMD,"Ingestion, herbivore (dose-based)",FALSE,0.75
+45,Raccoon,TRUE,Mammal,Jim's list,BMD,"Ingestion, omnivore (dose-based)",FALSE,0.75
+47,Red Fox,TRUE,Mammal,,BMD,"Ingestion, omnivore (dose-based)",FALSE,0.75
+48,Red Tailed Hawk,TRUE,Bird,,BMD,"Ingestion, carnivore (dose-based)",FALSE,1.15
+50,Short Tailed Shrew,TRUE,Mammal,EPA short list,BMD,"Ingestion, omnivore (dose-based)",FALSE,0.75
+51,Short Tail Weasel,TRUE,Mammal,EPA short list,BMD,"Ingestion, carnivore (dose-based)",FALSE,0.75
+54,Spotted Sandpiper,TRUE,Bird,,BMD,"Ingestion, omnivore (dose-based)",FALSE,1.15
+55,Tree Swallow,TRUE,Bird,Jim's list,BMD,"Ingestion, omnivore (dose-based)",FALSE,1.15
+56,Western Meadowlark,TRUE,Bird,,BMD,"Ingestion, omnivore (dose-based)",FALSE,1.15
+57,White Tailed Deer,TRUE,Mammal,,BMD,"Ingestion, herbivore (dose-based)",FALSE,0.75
+58,Soil Biota,TRUE,Community,EPA short list,BMC_soil,"Direct Contact, soil (conc-based)",FALSE,
+59,Aquatic Community,TRUE,Community,EPA short list,BMC_water,"Direct Contact, water (conc-based)",TRUE,
+60,Fish,TRUE,Fish,EPA short list,BMC_water,"Direct Contact, water (conc-based)",TRUE,
+61,Sediment Biota,TRUE,Community,,BMC_sed,Direct Contact (sediment),FALSE,
+63,Aquatic Plants,TRUE,Plant,,BMC_water,"Direct Contact, water (conc-based)",TRUE,
+64,Amphibians,TRUE,Amphibian,,BMC_water,"Direct Contact, water (conc-based)",TRUE,
+65,Aquatic Invertebrates,TRUE,Community,EPA short list,BMC_water,"Direct Contact, water (conc-based)",TRUE,
+67,Mammals,TRUE,Mammal,EcoSSL,BMC_soil,Ingestion (conc-based),FALSE,
+68,Birds,TRUE,Bird,EcoSSL,BMC_soil,Ingestion (conc-based),FALSE,

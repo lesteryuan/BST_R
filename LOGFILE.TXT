@@ -1,0 +1,25 @@
+10/14/2024 4:41:49 PM	Program Start
+10/14/2024 4:41:49 PM	Connection to Database
+10/14/2024 4:41:49 PM	=================Runtime begins======================
+10/14/2024 4:41:49 PM	P4. Run Data Manager begins
+10/14/2024 4:41:49 PM	p5. Looping over chemicals begins
+10/14/2024 4:41:49 PM	p5. start chemicals: Acetaminophen
+10/14/2024 4:41:49 PM	P8. RunID: 5159
+10/14/2024 4:41:49 PM	p9. Run Source Module begins 
+10/14/2024 4:41:49 PM	Generate SSF Files 103902
+10/14/2024 4:41:51 PM	Run Source Model 103902
+10/14/2024 4:41:53 PM	Read Source Model from DB 103902
+10/14/2024 4:41:53 PM	Run Media Module 103902
+10/14/2024 4:41:53 PM	Generate VVWM Input Files 103902
+10/14/2024 4:41:54 PM	Generate VVWM Input Files 103902
+10/14/2024 4:42:00 PM	End Media Module 103902
+10/14/2024 4:42:00 PM	p15. Begin Food module
+10/14/2024 4:42:01 PM	p16. Begin Receptors Loop
+10/14/2024 4:42:01 PM	p16. Begin Shower Module
+10/14/2024 4:42:01 PM	p17. Risk Calculation
+10/14/2024 4:42:01 PM	p16. Begin Receptors Loop
+10/14/2024 4:42:01 PM	p16. Begin Shower Module
+10/14/2024 4:42:01 PM	p17. Risk Calculation
+10/14/2024 4:42:01 PM	p17. EcoReceptors Loop
+10/14/2024 4:42:02 PM	p18. Begin Pull Percentiles
+10/14/2024 4:42:04 PM	End of simulation for Acetaminophen

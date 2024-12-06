@@ -1,0 +1,37 @@
+36,SI
+"Code","Dimensions","DataType","Min","Max","Units","Description","Dim1","Dim2","Dim3"
+bio_yield,0,FLOAT,0,1,g/g,biomass yield,,,
+C_in,0,FLOAT,0,1000000,mg/L,chemical concentration (influent),,,
+CBOD,0,FLOAT,0,1,g/cm3,BOD (influent),,,
+d_imp,0,FLOAT,0,300,cm,impeller diameter,,,
+d_setpt,0,FLOAT,0.1,0.99,fraction,fraction of SI occupied by sediments (max.),,,
+d_wmu,0,FLOAT,0.3,46,m,depth of wmu,,,
+dmeanTSS,0,FLOAT,0,0.01,cm,"particle diameter (mean, waste suspended solids)",,,
+EconLife,0,INTEGER,0,100,year,economic life of a tank/SI,,,
+F_aer,0,FLOAT,0,1,fraction,fraction surface area-turbulent,,,
+"focW",0,"float",0,1,"mass fraction","fraction organic carbon (waste)",,,
+"fwmu",0,"float",0,1,"mass fraction","fraction hazardous waste in WMU",,,
+hydc_sed,0,FLOAT,0,0.001,m/s,saturated hydraulic conductivity (sediment layer),,,
+J,0,FLOAT,2.9,3,lb O2/h-hp,oxygen transfer factor,,,
+k_dec,0,FLOAT,0,0.001,1/s,digestion (sediments),,,
+kba1,0,FLOAT,0,1,unitless,biologically active solids/total solids (ratio),,,
+MWt_H2O,0,FLOAT,18,18,g/mol,molecular weight (liquid [water])
+n_imp,0,INTEGER,0,66,unitless,impellers/aerators (number)
+NumEcon,0,INTEGER,1,5,,number of economic lifetimes
+O2eff,0,FLOAT,0.5,0.95,unitless,oxygen transfer correction factor
+Powr,0,FLOAT,0,5800,hp,impellers/aerators (total power)
+Q_wmu,0,FLOAT,1.0e-20,10,m3/s,volumetric flow rate (tank)
+rho_l,0,FLOAT,0.96,1.5,g/cm3,density (liquid [water])
+rho_part,0,FLOAT,1,5,g/cm3,solids density
+TSS_in,0,FLOAT,1e-7,1,g/cm3,total suspended solids (influent)
+w_imp,0,FLOAT,0,400,rad/s,impeller speed
+LinerType,0,Integer,0,2,,Type of liner (0=no liner, 1=soil liner, 2=composite liner)
+Infil_CompLiner,0,Float,0,1000,m/d, Infiltration rate for composite liner
+d_liner,0,Float,0,10,m, thickness of SI liner
+LinerALPHA,0,Float,0,1,1/cm, soil retention parameter alpha (liner)
+LinerBETA,0,Float,0,10,unitless,soil retention parameter beta (liner)
+hydc_liner,0,Float,0,1,m/s,saturated conductivity of liner
+TSS_out,0,FLOAT,0,1,g/cm3,total suspended solids (effluent)
+DBGS,0,FLOAT,0,100,m, depth from bottom of SI (including liner) to ground surface
+SedALPHA,0,Float,0,1,1/cm, soil retention parameter alpha (sediment)
+SedBETA,0,Float,0,10,unitless,soil retention parameter beta (sediment)
