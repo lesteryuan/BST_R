@@ -15,22 +15,19 @@ main <- function() {
     source("readgrf.R")
     source("shower.r")
 
-    siteid <- c(94018) # choose from 13880 (wet), 94018 (dry), and 94846 (temperate)
-
-#    cas <- 103902 # acetaminophen...need to load lookup table
-#    cas <- 7440382 # arsenic
-#    cas <- 7440508 # copper
-    cas <- c(50328) # benzo(a)pyrene
-    srctype <- c("LAU") ## takes values of SI or LAU
-    srctypeid <- c(1) # 1: crop, 2:pasture, 3:reclamation
-    linertypeid <- c(0) ## takes values of 0,1,2
-
-    ## generate scenarios
-    grps <- makescen(siteid,cas,srctype,srctypeid, linertypeid)
-
+    ## load data files
     dat <- load_source_parameters()
     save(dat, file = "dat.rda")
 
+    ## load and check input parameters
+    inputpars <- getinputs(dat$chemical_constant)
+
+    ## generate scenarios as all the permutations of the
+    ## options that are selected
+    grps <- makescen(inputpars)
+    print(grps)
+
+    ## set up storage locations for model output
     riskout <- as.list(rep(NA, times = nrow(grps)))
     ecoout <- as.list(rep(NA, times = nrow(grps)))
 
@@ -83,14 +80,16 @@ main <- function() {
 
         nyear <- getval(tbl_model_parm, "numswyear")
 
+        ## combine all parameters into two names vectors: 1 for
+        ## strings and 2 for numbers
         parm <- getval.all(list(chemical_constant, fate_constant,
                                 exposure_constant, tbl_model_parm))
+
         pnum <- parm[[2]]
         dfsource <- runsource(parameters, fate_constant, chemical_constant,
                               data_dict, tbl_model_parm, parm_dim_sum,
                               grps$srctype[ii], grps$linertypeid[ii], pnum)
-
-        save(dfsource, file = "dfsource.rda")
+#        save(dfsource, file = "dfsource.rda")
 #            load("dfsource.rda")
         mout <- media(parm[[1]], pnum, dfsource, nyear, grps$siteid[ii],
                       srctypeid.loc,
@@ -102,10 +101,10 @@ main <- function() {
         else {
             foodout <- food(parm[[1]], pnum, mout, srctypeid.loc)
             riskout[[ii]] <- risk(mout,foodout, pnum, parm[[1]]["chemtype"])
-            ecoout[[ii]] <- eco(cas, mout, foodout)
+            ecoout[[ii]] <- eco(grps$cas[ii], mout, foodout)
         }
     }
-    return(list(riskout, ecoout))
+    return(list(riskout, ecoout, grps))
 }
 
 output <- main()

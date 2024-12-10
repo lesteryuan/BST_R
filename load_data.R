@@ -33,10 +33,12 @@ make_df <- function(df1, fname.row) {
     }
     dfa <- data.frame(a)
     for (i in 1:ncol(dfa)) {
+        ## set blanks to NA
         incvec <- dfa[,i] == ""
         incvec[is.na(incvec)] <- F
         dfa[incvec,i] <- NA
-        x <- as.numeric(dfa[,i])
+
+        x <- suppressWarnings(as.numeric(dfa[,i]))
         if (sum(is.na(x)) == sum(is.na(dfa[,i]))) dfa[,i] <- x
     }
     return(dfa)
@@ -75,9 +77,13 @@ load_source_parameters <- function() {
                                                  "wmutype")])
     incvec <- ! is.na(data_dict$index2) | ! is.na(data_dict$index3)
     parm_dim <- data_dict[incvec,]
-    dim2 <- tapply(parm_dim$index2, parm_dim[, "source"], max, na.rm = T)
-    dim3 <- tapply(parm_dim$index3, parm_dim[, "source"], max, na.rm = T)
-    dim3[is.infinite(dim3)] <- NA
+
+    getmax <- function(x) {
+        if (any(! is.na(x))) return(max(x, na.rm = T))
+        else return(NA)
+    }
+    dim2 <- tapply(parm_dim$index2, parm_dim[, "source"], getmax)
+    dim3 <- tapply(parm_dim$index3, parm_dim[, "source"], getmax)
 
     parm_dim_sum <- data.frame(modelcode = names(dim2),
                                dim2= as.vector(dim2),

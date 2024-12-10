@@ -17,17 +17,11 @@ readgrf <- function(srctype) {
     fp <- file("./hwir/grf/sr.grf", open = "r")
     a <- readLines(fp)
     close(fp)
-    removecomma <- function(x) {
-        ## remove trailing comma from input string
-        ## also remove escaped quotation marks
-        x <- substring(x, 1, nchar(x)-1)
-        x <- gsub("\"", "", x)
-        return(x)
-    }
+#    a <- gsub("\"", "", a)
     a <- removecomma(a)
     b <- str_split(a, ",")
 
-    ip <-  which(sapply(b, function(x) is.na(as.numeric(x[1]))))
+    ip <-  which(sapply(b, function(x) is.na(suppressWarnings(as.numeric(x[1])))))
 
     ip <- ip[-1]
     varname <- sapply(b[ip], function(x) x[1])
@@ -64,7 +58,8 @@ readgrf <- function(srctype) {
             if (ndim == 2) {
                 ic <- i + 2
                 d1 <- as.numeric(b[[i+1]])
-                d2 <- sapply(b[ic:(ic+d1-1)], function(x) as.numeric(x[1]))
+                d2 <- sapply(b[ic:(ic+d1-1)], function(x)
+                    suppressWarnings(as.numeric(x[1])))
                 d2sav <- max(d2)
 
                 x <- matrix(0, nrow = d1, ncol = d2sav)
@@ -78,7 +73,8 @@ readgrf <- function(srctype) {
                 ic <- i+2
                 d3sav <- 0
                 for (j in 1:d[1]) {
-                    d3 <- sapply(b[ic:(ic+d[2]-1)], function(x) as.numeric(x[1]))
+                    d3 <- sapply(b[ic:(ic+d[2]-1)], function(x)
+                        suppressWarnings(as.numeric(x[1])))
                     d3sav <- max(d3, d3sav)
                     ic <- ic + d[2] + 1
                     if (j < d[1]) d[2] <- as.numeric(b[[ic-1]])
@@ -92,7 +88,8 @@ readgrf <- function(srctype) {
                 d <- as.numeric(b[[i+1]])
                 ic <- i+2
                 for (j in 1:d[1]) {
-                    d3 <- sapply(b[ic:(ic+d[2]-1)], function(x) as.numeric(x[1]))
+                    d3 <- sapply(b[ic:(ic+d[2]-1)], function(x)
+                        suppressWarnings(as.numeric(x[1])))
                     ifill <- which(d3 > 0)
                     for (ii in ifill) {
                         x[j, ii,1:d3[ii]] <- as.numeric(b[[ic + ii-1]])[-1]

@@ -12,7 +12,6 @@ eco <- function(cas, mout, foodout) {
     receptors <- merge(receptors, rectype, by = "ecorecid")
 
     eco_const$modelcode <- tolower(eco_const$modelcode)
-    print(unique(eco_const$modelcode))
 
     append.results <- function(df, ecorecid, intpath, hbid, routeid,
                                cprey, dosepath, risk) {

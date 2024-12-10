@@ -1,6 +1,7 @@
 runsource <- function(parameters, fate_constant, chemical_constant,
                       data_dict, tbl_model_parm, parm_dim_sum,
                       srctype, linertypeid, pnum) {
+
 #    require("odbc")
 #    require("DBI")
     options(scipen = 999) # turn off scientific notation
@@ -168,7 +169,6 @@ runsource <- function(parameters, fate_constant, chemical_constant,
 #    system("cp ./SOURCE_RESULTS/SourceOutput0.mdb ./SOURCE_RESULTS/SourceOutput.mdb")
 
     dfsource <- readgrf(srctype)
-
     return(dfsource)
 }
 
