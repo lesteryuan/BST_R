@@ -11,7 +11,7 @@ getinputs <- function(chemdb) {
     # choose from 13880 (wet), 94018 (dry), and 94846 (temperate)
     # 1: crop, 2:pasture, 3:reclamation
     require(stringr)
-    flink <- file("./data/input choices.csv", open = "r")
+    flink <- file("./input choices.csv", open = "r")
     x <- readLines(flink)
     close(flink)
     b <- str_split(x, ",")
