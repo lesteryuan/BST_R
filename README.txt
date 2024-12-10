@@ -8,4 +8,5 @@ Running BST_R:
 	linertypeid: 0, 1, 2
 2. Launch R.
 3. source the script "main.R"
+4. Model outputs are stored in "output"
 
