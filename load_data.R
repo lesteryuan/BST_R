@@ -57,11 +57,6 @@ load_source_parameters <- function() {
     fate_constant <- fnames.un(fate_constant)
     fate_constant$modelcode <- tolower(fate_constant$modelcode)
 
-    chemical_constant <- read.csv(paste(datapath, "chemical_constant.csv",
-                                        sep = "/"))
-    chemical_constant <- fnames.un(chemical_constant)
-    chemical_constant$modelcode <- tolower(chemical_constant$modelcode)
-    df_chemical_constant <- make_df(chemical_constant, "cas")
 
     data_dict <- read.csv(paste(datapath, "tbl_data_dictionary_crosstab.csv",
                                 sep = "/"), strip.white = T)
@@ -125,7 +120,6 @@ load_source_parameters <- function() {
 
     dat <- list(parameters = parameters,
                 fate_constant = fate_constant,
-                chemical_constant = chemical_constant,
                 data_dict = data_dict,
                 tbl_model_parm = tbl_model_parm,
                 parm_dim_sum = parm_dim_sum,
@@ -133,4 +127,16 @@ load_source_parameters <- function() {
     return(dat)
 }
 
+loadchem <- function(fchem, feco) {
+    datapath <- paste(getwd(), "data", sep = "/")
+    chemical_constant <- read.csv(paste(datapath, fchem, sep = "/"))
+    chemical_constant <- fnames.un(chemical_constant)
+    chemical_constant$modelcode <- tolower(chemical_constant$modelcode)
+#    df_chemical_constant <- make_df(chemical_constant, "cas")
 
+    eco_const <- read.csv(paste(datapath, feco, sep = "/"))
+    eco_const <- fnames.un(eco_const)
+    eco_const$modelcode <- tolower(eco_const$modelcode)
+    return(list(chemical_constant = chemical_constant,
+                eco_const = eco_const))
+}

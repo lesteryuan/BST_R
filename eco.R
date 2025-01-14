@@ -1,25 +1,25 @@
 ## run eco receptors
-eco <- function(cas, mout, foodout) {
+eco <- function(cas, mout, foodout, eco_const) {
     tssmax <- apply(mout[["ctss"]], 2, max, na.rm = T)
     foodmax <- sapply(foodout, max, na.rm = T)
 
-    eco_const <- read.csv("./data/ecological_constant.csv")
     receptors <- read.csv("./data/tbl_ecoreceptors.csv")
     rectype <- read.csv("./data/tbl_ecoreceptortype.csv")
-    eco_const <- fnames.un(eco_const)
+
     receptors <- fnames.un(receptors)
     rectype <- fnames.un(rectype)
     receptors <- merge(receptors, rectype, by = "ecorecid")
 
-    eco_const$modelcode <- tolower(eco_const$modelcode)
-
     append.results <- function(df, ecorecid, intpath, hbid, routeid,
                                cprey, dosepath, risk) {
+
         dftemp <- data.frame(ecorecid, intpath, hbid, routeid, cprey, dosepath,
                              risk)
         incvec <- dftemp$risk >0
         incvec[is.na(incvec)] <- FALSE
-        df <- rbind(dftemp[incvec,], df)
+        if (sum(incvec) > 0) {
+            df <- rbind(dftemp[incvec,], df)
+        }
         return(df)
     }
     ## initialize dataframe for storing resulst
@@ -72,6 +72,7 @@ eco <- function(cas, mout, foodout) {
 
         ## run risk model if there's enough parameter info
         if (rectype == "D" & ecop["bmd"] > 0) {
+
             orgtype <- c("worms", "soilinvert", "smmammals", "herbvert",
                          "omnvert", "smbirds", "smherp")
             baf <- ecop[paste("baf_", orgtype, sep = "")]
@@ -99,80 +100,101 @@ eco <- function(cas, mout, foodout) {
                                          pathway[selvec], rechq[selvec])
 
             dosediet <- sum(pathway, na.rm = T)
+
             ecoriskout <- append.results(ecoriskout,irec,
                                          pathname[24], "EC", 2, 0, dosediet,
                                          dosediet/ecop["bmd"])
+            dosemedia <- NA
             if (ecop["crfrac_sed"] > 0) {
                 dosemedia <- crdiet*mout[["vvwm_mn"]][["5"]]["cwbstotann"]*
                     ecop["crfrac_sed"]/ecop["bw"]
                 ecoriskout <- append.results(ecoriskout, irec, pathname[18], "EC", 2,
                                             mout[["vvwm_mn"]][["5"]]["cwbstotann"],
-                                            dosemedia, dosemedia/ecop["bmd"])
+                                             dosemedia, dosemedia/ecop["bmd"])
+
             }
             if (ecop["crfrac_soil"] >0) {
                 dosemedia <- crdiet*tssmax[1]*ecop["crfrac_soil"]/ecop["bw"]
                 ecoriskout <- append.results(ecoriskout,irec, pathname[17], "EC", 2,
                                              tssmax[1], dosemedia, dosemedia/ecop["bmd"])
             }
-            dosewater <- crwater*mout[["vvwm_mn"]][["5"]]["cwctotann"]/ecop["bw"]
-            ecoriskout <- append.results(ecoriskout, irec, pathname[19], "EC", 2,
-                                         mout[["vvwm_mn"]][["5"]]["cwctotann"],
-                                         dosewater, dosewater/ecop["bmd"])
+
+            dowater <- ecop["bw"] >0
+            dowater[is.na(dowater)] <- F
+            if (dowater) {
+                dosewater <- crwater*mout[["vvwm_mn"]][["5"]]["cwctotann"]/ecop["bw"]
+                ecoriskout <- append.results(ecoriskout, irec, pathname[19], "EC", 2,
+                                             mout[["vvwm_mn"]][["5"]]["cwctotann"],
+                                             dosewater, dosewater/ecop["bmd"])
+            }
+            else dosewater <- 0
+
             dosetotal <- dosediet + dosemedia + dosewater
-            ecoriskout <- append.results(ecoriskout, irec, pathname[23], "EC", 2,
-                                         0, dosetotal, dosetotal/ecop["bmd"])
+            if (!is.na(ecop["bmd"])) {
+                if (ecop["bmd"] >0) {
+                    ecoriskout <- append.results(ecoriskout, irec, pathname[23], "EC", 2,
+                                                 0, dosetotal, dosetotal/ecop["bmd"])
+                }
+            }
+
         }
         else {
             if (rectype == "C" & ((ecop["bmc_water"] > 0&ecop["ed_eco"] > 0) |
-                                  (ecop["bmc_sed"] > 0|ecop["bmc_soil"] > 0))) {
-                if (ecop["bmc_soil"] > 0) {
+                                      (ecop["bmc_sed"] > 0|ecop["bmc_soil"] > 0))) {
+                bmc_soil <- ecop["bmc_soil"] > 0
+                bmc_soil[is.na(bmc_soil)] <- F
+                if (bmc_soil) {
                     rechq <- tssmax[1]/ecop["bmc_soil"]
                     ecoriskout <- append.results(ecoriskout,irec,
                                                  pathname[17], "EC", 1, 0,tssmax[1],
                                                  rechq)
                 }
-                if (ecop["bmc_sed"] > 0) {
-                    rechq <- mout[["vvmn_mn"]][["5"]]["cwbstotann"]/
+                bmc_sed <- ecop["bmc_sed"] > 0
+                bmc_sed[is.na(bmc_sed)] <- F
+                if (bmc_sed) {
+                    rechq <- mout[["vvwm_mn"]][["5"]]["cwbstotann"]/
                         ecop["bmc_sed"]
                     ecoriskout <- append.results(ecoriskout, irec,
                                                 pathname[18], "EC", 1, 0,
-                                                mout[["vvmn_mn"]][["5"]]["cwbstotann"],rechq)
+                                                mout[["vvwm_mn"]][["5"]]["cwbstotann"],rechq)
                 }
                 cmax <- mout[["vvwm_max"]][["5"]]
                 if (ecop["bmc_water"] > 0) {
-                    if (ecop["ed_eco"] <= 1) tempc <- cmax["cwctotmx1"]
-                    else {
-                        if (ecop["ed_eco"] <= 4) tempc <- cmax["cwctotmax4"]
+                    if (!is.na(ecop["ed_eco"])) {
+                        if (ecop["ed_eco"] <= 1) tempc <- cmax["cwctotmx1"]
                         else {
-                            if (ecop["ed_eco"] <= 21) tempc <- cmax["cwctotmx21"]
+                            if (ecop["ed_eco"] <= 4) tempc <- cmax["cwctotmax4"]
                             else {
-                                tempc <- mout[["vvwm_mn"]][["5"]]["cwctotann"]
+                                if (ecop["ed_eco"] <= 21) tempc <- cmax["cwctotmx21"]
+                                else {
+                                    tempc <- mout[["vvwm_mn"]][["5"]]["cwctotann"]
+                                }
                             }
                         }
-                    }
-                    rechq <- tempc/ecop["bmc_water"]
-                    if (rechq >= 1) {
-                        ## do short term exceedances
-                    }
-                    else exceed <- 0
-                    ecoriskout <- append.results(ecoriskout, irec, pathname[19], "EC",
-                                                 1, tempc, exceed, rechq)
-                    if (ecop["ed_eco"] <= 1) tempc <- cmax["cwcdmx1"]
-                    else {
-                        if (ecop["ed_eco"] <= 4) tempc <- cmax["cwcdmx4"]
+                        rechq <- tempc/ecop["bmc_water"]
+                        if (rechq >= 1) {
+                            ## do short term exceedances
+                        }
+                        else exceed <- 0
+                        ecoriskout <- append.results(ecoriskout, irec, pathname[19], "EC",
+                                                     1, tempc, exceed, rechq)
+                        if (ecop["ed_eco"] <= 1) tempc <- cmax["cwcdmx1"]
                         else {
-                            if (ecop["ed_eco"] <= 21) tempc <- cmax["cwcdmx21"]
+                            if (ecop["ed_eco"] <= 4) tempc <- cmax["cwcdmx4"]
                             else {
-                                tempc <- mout[["vvwm_mn"]][["5"]]["cwcdann"]
+                                if (ecop["ed_eco"] <= 21) tempc <- cmax["cwcdmx21"]
+                                else {
+                                    tempc <- mout[["vvwm_mn"]][["5"]]["cwcdann"]
+                                }
                             }
                         }
+                        rechq <- tempc/ecop["bmc_water"]
+                        if (rechq >= 1) {
+                            ## do short term exceedances
+                        }
+                        else exceed <- 0
+                        ## strange. Dissolved concentrations are used.
                     }
-                    rechq <- tempc/ecop["bmc_water"]
-                    if (rechq >= 1) {
-                        ## do short term exceedances
-                    }
-                    else exceed <- 0
-                    ## strange. Dissolvec concentrations are used.
                 }
             }
         }

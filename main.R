@@ -16,7 +16,15 @@ main <- function() {
     source("shower.r")
 
     ## load data files
-    dat <- load_source_parameters()
+    ## original chemical and eco files
+#    dat <- c(load_source_parameters(),
+#             loadchem(fchem = "chemical_constant.csv",
+#                      feco = "ecological_constant.csv"))
+    ## Paul's new files
+    dat <- c(load_source_parameters(),
+             loadchem(fchem = "chem_const_imp.csv",
+                      feco = "eco_const_imp.csv"))
+
     save(dat, file = "dat.rda")
 
     ## load and check input parameters
@@ -101,7 +109,8 @@ main <- function() {
         else {
             foodout <- food(parm[[1]], pnum, mout, srctypeid.loc)
             riskout[[ii]] <- risk(mout,foodout, pnum, parm[[1]]["chemtype"])
-            ecoout[[ii]] <- eco(grps$cas[ii], mout, foodout)
+            ecoout[[ii]] <- eco(grps$cas[ii], mout, foodout,
+                                dat$eco_const)
         }
     }
     return(list(riskout, ecoout, grps))
